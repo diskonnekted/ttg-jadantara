@@ -51,53 +51,53 @@ require_once __DIR__ . '/includes/header.php';
         
         <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-8">
             <div>
-                <h1 class="text-2xl font-bold text-gray-800">Ringkasan</h1>
-                <p class="text-gray-500">Statistik dan aktivitas terbaru website.</p>
+                <h1 class="text-2xl font-bold text-black-forest">Ringkasan</h1>
+                <p class="text-black-forest/60">Statistik dan aktivitas terbaru website.</p>
             </div>
-            <a href="create.php" class="bg-primary hover:bg-green-600 text-white px-5 py-2.5 rounded-xl shadow-lg shadow-green-200 transition flex items-center justify-center gap-2 font-medium">
+            <a href="create.php" class="bg-primary hover:bg-black-forest text-white px-5 py-2.5 rounded-xl shadow-lg shadow-olive-leaf/20 transition flex items-center justify-center gap-2 font-medium">
                 <i class="fas fa-pen"></i> Tulis Tutorial
             </a>
         </div>
 
         <?php if (isset($_GET['msg']) && $_GET['msg'] == 'deleted'): ?>
-            <div x-data="{ show: true }" x-show="show" class="bg-green-100 border border-green-200 text-green-800 px-4 py-3 rounded-xl mb-6 flex items-center justify-between">
+            <div x-data="{ show: true }" x-show="show" class="bg-olive-leaf/10 border border-olive-leaf/20 text-olive-leaf px-4 py-3 rounded-xl mb-6 flex items-center justify-between">
                 <span><i class="fas fa-check-circle mr-2"></i> Tutorial berhasil dihapus.</span>
-                <button @click="show = false" class="text-green-600 hover:text-green-800"><i class="fas fa-times"></i></button>
+                <button @click="show = false" class="text-olive-leaf hover:text-black-forest"><i class="fas fa-times"></i></button>
             </div>
         <?php endif; ?>
 
         <!-- Stats Grid -->
         <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-10">
-            <div class="bg-white p-5 rounded-2xl shadow-sm border border-gray-100 flex flex-col">
-                <div class="text-gray-500 text-sm font-medium mb-1">Total Tutorial</div>
-                <div class="text-3xl font-bold text-gray-800"><?php echo $stats['tutorials']; ?></div>
-                <div class="mt-auto pt-2 text-xs text-green-600 font-medium">+ Updated</div>
+            <div class="bg-white p-5 rounded-2xl shadow-sm border border-olive-leaf/10 flex flex-col">
+                <div class="text-black-forest/60 text-sm font-medium mb-1">Total Tutorial</div>
+                <div class="text-3xl font-bold text-black-forest"><?php echo $stats['tutorials']; ?></div>
+                <div class="mt-auto pt-2 text-xs text-olive-leaf font-medium">+ Updated</div>
             </div>
-            <div class="bg-white p-5 rounded-2xl shadow-sm border border-gray-100 flex flex-col">
-                <div class="text-gray-500 text-sm font-medium mb-1">Kategori</div>
-                <div class="text-3xl font-bold text-gray-800"><?php echo $stats['categories']; ?></div>
-                <div class="mt-auto pt-2 text-xs text-gray-400 font-medium">Aktif</div>
+            <div class="bg-white p-5 rounded-2xl shadow-sm border border-olive-leaf/10 flex flex-col">
+                <div class="text-black-forest/60 text-sm font-medium mb-1">Kategori</div>
+                <div class="text-3xl font-bold text-black-forest"><?php echo $stats['categories']; ?></div>
+                <div class="mt-auto pt-2 text-xs text-black-forest/40 font-medium">Aktif</div>
             </div>
-            <div class="bg-white p-5 rounded-2xl shadow-sm border border-gray-100 flex flex-col">
-                <div class="text-gray-500 text-sm font-medium mb-1">Total Pengunjung</div>
-                <div class="text-3xl font-bold text-gray-800"><?php echo number_format($stats['views']); ?></div>
-                <div class="mt-auto pt-2 text-xs text-green-600 font-medium"><i class="fas fa-arrow-up"></i> 12% bulan ini</div>
+            <div class="bg-white p-5 rounded-2xl shadow-sm border border-olive-leaf/10 flex flex-col">
+                <div class="text-black-forest/60 text-sm font-medium mb-1">Total Pengunjung</div>
+                <div class="text-3xl font-bold text-black-forest"><?php echo number_format($stats['views']); ?></div>
+                <div class="mt-auto pt-2 text-xs text-olive-leaf font-medium"><i class="fas fa-arrow-up"></i> 12% bulan ini</div>
             </div>
-            <div class="bg-white p-5 rounded-2xl shadow-sm border border-gray-100 flex flex-col">
-                <div class="text-gray-500 text-sm font-medium mb-1">Admin</div>
-                <div class="text-3xl font-bold text-gray-800"><?php echo $stats['users']; ?></div>
-                <div class="mt-auto pt-2 text-xs text-gray-400 font-medium">Terdaftar</div>
+            <div class="bg-white p-5 rounded-2xl shadow-sm border border-olive-leaf/10 flex flex-col">
+                <div class="text-black-forest/60 text-sm font-medium mb-1">Admin</div>
+                <div class="text-3xl font-bold text-black-forest"><?php echo $stats['users']; ?></div>
+                <div class="mt-auto pt-2 text-xs text-black-forest/40 font-medium">Terdaftar</div>
             </div>
         </div>
 
         <!-- Content Table -->
-        <div class="bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden">
-            <div class="p-6 border-b border-gray-100 flex flex-col md:flex-row md:items-center justify-between gap-4">
-                <h2 class="font-bold text-lg text-gray-800">Daftar Konten</h2>
+        <div class="bg-white rounded-2xl shadow-sm border border-olive-leaf/10 overflow-hidden">
+            <div class="p-6 border-b border-olive-leaf/10 flex flex-col md:flex-row md:items-center justify-between gap-4">
+                <h2 class="font-bold text-lg text-black-forest">Daftar Konten</h2>
                 
                 <form method="GET" class="relative w-full md:w-64">
                     <input type="text" name="q" value="<?php echo htmlspecialchars($search); ?>" placeholder="Cari tutorial..." 
-                           class="w-full pl-10 pr-4 py-2 bg-gray-50 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-primary/50 transition">
+                           class="w-full pl-10 pr-4 py-2 bg-cornsilk/50 border border-olive-leaf/20 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-primary/50 transition">
                     <i class="fas fa-search absolute left-3.5 top-2.5 text-gray-400 text-xs"></i>
                 </form>
             </div>

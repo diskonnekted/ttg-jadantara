@@ -3,7 +3,24 @@
 @source "../includes/**/*.php";
 
 @theme {
-  --color-primary: #10B981;
-  --color-secondary: #3B82F6;
+  /* Custom Color Palette */
+  --color-olive-leaf: #606c38;
+  --color-black-forest: #283618;
+  --color-cornsilk: #fefae0;
+  --color-sunlit-clay: #dda15e;
+  --color-copperwood: #bc6c25;
+
+  /* Semantic Mapping */
+  --color-primary: var(--color-olive-leaf);
+  --color-secondary: var(--color-sunlit-clay);
+  --color-accent: var(--color-copperwood);
+  
   --font-sans: Inter, sans-serif;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-cornsilk);
+    color: var(--color-black-forest);
+  }
 }

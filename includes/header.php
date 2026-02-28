@@ -37,10 +37,10 @@
         }
     </style>
 </head>
-<body class="bg-gray-50 text-gray-800 antialiased pb-20"> <!-- pb-20 for bottom nav -->
+<body class="antialiased pb-20"> <!-- pb-20 for bottom nav -->
 
 <!-- Top Navigation -->
-<nav class="bg-white shadow-sm sticky top-0 z-50">
+<nav class="bg-cornsilk shadow-sm sticky top-0 z-50">
     <div class="max-w-md mx-auto px-4 py-3 flex justify-between items-center">
         <a href="<?php echo BASE_URL; ?>/index.php" class="text-xl font-bold text-primary flex items-center gap-2">
             <i class="fas fa-leaf"></i> TTG Pondokrejo

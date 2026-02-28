@@ -65,8 +65,8 @@ require_once __DIR__ . '/includes/header.php';
 
 <div class="max-w-4xl mx-auto">
     <div class="flex items-center justify-between mb-8">
-        <h1 class="text-2xl font-bold text-gray-800">Kelola Kategori</h1>
-        <button onclick="document.getElementById('createModal').showModal()" class="bg-primary hover:bg-green-600 text-white px-4 py-2 rounded-lg shadow-sm transition">
+        <h1 class="text-2xl font-bold text-black-forest">Kelola Kategori</h1>
+        <button onclick="document.getElementById('createModal').showModal()" class="bg-primary hover:bg-black-forest text-white px-4 py-2 rounded-lg shadow-sm transition">
             <i class="fas fa-plus mr-2"></i> Tambah
         </button>
     </div>
@@ -75,13 +75,13 @@ require_once __DIR__ . '/includes/header.php';
         <div class="bg-red-100 text-red-700 p-4 rounded mb-6"><?php echo $error; ?></div>
     <?php endif; ?>
     <?php if ($success): ?>
-        <div class="bg-green-100 text-green-700 p-4 rounded mb-6"><?php echo $success; ?></div>
+        <div class="bg-olive-leaf/10 text-olive-leaf p-4 rounded mb-6"><?php echo $success; ?></div>
     <?php endif; ?>
 
     <div class="bg-white rounded-xl shadow-sm overflow-hidden">
         <table class="w-full text-left">
             <thead>
-                <tr class="bg-gray-50 text-gray-600 text-sm uppercase">
+                <tr class="bg-olive-leaf/5 text-black-forest/70 text-sm uppercase">
                     <th class="p-4">Icon</th>
                     <th class="p-4">Nama Kategori</th>
                     <th class="p-4 text-right">Aksi</th>
@@ -89,7 +89,7 @@ require_once __DIR__ . '/includes/header.php';
             </thead>
             <tbody class="divide-y divide-gray-100">
                 <?php foreach($categories as $cat): ?>
-                <tr class="hover:bg-gray-50 transition" x-data="{ editing: false, name: '<?php echo $cat['name']; ?>', icon: '<?php echo $cat['icon_class']; ?>' }">
+                <tr class="hover:bg-olive-leaf/5 transition" x-data="{ editing: false, name: '<?php echo $cat['name']; ?>', icon: '<?php echo $cat['icon_class']; ?>' }">
                     <!-- View Mode -->
                     <td class="p-4 w-16 text-center" x-show="!editing">
                         <i class="<?php echo $cat['icon_class']; ?> text-primary text-xl"></i>
@@ -98,7 +98,7 @@ require_once __DIR__ . '/includes/header.php';
                         <?php echo $cat['name']; ?>
                     </td>
                     <td class="p-4 text-right space-x-2" x-show="!editing">
-                        <button @click="editing = true" class="text-yellow-500 hover:text-yellow-700">
+                        <button @click="editing = true" class="text-sunlit-clay hover:text-copperwood">
                             <i class="fas fa-edit"></i>
                         </button>
                         <a href="?delete=<?php echo $cat['id']; ?>" onclick="return confirm('Hapus kategori ini?')" class="text-red-500 hover:text-red-700">
@@ -113,7 +113,7 @@ require_once __DIR__ . '/includes/header.php';
                             <input type="hidden" name="id" value="<?php echo $cat['id']; ?>">
                             <input type="text" name="icon" x-model="icon" class="border rounded p-2 w-1/3" placeholder="Icon Class (fa-...)">
                             <input type="text" name="name" x-model="name" class="border rounded p-2 w-full" placeholder="Nama Kategori">
-                            <button type="submit" class="bg-green-500 text-white p-2 rounded"><i class="fas fa-save"></i></button>
+                            <button type="submit" class="bg-olive-leaf text-white p-2 rounded"><i class="fas fa-save"></i></button>
                             <button type="button" @click="editing = false" class="bg-gray-300 text-gray-700 p-2 rounded"><i class="fas fa-times"></i></button>
                         </form>
                     </td>

@@ -11,7 +11,7 @@
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
     <style>body { font-family: 'Inter', sans-serif; }</style>
 </head>
-<body class="bg-gray-50 text-gray-800 font-sans antialiased">
+<body class="bg-cornsilk text-black-forest font-sans antialiased">
 
 <div class="flex h-screen overflow-hidden" x-data="{ sidebarOpen: false }">
 
@@ -19,10 +19,10 @@
     <div class="fixed inset-0 bg-black/50 z-40 lg:hidden" x-show="sidebarOpen" @click="sidebarOpen = false" x-transition.opacity style="display: none;"></div>
 
     <!-- Sidebar -->
-    <aside class="fixed inset-y-0 left-0 bg-white shadow-xl w-64 transform transition-transform duration-300 z-50 lg:translate-x-0 lg:static lg:shadow-none border-r border-gray-200 flex flex-col h-full"
+    <aside class="fixed inset-y-0 left-0 bg-white shadow-xl w-64 transform transition-transform duration-300 z-50 lg:translate-x-0 lg:static lg:shadow-none border-r border-olive-leaf/10 flex flex-col h-full"
            :class="sidebarOpen ? 'translate-x-0' : '-translate-x-full'">
         
-        <div class="p-6 flex items-center justify-between border-b border-gray-100 flex-shrink-0">
+        <div class="p-6 flex items-center justify-between border-b border-olive-leaf/10 flex-shrink-0">
             <a href="<?php echo BASE_URL; ?>/index.php" class="text-xl font-bold text-primary flex items-center gap-2">
                 <i class="fas fa-leaf"></i> Admin Panel
             </a>
@@ -32,34 +32,34 @@
         </div>
 
         <nav class="flex-1 p-4 space-y-2 overflow-y-auto">
-            <a href="index.php" class="flex items-center gap-3 px-4 py-3 <?php echo (basename($_SERVER['PHP_SELF']) == 'index.php') ? 'bg-green-50 text-primary' : 'text-gray-600 hover:bg-gray-50 hover:text-gray-900'; ?> rounded-xl font-medium transition">
+            <a href="index.php" class="flex items-center gap-3 px-4 py-3 <?php echo (basename($_SERVER['PHP_SELF']) == 'index.php') ? 'bg-olive-leaf/10 text-primary' : 'text-black-forest/70 hover:bg-olive-leaf/5 hover:text-black-forest'; ?> rounded-xl font-medium transition">
                 <i class="fas fa-th-large w-5"></i> Dashboard
             </a>
-            <a href="create.php" class="flex items-center gap-3 px-4 py-3 <?php echo (basename($_SERVER['PHP_SELF']) == 'create.php') ? 'bg-green-50 text-primary' : 'text-gray-600 hover:bg-gray-50 hover:text-gray-900'; ?> rounded-xl font-medium transition">
+            <a href="create.php" class="flex items-center gap-3 px-4 py-3 <?php echo (basename($_SERVER['PHP_SELF']) == 'create.php') ? 'bg-olive-leaf/10 text-primary' : 'text-black-forest/70 hover:bg-olive-leaf/5 hover:text-black-forest'; ?> rounded-xl font-medium transition">
                 <i class="fas fa-plus-circle w-5"></i> Buat Tutorial
             </a>
-            <a href="categories.php" class="flex items-center gap-3 px-4 py-3 <?php echo (basename($_SERVER['PHP_SELF']) == 'categories.php') ? 'bg-green-50 text-primary' : 'text-gray-600 hover:bg-gray-50 hover:text-gray-900'; ?> rounded-xl font-medium transition">
+            <a href="categories.php" class="flex items-center gap-3 px-4 py-3 <?php echo (basename($_SERVER['PHP_SELF']) == 'categories.php') ? 'bg-olive-leaf/10 text-primary' : 'text-black-forest/70 hover:bg-olive-leaf/5 hover:text-black-forest'; ?> rounded-xl font-medium transition">
                 <i class="fas fa-tags w-5"></i> Kategori
             </a>
-            <div class="pt-4 mt-4 border-t border-gray-100">
+            <div class="pt-4 mt-4 border-t border-olive-leaf/10">
                 <p class="px-4 text-xs font-bold text-gray-400 uppercase mb-2">Sistem</p>
-                <a href="<?php echo BASE_URL; ?>/index.php" class="flex items-center gap-3 px-4 py-3 text-gray-600 hover:bg-gray-50 hover:text-gray-900 rounded-xl font-medium transition">
+                <a href="<?php echo BASE_URL; ?>/index.php" class="flex items-center gap-3 px-4 py-3 text-black-forest/70 hover:bg-olive-leaf/5 hover:text-black-forest rounded-xl font-medium transition">
                     <i class="fas fa-globe w-5"></i> Lihat Website
                 </a>
-                <a href="logout.php" class="flex items-center gap-3 px-4 py-3 text-red-500 hover:bg-red-50 rounded-xl font-medium transition">
+                <a href="logout.php" class="flex items-center gap-3 px-4 py-3 text-copperwood hover:bg-red-50 rounded-xl font-medium transition">
                     <i class="fas fa-sign-out-alt w-5"></i> Logout
                 </a>
             </div>
         </nav>
 
-        <div class="p-4 border-t border-gray-100 flex-shrink-0">
+        <div class="p-4 border-t border-olive-leaf/10 flex-shrink-0">
             <div class="flex items-center gap-3 px-4">
                 <div class="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-primary font-bold">
                     <?php echo strtoupper(substr($_SESSION['username'] ?? 'A', 0, 1)); ?>
                 </div>
                 <div>
-                    <p class="text-sm font-bold text-gray-800"><?php echo $_SESSION['username'] ?? 'Admin'; ?></p>
-                    <p class="text-xs text-gray-500">Administrator</p>
+                    <p class="text-sm font-bold text-black-forest"><?php echo $_SESSION['username'] ?? 'Admin'; ?></p>
+                    <p class="text-xs text-black-forest/60">Administrator</p>
                 </div>
             </div>
         </div>
@@ -70,10 +70,10 @@
         
         <!-- Topbar (Mobile) -->
         <header class="bg-white shadow-sm p-4 flex items-center justify-between lg:hidden sticky top-0 z-30 flex-shrink-0">
-            <button @click="sidebarOpen = true" class="text-gray-600 focus:outline-none">
+            <button @click="sidebarOpen = true" class="text-black-forest focus:outline-none">
                 <i class="fas fa-bars text-xl"></i>
             </button>
-            <span class="font-bold text-gray-800">Dashboard</span>
+            <span class="font-bold text-black-forest">Dashboard</span>
             <div class="w-6"></div> <!-- Spacer -->
         </header>
 
