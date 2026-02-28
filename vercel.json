@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "public/index.php",
+      "use": "vercel-php"
+    },
+    {
+      "src": "public/admin/*.php",
+      "use": "vercel-php"
+    },
+    {
+        "src": "public/**/*.php",
+        "use": "vercel-php"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/assets/(.*)",
+      "dest": "/public/assets/$1"
+    },
+    {
+      "src": "/uploads/(.*)",
+      "dest": "/public/uploads/$1"
+    },
+    {
+      "src": "/admin/(.*)",
+      "dest": "/public/admin/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/public/index.php"
+    }
+  ],
+  "env": {
+    "SITE_NAME": "TTG Pondokrejo"
+  }
+}

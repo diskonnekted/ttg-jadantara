@@ -115,4 +115,34 @@ function formatDateIndo($date) {
     }
     return $formatted;
 }
+
+// Time Ago Function (e.g. "2 jam yang lalu")
+function timeAgo($timestamp) {
+    // If input is string, convert to timestamp
+    if (!is_numeric($timestamp)) {
+        $timestamp = strtotime($timestamp);
+    }
+    
+    $time_difference = time() - $timestamp;
+
+    if ($time_difference < 1) { return 'baru saja'; }
+
+    $condition = array( 
+        12 * 30 * 24 * 60 * 60 => 'tahun',
+        30 * 24 * 60 * 60      => 'bulan',
+        24 * 60 * 60           => 'hari',
+        60 * 60                => 'jam',
+        60                     => 'menit',
+        1                      => 'detik'
+    );
+
+    foreach ($condition as $secs => $str) {
+        $d = $time_difference / $secs;
+
+        if ($d >= 1) {
+            $t = round($d);
+            return $t . ' ' . $str . ' yang lalu';
+        }
+    }
+}
 ?>
