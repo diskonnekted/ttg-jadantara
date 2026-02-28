@@ -14,7 +14,7 @@ Platform tutorial digital "Teknologi Tepat Guna" untuk Kelurahan Pondokrejo, Sle
 ## Teknologi
 
 - **Backend**: PHP 8.2+ (Native)
-- **Database**: SQLite 3
+- **Database**: SQLite 3 (Lokal) / PostgreSQL (Vercel/Neon)
 - **Frontend**: Tailwind CSS v4
 - **Interactivity**: Alpine.js
 - **Icons**: FontAwesome & SVG
@@ -23,7 +23,7 @@ Platform tutorial digital "Teknologi Tepat Guna" untuk Kelurahan Pondokrejo, Sle
 
 ```
 /
-├── database/            # File database SQLite (ttg_pondokrejo.db)
+├── database/            # File database & skema
 ├── includes/            # Logic PHP reusable (koneksi DB, fungsi helper)
 ├── public/              # Web root (file yang dapat diakses publik)
 │   ├── admin/           # Halaman dashboard admin
@@ -55,16 +55,27 @@ Platform tutorial digital "Teknologi Tepat Guna" untuk Kelurahan Pondokrejo, Sle
     - Username Default: `admin`
     - Password Default: `admin123` (Disarankan segera diganti)
 
-## Deployment (Vercel)
+## Deployment (Vercel + PostgreSQL)
 
-Aplikasi ini sudah dikonfigurasi untuk deployment di Vercel menggunakan runtime `vercel-php`.
+Aplikasi ini mendukung **Vercel Postgres (Neon)** untuk database yang persisten.
 
-1.  Push kode ke repository GitHub.
-2.  Import project di dashboard Vercel.
-3.  Vercel akan otomatis mendeteksi konfigurasi `vercel.json` dan melakukan deploy.
+### Langkah 1: Setup Vercel
+1.  Push kode ke GitHub.
+2.  Import project ke Vercel.
+3.  Pada dashboard Vercel, masuk ke tab **Storage**.
+4.  Klik **Connect Store** -> **Create New** -> **Postgres**.
+5.  Terima default settings dan klik **Create**.
+6.  Setelah database dibuat, Vercel akan otomatis menambahkan Environment Variables (`POSTGRES_URL`, dll) ke project Anda.
 
-**Catatan Penting:**
-Karena Vercel menggunakan arsitektur serverless (ephemeral filesystem), perubahan data (tambah/edit tutorial) melalui admin panel **tidak akan tersimpan permanen** di database SQLite. Untuk penggunaan produksi dengan fitur admin aktif, disarankan menggunakan hosting PHP tradisional (cPanel/VPS) atau layanan database eksternal.
+### Langkah 2: Deploy & Install Database
+1.  Redeploy project Anda (jika diperlukan) agar Environment Variables terbaca.
+2.  Jalankan instalasi database dengan mengakses URL berikut di browser:
+    `https://nama-project-anda.vercel.app/install.php?secret=install123`
+3.  Jika sukses, Anda akan melihat pesan "Installation Complete".
+4.  **PENTING:** Setelah instalasi selesai, segera hapus file `public/install.php` atau ganti secret key di `includes/config.php` (melalui Environment Variable `MIGRATE_SECRET`) untuk keamanan.
+
+**Catatan:**
+Dengan menggunakan PostgreSQL, semua data (tutorial, kategori, user) akan tersimpan secara permanen dan aman, berbeda dengan SQLite di Vercel yang bersifat sementara.
 
 ## Lisensi
 
