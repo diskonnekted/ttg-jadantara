@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@source "../public/**/*.php";
+@source "../includes/**/*.php";
+
+@theme {
+  --color-primary: #10B981;
+  --color-secondary: #3B82F6;
+  --font-sans: Inter, sans-serif;
+}

@@ -1,0 +1,46 @@
+Security Note: Ensure the /database folder is NOT inside /public. Configure config.php to point to the correct relative path.
+Design System (UI/UX)
+Navigation: Use a Bottom Navigation Bar for mobile (Home, Categories, Saved, Profile).
+Typography: Use sans-serif fonts (Inter or Open Sans). Minimum body text size 16px for readability by elderly users.
+Colors:
+Primary: Green (representing agriculture/nature).
+Secondary: Blue (technology).
+Background: White/Light Gray for high contrast.
+Tutorial Layout:
+Step-by-step vertical flow.
+Each step must have a large number, title, description, and image.
+Include a "Mark as Complete" button for each step.
+Sticky "Table of Contents" on mobile (drawer style).
+Core Features
+Homepage: Search bar, Category Grid (Icons), Featured Tutorials.
+Tutorial View:
+Materials & Tools list (with local sourcing info, e.g., "Available at Toko Bangunan Jl. Magelang").
+Step-by-step instructions.
+WhatsApp Share Button: Floating button to share the tutorial link to WA groups.
+Data Saver Mode: Toggle to hide images if user is on low data.
+Admin Panel: Simple password-protected area to add/edit tutorials (Title, Steps, Images, Materials).
+PWA: Users should be able to "Install" the website on their home screen and access previously viewed tutorials offline.
+Database Schema (SQLite)
+Please use this schema structure:
+users (id, username, password_hash, role)
+categories (id, name, icon_class)
+tutorials (id, title, slug, description, difficulty, duration, category_id, author_id, created_at, view_count)
+steps (id, tutorial_id, step_number, title, content, image_path)
+materials (id, tutorial_id, name, quantity, local_source)
+Security Requirements
+Use Prepared Statements for all SQLite queries to prevent SQL Injection.
+Hash passwords using password_hash().
+Sanitize all user inputs.
+Protect the admin panel with session-based authentication.
+Prevent direct access to /includes folder.
+Deliverables
+Please generate the project structure and code for the following files:
+Outline the folder structure first.
+includes/config.php (Database connection & constants)
+includes/functions.php (Helper functions)
+public/index.php (Homepage with featured tutorials)
+public/tutorial.php (Single tutorial view with step-by-step logic)
+public/admin/login.php & public/admin/index.php (Admin logic)
+public/manifest.json (For PWA installation)
+public/sw.js (Service Worker for offline caching)
+Start by outlining the folder structure, then provide the code for each file step-by-step. Ensure the code is commented and easy for a beginner PHP developer to maintain.
