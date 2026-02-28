@@ -59,27 +59,13 @@ if (isset($_GET['delete'])) {
 
 $categories = getCategories($pdo);
 
+$pageTitle = "Kelola Kategori";
+require_once __DIR__ . '/includes/header.php';
 ?>
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kelola Kategori - <?php echo SITE_NAME; ?></title>
-    <link rel="stylesheet" href="<?php echo BASE_URL; ?>/assets/css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
-</head>
-<body class="bg-gray-50 text-gray-800 pb-20">
 
-<div class="max-w-4xl mx-auto p-6">
+<div class="max-w-4xl mx-auto">
     <div class="flex items-center justify-between mb-8">
-        <div class="flex items-center gap-4">
-            <a href="index.php" class="text-gray-500 hover:text-gray-700">
-                <i class="fas fa-arrow-left text-xl"></i>
-            </a>
-            <h1 class="text-2xl font-bold">Kelola Kategori</h1>
-        </div>
+        <h1 class="text-2xl font-bold text-gray-800">Kelola Kategori</h1>
         <button onclick="document.getElementById('createModal').showModal()" class="bg-primary hover:bg-green-600 text-white px-4 py-2 rounded-lg shadow-sm transition">
             <i class="fas fa-plus mr-2"></i> Tambah
         </button>
