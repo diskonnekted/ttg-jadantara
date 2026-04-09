@@ -94,11 +94,21 @@ require_once __DIR__ . '/../includes/header.php';
         </div>
 
         <?php if(!empty($tutorial['pdf_path'])): ?>
-        <a href="<?php echo BASE_URL . $tutorial['pdf_path']; ?>" target="_blank" class="flex items-center gap-3 bg-red-50 border border-red-100 p-4 rounded-xl mt-6 hover:bg-red-100 transition">
-            <div class="w-10 h-10 bg-red-100 rounded-lg flex items-center justify-center text-red-500"><i class="fas fa-file-pdf text-xl"></i></div>
-            <div class="flex-1"><h4 class="font-bold text-gray-800 text-sm">Download PDF</h4><p class="text-xs text-gray-500">Simpan untuk dibaca offline</p></div>
-            <i class="fas fa-download text-gray-400"></i>
-        </a>
+        <div class="mt-8 mb-6 bg-gray-50 border border-gray-200 rounded-xl p-4">
+            <div class="flex items-center gap-3">
+                <div class="w-10 h-10 bg-red-100 rounded-lg flex items-center justify-center text-red-600 flex-shrink-0">
+                    <i class="fas fa-file-pdf text-lg"></i>
+                </div>
+                <div class="flex-1 min-w-0">
+                    <h4 class="font-semibold text-gray-900 text-sm">Download Artikel PDF</h4>
+                    <p class="text-xs text-gray-500">Simpan untuk dibaca offline</p>
+                </div>
+                <a href="<?php echo BASE_URL . $tutorial['pdf_path']; ?>" target="_blank" class="bg-primary hover:bg-primary-dark text-white px-4 py-2 rounded-lg text-sm font-semibold transition flex items-center gap-2 flex-shrink-0 shadow-sm">
+                    <i class="fas fa-download"></i>
+                    <span>Download</span>
+                </a>
+            </div>
+        </div>
         <?php endif; ?>
 
         <div class="flex gap-3 mt-8">
