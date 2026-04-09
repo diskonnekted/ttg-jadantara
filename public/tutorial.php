@@ -29,8 +29,10 @@ require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <style>
-    .article-text, .article-text * { font-weight: 400 !important; font-variant-numeric: normal; }
-    .article-text h1, .article-text h2, .article-text h3, .article-text h4 { font-weight: 700 !important; }
+    .article-content p, .article-content span, .article-content div { font-weight: 400 !important; }
+    .article-content h2 { font-weight: 700 !important; }
+    /* Remove any bold tags from raw content */
+    b, strong { font-weight: 400 !important; }
 </style>
 
 <div class="pb-20">

@@ -56,15 +56,44 @@ function cleanContent($content) {
 function renderContent($content) {
     $content = cleanContent($content);
     if (!$content) return '';
+
+    // 1. Remove all existing HTML tags to start fresh (prevents broken tags like <li> without <ul>)
+    // We keep line breaks to preserve structure
+    $content = strip_tags($content, '<br>');
     
-    $paragraphs = preg_split('/\n\s*\n/', $content);
-    $html = '<div class="article-text font-normal text-gray-700 text-sm leading-relaxed break-words">';
+    // 2. Fix broken line breaks
+    $content = str_replace(['<br>', '<br/>', '<br />'], "\n", $content);
+    
+    // 3. Remove markdown-like bolding if present (e.g. **text**)
+    $content = preg_replace('/\*\*(.*?)\*\*/', '$1', $content);
+    $content = str_replace(['**', '__'], '', $content);
+    
+    // 4. Split into paragraphs based on newlines
+    $paragraphs = preg_split('/\n\s*\n+/', $content);
+    
+    // If splitting by double newline doesn't work well, try single newlines for shorter lines
+    if (count($paragraphs) === 1 && strpos($content, "\n") !== false) {
+        $paragraphs = explode("\n", $content);
+    }
+
+    $html = '<div class="text-gray-700 text-sm leading-relaxed space-y-4">';
     
     foreach ($paragraphs as $p) {
         $p = trim($p);
         if ($p === '') continue;
+        
+        // Escape HTML for safety
         $escaped = htmlspecialchars($p, ENT_QUOTES, 'UTF-8');
-        $html .= '<p class="mb-4 font-normal normal-case">' . $escaped . '</p>';
+        
+        // Detect list items (starting with numbers like "1)", "2.", or dashes "-")
+        if (preg_match('/^[\d\-\*]+[\)\.]\s+(.*)$/i', $escaped, $matches)) {
+            $html .= '<div class="flex items-start gap-3 ml-2">
+                        <span class="text-primary font-bold mt-0.5 flex-shrink-0">•</span>
+                        <span>' . $matches[1] . '</span>
+                      </div>';
+        } else {
+            $html .= '<p class="mb-2">' . $escaped . '</p>';
+        }
     }
     
     $html .= '</div>';
