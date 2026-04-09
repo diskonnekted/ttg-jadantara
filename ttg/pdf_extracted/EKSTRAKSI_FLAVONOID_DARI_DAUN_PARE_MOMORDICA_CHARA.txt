@@ -1,0 +1,1472 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/307620550
+EKSTRAKSI FLAVONOID DARI DAUN PARE (MOMORDICA CHARANTIA L.)
+BERBANTU GELOMBANG MIKRO SEBAGAI PENURUN KADAR GLUKOSA SECARA
+IN VITRO
+Article  in  METANA · July 2014
+DOI: 10.14710/metana.v10i01.9771
+CITATIONS
+2
+READS
+1,307
+2 authors, including:
+Achmad Wildan
+sekolah tinggi ilmu farmasi, Indonesia, semarang
+2 PUBLICATIONS   4 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Achmad Wildan on 05 August 2019.
+The user has requested enhancement of the downloaded file.
+METANA, Vol. 10  No. 01, Juli 2014, Hal. 1-11 
+EKSTRAKSI FLAVONOID DARI DAUN PARE (MOMORDICA 
+CHARANTIA L.) BERBANTU GELOMBANG MIKRO SEBAGAI 
+PENURUN KADAR GLUKOSA SECARA IN VITRO 
+Erlita Verdia Mutiara1), Achmad Wildan1) 
+1)Sekolah Tinggi Ilmu Farmasi “Yayasan Pharmasi”  Semarang 
+Jl. Sarwo Edhie Wibowo Km.1 Plamongansari, Pucanggading, Semarang 
+Achmadwildan58@gmail.com 
+Abstract 
+One of the traditional medicinal plants are believed to be lowering glucose levels are pare 
+(Momordica charantia L.). Plants pare (Momordica charantia L.) is a plant that is familiar to the people of 
+Indonesia, because the fruit is often used as asvegetables. The pare leaf chemical constituents is alkaloids, 
+flavonoids, saponins, and tannins that can be used as an antioxidant, antimicrobial, antidiabetic, antitumor, 
+and antilepra. The main advantage of microwave-assisted extraction compared to conventional extraction 
+using soxhlet namely greater efficiency and a shorter operating time. Microwave-assisted extraction will 
+provide the transfer rate is higher than the conventional extraction. 
+This study aims to determine the ability of a flavonoid extract of the leaves of pare (Momordica 
+charantia L.) in lowering glucose levels and maximum concentrations of the extract flavonoids that can 
+lower glucose levels as well as the variation of the variable microwave extraction for obtaining extracts 
+optimal results. The process of extracting flavonoids from the leaves of pare (Momordica charantia L.) is 
+done using a microwave extractor with frequency 2450 MHz with a maximum power of 900 watts. The 
+extract obtained was then reacted with glucose with Nellson-Somogyi method. Types of flavonoids that play a 
+role in lowering glucose levels were identified using a sliding reagent with UV-Vis spectrophotometer. 
+The results showed that the optimum conditions in the extraction process of flavonoids from the 
+leaves of bitter melon (Momordica charantia L.) by microwave-assisted was the 30 minute with a yield of 
+20.85%. The concentration of flavonoids extract can lower glucose levels are 160 ppm with a 50.38% 
+decrease. Flavonoid compounds that play a role in lowering glucose levels in the leaves of pare is 5,3 ', 4'-
+trihydroxy flavonols. 
+ 
+Keywords: extraction, microwaves, glucose, pare leaves, Nellson Somogyi 
+ 
+Abstrak 
+Salah satu tanaman obat tradisional yang dipercaya sebagai penurun kadar glukosa adalah pare 
+(Momordica charantiaL.). Tanaman pare (Momordica charantia L.) merupakan tanaman yang tidak asing 
+bagi masyarakat Indonesia, karena buahnya sering digunakan sebagai sayuran atau lalapan. Kandungan 
+kimia daun pare yaitu alkaloid, flavonoid, saponin, dan tanin yang dapat digunakan sebagai antioksidan, 
+antimikroba, antidiabetes, antitumor, dan antilepra.Keuntungan utama dari ekstraksi dengan bantuan 
+gelombang mikro dibandingkan dengan ekstraksi konvensional menggunakan sokhlet yaitu efisiensi lebih 
+besar dan waktu operasinya lebih singkat. Ekstraksi berbantu gelombang mikro akan memberikan laju 
+perpindahan masa yang lebih tinggi dibandingkan ekstraksi konvensional. 
+Penelitian ini bertujuan untuk mengetahui kemampuan dari ekstrak flavonoid dari daun pare 
+(Momordica charantia L.) dalam menurunkan kadar glukosa dan konsentrasi maksimal dari ekstrak 
+flavonoid yang dapat menurunkan kadar glukosa serta variasi dari variabel ekstraksi gelombang mikro 
+untuk memperoleh hasil ekstrak yang optimal. Proses ekstraksi flavonoid dari daun pare(Momordica 
+charantia L.) dilakukan menggunakan alat microwave ekstraktor dengan frekuensi 2450 Mhz dengan daya 
+maksimal 900 watt. Ekstrak yang diperoleh kemudian direksikan dengan glukosa dengan metode Nellson-
+Somogyi. Jenis flavonoid yang berperan dalam menurunkan kadar glukosa diidentifikasi menggunakan 
+pereaksi geser dengan spektrofotometer UV-Vis.  
+Hasil penelitian menunjukkan kondisi yang optimum dalam proses ekstraksi flavonoid dari daun pare 
+(Momordica charantia L.) dengan berbantu gelombang mikro adalah menit ke-30 dengan rendemen 20,85%. 
+Konsentrasi ekstrak flavonoid yang dapat menurunkan kadar glukosa adalah 160 ppm dengan penurunan 
+50,38%. 
+ 
+1 
+EKSTRAKSI FLAVONOID DARI DAUN PARE…. 
+ 
+    
+                 (Erlita dkk) 
+ 
+Senyawa flavonoid yang berperan dalam menurunkan kadar glukosa dalam daun pare adalah 5,3’,4’-
+trihidroksi flavonol. 
+ 
+Kata kunci : Ekstraksi, gelombang mikro,glukosa, daun pare, Nellson Somogyi 
+PENDAHULUAN 
+Diabetes mellitus adalah gangguan 
+metabolik yang ditandai oleh hilangnya 
+homeostasis glukosa akibat dari penurunan 
+fungsi sekresi insulin, kerja insulin atau 
+keduanya. Penurunan fungsi hormon insulin 
+ini mengakibatkan seluruh gula (glukosa) 
+yang dikonsumsi tubuh tidak dapat diproses 
+sempurna sehingga kadar glukosa di dalam 
+tubuh 
+akan 
+meningkat 
+yang 
+disebut 
+hiperglikemia (Basha dan Kumari, 2012 : 1). 
+Gejala awal diabetes mellitus dapat berupa 
+sering kencing (poliuri), sering minum 
+(polidipsi), dan sering makan (polifagi). 
+Apabila keadaan tersebut tidak diatasi dapat 
+menimbulkan 
+komplikasi 
+penyakit 
+berbahaya. (Hardiman, 2013). 
+Salah satu tanaman obat tradisional 
+yang dipercaya sebagai penurun kadar 
+glukosa 
+adalah 
+pare 
+(Momordica 
+charantiaL.). Menurut Leelaprakash, dkk. 
+(2011), kandungan kimia daun pare yaitu 
+alkaloid, flavonoid, saponin, dan tanin. 
+Penelitian yang dilakukan oleh Ahmad, dkk. 
+(2012) menyatakan bahwa isolat biji pare 
+dapat digunakan untuk menurunkan kadar 
+glukosa secara in vitro. Penelitian ini 
+menggunakan metode enzimatis. Prinsip 
+metode tersebut adalah menghambat aktivitas 
+enzim α-glukosidase sehingga polisakarida 
+tidak 
+diubah 
+menjadi 
+glukosa. 
+Hasil 
+penelitian diperoleh bahwa isolat biji pare 
+konsentrasi 2 mg/dL mampu menghambat 
+enzim α-glukosidase sebesar 79,18%. Selain 
+metode enzimatis, penurunan kadar glukosa 
+secara in vitro dapat menggunakan metode 
+Nellson-Somogyi. 
+Berdasarkan penelitian tersebut diatas, 
+penelitian ini mengacu pada penelitian 
+Ahmad, dkk. (2012), tetapi menggunakan 
+daun pare dengan metode Nellson-Somogyi. 
+Daun pare digunakan karena sejauh ini 
+belum ada penelitian mengenai daun pare 
+sebagai 
+antidiabetes. 
+Penelitian 
+ini 
+menggunakan 
+metode 
+Nellson-Somogyi 
+karena faktor pengganggu dari metode 
+tersebut cenderung lebih mudah dikendalikan 
+dibandingkan dengan metode enzimatis, 
+selain itu bahan yang digunakan lebih mudah 
+didapatkan. Prinsip metode Nellson-Somogyi 
+adalah mengoksidasi glukosa menggunakan 
+pereaksi Nellson, kemudian ditambahkan 
+dengan larutan arsenomolibdat membentuk 
+kompleks molibdenum yang berwarna biru 
+kehijauan dan dapat diukur absorbansinya 
+untuk menentukan kadar glukosa (Razak, 
+2012). 
+ 
+METODE PENELITIAN 
+Objek penelitian ini adalah penurunan 
+kadar glukosa fraksi n-heksan, fraksi etil 
+asetat, dan fraksi air ekstrak etanol daun pare 
+(Momordica charantia L.) yang dinyatakan 
+dengan persentase (%) penurunan kadar 
+glukosa. 
+Variabel terikat dalam penelitian ini 
+berupa penurunan glukosa setelah pemberian 
+fraksi ekstrak etanol daun pare (Momordica 
+charantia L.).  
+Bahan penelitian meliputi serbuk 
+daun pare (Momordica charantia L.), serbuk 
+glukosa anhidrat, reagen Nellson, reagen 
+arsenomolibdat, akuades, metanol, NaOH, 
+AlCl3, serbuk NaOAc, serbuk H3BO3. 
+Alat penelitian meliputi labu takar, 
+pipet volume, corong kaca, pipet tetes, 
+penangas 
+air, 
+spektrofotometer 
+UV-Vis 
+Shimadzu 1700 series. 
+Maserasi serbuk daun pare sebanyak 
+50,0 gram ditambah etanol 70% sepuluh kali 
+berat serbuk. Perendaman dilakukan selama 5 
+hari pada suhu ruang dan terlindung dari 
+cahaya.Setiap hari dilakukan pengadukan,  
+Kemudian disaring, dan diganti pelarut 
+etanol 70% baru dengan jumlah yang sama. 
+Filtrat 
+yang 
+dihasilkan 
+dijadikan 
+satu 
+kemudian disaring. Filtrat dikumpulkan dan 
+dipekatkan di atas penangas air pada suhu  
+70˚C  sampai diperoleh ekstrak kental 
+(Purwatresna, 2012). 
+ 
+ 
+2 
+METANA, Vol. 10 No.01, Juli 2014, Hal. 1-11 
+Fraksinasi 
+dilakukan 
+dengan 
+menimbang 5,0 gram kemudian dilarutkan 
+dengan akuades sebanyak 75 mL dan 
+dimasukkan di dalam corong pisah. Larutan 
+ditambahkan dengan n-heksan sebanyak 25 
+mL 
+dan 
+diulang 
+tiga 
+kali, 
+kemudian 
+dipisahkan. Fase air difraksinasi kembali 
+menggunakan pelarut etil asetat sebanyak 25 
+mL 
+dan 
+diulang 
+tiga 
+kali, 
+kemudian 
+dipisahkan.Masing-masing fraksi yang telah 
+terkumpul 
+dikentalkan 
+menggunakan 
+penangas air. 
+Uji pendahuluan dilakukan terhadap 
+ekstrak dan fraksi meliputi alkaloid, senyawa 
+fenol, 
+polifenol, 
+tanin, 
+saponin, 
+dan 
+flavonoid. Uji flavonoid dipertegas dengan 
+menggunakan uji KLT yang dielusi dengan 
+eluen n-butanol : asam asetat glasial : air (4 : 
+1 : 5). Setelah elusi selesai, lempeng 
+dikeringkan kemudian lempeng tersebut 
+diuapi denganmenggunakan uap ammonia 
+pekat. 
+Terbentuknya 
+warna 
+kuning 
+menunjukkan adanya kandungan flavonoid 
+dalam daun pare (Robinson, 1995 : 211). 
+Pembuatan larutan glukosa standar 
+dengan cara menimbang baku glukosa 
+anhidrat 100,0 mg dan dilarutkan etanol 80% 
+sebanyak 2 kali masing-masing 5 mL. 
+Larutan 
+tersebut 
+diuapkan 
+kemudian 
+dicukupkan dengan akuades hingga 50,0 mL. 
+Deret 
+baku 
+dibuat 
+sebanyak 
+5 
+deret 
+konsentrasi 10, 20, 30, 40, dan 50 ppm serta 
+diukur absorbansinya pada operating time 
+yang stabil dan panjang gelombang maksimal 
+(Sadasivam dan Manickam, 1996). 
+Pengukuran 
+kadar 
+glukosa 
+dilakukan dengan cara 3,0 mL  larutan baku 
+glukosa ditambahkan dengan 3,0 mL masing-
+masing dari fraksi. Campuran tersebut 
+diambil sebanyak 1,0 mL ditambahkan 
+dengan reagen Nellson sebanyak 1,0 mL lalu 
+ditutup dengan kapas dan dipanaskan di atas 
+penangas air dengan suhu 100˚C . Setelah itu 
+didinginkan,  
+ditambah reagen arsenomolibdat sebanyak 
+1,0 mL kemudian dihomogenkan dan diukur 
+pada 
+operating 
+time 
+dengan 
+panjang 
+gelombang maksimal pada spektrofotometer 
+visibel (Ermaiza, 2009). 
+Analisis data dapat dihitung dengan 
+rumus: 
+ 
+Persentase penurunan kadar  =  
+ 
+awal
+Kadar 
+khir
+kadar tera
+-
+awal
+Kadar 
+x 100% 
+ 
+ 
+Penarikan 
+senyawa 
+aktif 
+yang 
+terkandung di dalam daun pare dapat 
+dilakukan 
+dengan 
+proses 
+ekstraksi 
+menggunakan pelarut dan cara ekstraksi yang 
+sesuai. Faktor yang mempengaruhi mutu 
+ekstrak secara kimia salah satunya adalah 
+metode ekstraksi (Depkes RI, 2000 : 7). 
+Metode ekstraksi yang digunakan pada 
+penelitian ini Microwave adalah alat yang 
+digunakan untuk ekstraksi, mengandung 
+medan 
+elektromagnetik 
+dalam 
+rentang 
+frekuensi 300 MHz sampai 300 GHz atau 
+antara panjang gelombang dari 1 cm dan 1m 
+(Chen dkk ,  2007). Medan elektromagnetik 
+memainkan peran penting dalam setiap upaya 
+untuk menggambarkan fisik realitas.Bidang 
+dan 
+partikel 
+yang 
+diekstraksi 
+ 
+harus 
+diletakkan pada tempat sehingga energi 
+elektro 
+magnetik 
+yang 
+mengandung  
+momentum dapat berinteraksi dan terjadi 
+penarikan zat aktif Bidang elektromagnetik 
+berinteraksi dengan materi sehingga terjadi 
+transfer energi (Hartati, 2010). 
+Penapisan fitokimia senyawa aktif 
+bertujuan 
+untuk 
+mengetahui 
+kandungan 
+senyawa yang terdapat dalam ekstrak etanol 
+daun 
+pare. 
+Penapisan 
+fitokimia 
+dapat 
+dilakukan dengan uji pendahuluan. Uji 
+tersebut 
+meliputi 
+uji 
+flavonoid, 
+tanin, 
+saponin, polifenol, senyawa fenol, alkaloid, 
+glikosida-3-flavonol, shinoda, dan taubeck. 
+Uji 
+flavonoid 
+dilakukan 
+menggunakan 
+larutan NaOH dengan cara masing-masing 1 
+mL ekstrak etanol daun pare ditambah 
+dengan NaOH yang akan membentuk warna 
+kuning stabil (Leelaprakash, dkk. 2011). 
+Hasil perlakuan menunjukkan larutan uji 
+ekstrak mengandung flavonoid (tabel 4). 
+ 
+ 
+3 
+EKSTRAKSI FLAVONOID DARI DAUN PARE…. 
+ 
+ 
+                 (Erlita dkk) 
+Tabel 4. Hasil Uji Senyawa Flavonoid 
+ 
+Larutan 
+Uji 
+Hasil 
+Perlakuan 
+Keterangan  
+Rutin 
+(Kontrol 
+positif) 
+Larutan 
+kuning 
+Mengandung 
+flavonoid 
+Akuades 
+(Kontrol 
+negatif) 
+Larutan 
+jernih  
+Tidak 
+mengandung 
+flavonoid 
+Ekstrak 
+Larutan 
+kuning pekat 
+Mengandung 
+flavonoid 
+ 
+ 
+Pendahuluan 
+glikosida-3-flavonol 
+menunjukkan hasil positif pada ekstrak, 
+Menurut Depkes RI (1995), uji glikosida-3-
+flavonol menunjukkan hasil positif apabila 
+setelah penambahan pereaksi dalam waktu 2 
+sampai 5 menit tidak terjadi warna kuning 
+(tabel 5). 
+ 
+ 
+Tabel 5.Pendahuluan Glikosida-3-flavonol 
+ 
+Larutan Uji  
+Hasil 
+Perlakuan  
+Keterangan 
+Rutin 
+(kontrol 
+positif)   
+Merah 
+muda 
+Mengandung 
+Glikosida-3-
+flavonol  
+Akuades 
+(kontrol 
+negatif)   
+Larutan 
+jernih 
+Tidak 
+mengandung 
+Glikosida-3-
+flavonol 
+Ekstrak 
+Hijau  
+Mengandung 
+Glikosida-3-
+flavonol 
+ 
+ 
+Uji Shinoda menunjukkan hasil negatif pada 
+ekstrak,. Menurut Depkes RI (1995), uji 
+shinoda menunjukkan hasil positif flavon, 
+khalkon, 
+dan 
+auron 
+apabila 
+setelah 
+penambahan pereaksi terjadi warna kuning, 
+sehingga di dalam ekstrak tidak mengandung 
+flavonoid golongan flavon, khalkon, dan 
+auron. (tabel 6). 
+ 
+ 
+ 
+ 
+Tabel 6.Uji Shinoda 
+ 
+Larutan 
+Uji 
+Hasil 
+Perlakuan 
+Keterangan 
+Rutin 
+(kontrol 
+positif)  
+Larutan 
+kuning 
+Mengandung 
+shinoda  
+Akuades 
+(kontrol 
+negatif) 
+Larutan 
+jernih 
+Tidak 
+mengandung 
+shinoda 
+Ekstrak  
+Hijau  
+Tidak 
+mengandung 
+flavon, 
+kalkon  dan 
+auron 
+ 
+Uji Taubeck menunjukkan hasil positif 
+pada ekstrak. Menurut Depkes RI (1995), uji 
+taubeck menunjukkan hasil positif apabila 
+setelah 
+penambahan 
+reaksi 
+larutan 
+uji 
+berfluoresensi kuning intensif dibawah sinar 
+UV 254 menunjukkan adanya flavonoid 
+(tabel 7). 
+ 
+Tabel 7.Pendahuluan Flavonoid Taubeck 
+ 
+Larutan 
+Uji  
+Hasil 
+Perlakuan 
+Keterangan 
+Akuades  
+(kontrol 
+negatif) 
+Tidak 
+berpendar 
+kuning 
+Tidak 
+mengandung 
+flavono 
+Ekstrak  
+Berpendar 
+kuning 
+Mengandung 
+flavonoid 
+ 
+Identifikasi 
+tanin 
+dilakukan 
+menggunakan larutan FeCl3 1% dengan cara 
+masing-masing 1 mL ekstrak etanol daun 
+pare ditambah larutan FeCl3 1% akan 
+membentuk warna hijau kehitaman atau biru 
+tua (tabel 8) (Depkes RI, 1995). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+METANA, Vol. 10  No.01,  Juli 2014, Hal. 1-11 
+Tabel 8. Hasil Uji Senyawa Tanin 
+ 
+Larutan Uji 
+Hasil 
+perlakuan 
+Keterangan 
+Larutan 
+gambir 
+(kontrol 
+positif) 
+Biru tua 
+Mengandung 
+senyawa tanin  
+Akuades 
+(kontrol 
+negatif)  
+Oranye 
+Tidak 
+mengandung 
+senyawa tanin 
+Ekstrak  
+Hijau  
+Mengandung 
+senyawa tanin 
+ 
+Identifikasi 
+saponin 
+dilakukan 
+menggunakan 
+pemanasan 
+masing-masing 
+1mL ekstrak dan fraksi ekstrak etanol daun 
+pare, 
+kemudian 
+dikocok 
+vertikal 
+akan 
+membentuk busa. Busa yang terbentuk akan 
+stabil setelah penambahan HCl 1% (tabel 9) 
+(Depkes RI, 1995). 
+ 
+Tabel 9. Hasil Uji Senyawa Saponin 
+ 
+Larutan 
+Uji 
+Hasil 
+Perlakuan 
+Keterangan 
+Larutan 
+lerak 
+(kontrol 
+positif)   
+Berbusa 
+Mengandung 
+senyawa 
+saponin 
+Akuades 
+(kontrol 
+negatif) 
+Tidak 
+berbusa 
+Tidak 
+mengandung 
+senyawa 
+saponin 
+Ekstrak 
+ Berbusa 
+Mengandung 
+senyawa 
+saponin 
+ 
+ 
+Identifikasi polifenol dilakukan dengan 
+cara masing-masing  1 mL ekstrak dan fraksi 
+ekstrak etanol daun pare ditambah dengan 1 
+mL larutan kalium heksasianoferat (III) dan 1 
+mL 
+larutan 
+besi 
+(III) 
+klorida 
+1% 
+menunjukkan warna biru prusian (tabel 10) 
+(Depkes RI, 1995). 
+ 
+ 
+ 
+ 
+ 
+Tabel 10. Hasil Uji Senyawa Polifenol 
+ 
+ 
+Larutan 
+Uji 
+Hasil 
+Perlakuan 
+Keterangan 
+Larutan 
+resorcinol 
+(kontrol 
+positif) 
+Biru prusian  
+Mengandung 
+senyawa 
+polifenol 
+Akuades 
+(kontrol 
+negatif) 
+Biru terang  
+Tidak 
+mengandung 
+senyawa 
+polifenol 
+Ekstrak 
+Biru prusian 
+Mengandung 
+senyawa 
+polifenol 
+ 
+Identifikasi alkaloid dilakukan dengan 
+cara1 mL ekstrak etanol daun pare ditambah 
+1 mL larutan HCl 2N dan akuades, kemudian 
+dipanaskan, 
+kemudian 
+didinginkan 
+dan 
+disaring. Filtrat yang diperoleh ditambah 
+reagen dragendrof. Terbentuknya warna 
+merah cokelat menunjukkan adanya senyawa 
+alkaloid (tabel 11) (Depkes RI, 1995). 
+ 
+Tabel 11. Hasil Uji Senyawa 
+Alkaloid 
+ 
+Larutan 
+Uji 
+Hasil 
+Perlakuan 
+Keterangan 
+Larutan 
+kafein 
+(kontrol 
+positif) 
+Merah 
+cokelat 
+Mengandung 
+senyawa alkaloid 
+Akuades 
+(kontrol 
+negatif) 
+Merah  
+Tidak 
+mengandung 
+senyawa alkaloid 
+Ekstrak 
+Merah 
+cokelat 
+Mengandung 
+senyawa alkaloid 
+ 
+Identifikasi senyawa fenol dilakukan dengan 
+cara masing-masing fraksi n-heksan, fraksi 
+etil asetat, fraksi air, dan ekstrak etanol daun 
+pare (Momordica charantia L.) diambil 
+sebanyak 1 mL kemudian ditambah dengan 1 
+mL 
+larutan 
+besi 
+(III) 
+klorida 
+1%. 
+Terbentuknya warna merah, ungu, biru, dan 
+hitam menunjukkan adanya senyawa fenol 
+(tabel 12) (Depkes RI, 1995). 
+ 
+ 
+5 
+EKSTRAKSI FLAVONOID DARI DAUN PARE…. 
+ 
+                              (Erlita dkk) 
+Tabel 12. Hasil Uji Senyawa Fenol 
+ 
+Larutan Uji 
+Hasil 
+Perlakuan 
+Keterangan 
+Larutan 
+phenol 
+(kontrol 
+positif) 
+Ungu  
+Mengandung 
+senyawa fenol 
+Akuades 
+(kontrol 
+negatif) 
+Oranye  
+Tidak 
+mengandung 
+senyawa fenol 
+Ekstrak 
+Hijau 
+kehitaman 
+Mengandung 
+senyawa fenol 
+ 
+Uji 
+pendahuluan 
+dilakukan 
+untuk 
+menunjukkan adanya senyawa aktif yang 
+terkandung di dalam ekstrak secara umum. 
+Hasil perlakuan menunjukkan bahwa ekstrak 
+etanol positif mengandung flavonoid, tanin, 
+saponin, senyawa fenol, polifenol, dan 
+alkaloid. 
+Berdasarkan 
+hasil 
+perlakuan 
+tersebut maka daun pare positif mengandung 
+flavonoid, tanin, saponin, fenolik, polifenol, 
+dan alkaloid. Hasil perlakuan ini sesuai 
+dengan penelitian yang pernah dilakukan 
+oleh 
+Rachmawati, 
+dkk. 
+(2001) 
+dan 
+Leelaprakash, dkk. (2011) yang menyatakan 
+bahwa 
+daun 
+pare 
+positif 
+mengandung 
+flavonoid, tanin, saponin, senyawa fenol, 
+polifenol, dan alkaloid. 
+Selain 
+uji 
+pendahuluan 
+dengan 
+pereaksi kimia, uji senyawa flavonoid juga 
+dilakukan dengan metode kromatografi lapis 
+tipis (KLT).Fase diam yang digunakan 
+adalah silika gel GF254 dan fase gerak n-
+butanol : asam asetat : akuades (4 : 1 : 5), 
+jarak elusi 8 cm, dan penampak bercak uap 
+ammonia. Baku pembanding rutin digunakan 
+untuk 
+melihat 
+perbandingan 
+nilai 
+Rf. 
+Flavonoid yang bersifat polar terikat kuat 
+pada fase diam. Dengan adanya fase gerak 
+yang bersifat semi polar akan membawa 
+flavonoid melewati fase diam dan akan 
+memisah. 
+Adanya 
+uap 
+ammonia 
+akanmenyebabkan gugus hidroksi fenolik 
+pada flavonoid membentuk warna kuning. 
+Hasil identifikasi pada ekstrak, fraksi 
+etil asetat, dan fraksi air ekstrak etanol daun 
+pare menunjukkan terjadinya fluoresensi 
+warna ungu saat dilihat di bawahsinar UV 
+254 nm dan terbentuk noda berwarna kuning 
+lemah 
+setelah 
+diberi 
+uap 
+ammonia. 
+Sedangkan 
+fraksi 
+n-heksan 
+tidak 
+menunjukkan adanya fluoresensi warna ungu 
+maupun noda kuning setelah diberi uap 
+ammonia.  Harga Rf yang diperoleh untuk 
+ekstrak yaitu 0,61 dan  baku rutin 0,57 (tabel 
+13), sehingga dapat disimpulkan bahwa pada 
+ekstrak 
+etanol daun pare mengandung 
+flavonoid.  
+ 
+Tabel 13.Hasil Identifikasi Flavonoid 
+Secara KLT 
+ 
+Larutan Uji 
+Rf 
+Warna 
+tampak 
+dengan 
+amoniak 
+Baku rutin 
+0,57 
+Kuning 
+kecoklatan 
+Ekstrak 
+0,61 
+Kuning lemah 
+ 
+Pengukuran kadar glukosa dilakukan 
+dengan membuat larutan baku glukosa. 
+Serbuk 
+glukosa 
+anhidrat 
+yang 
+sudah 
+ditimbang dilarutkan dengan etanol 80% 
+panas, kemudian diuapkan terlebih dahulu 
+sebelum 
+dicukupkan 
+dengan 
+akuades. 
+Penambahan etanol 80% panas berfungsi 
+untuk 
+mencegah 
+pertumbuhan 
+mikroba 
+karena glukosa dapat menjadi nutrisi yang 
+baik untuk pertumbuhan mikroba. Larutan 
+glukosa 
+selanjutnya 
+diuapkan 
+untuk 
+mengurangi jumlah etanol. Larutan glukosa 
+dibuat konsentrasi 2000 ppm, kemudian 
+diencerkan menjadi 100 ppm. Deret baku 
+glukosa dibuat dengan konsentrasi 10, 20, 30, 
+40, dan 50 ppm. Masing-masing konsentrasi 
+baku glukosa direaksikan dengan reagen 
+Nellson, kemudian diukur absorbansinya. 
+Pengukuran kadar glukosa menggunakan 
+spektrofotometri visibel karena senyawa 
+yang akan diukur berupa larutan berwarna 
+yang dapat diserap pada panjang gelombang 
+400 nm sampai 750 nm. Pengukuran panjang 
+gelombang 
+maksimal 
+dilakukan 
+setelah 
+didapatkan operating time. 
+Panjang gelombang maksimal yang diperoleh 
+pada menit ke-11 adalah 761 nm, sehingga 
+pengukuran baku glukosa anhidrat dilakukan 
+pada menit ke-11 dengan panjang gelombang 
+761 nm. 
+6 
+METANA, Vol. 10 No. 01, Juli 2014, Hal. 1-11
+Deret konsentrasi larutan baku glukosa 
+anhidrat 10, 20, 30, 40, dan 50 ppm 
+ditambahkan 
+dengan 
+reagen 
+Nellson. 
+Penambahan reagen tersebut dapat mereduksi 
+kuprioksida menjadi kuprooksida ekuivalen 
+dengan jumlah glukosa yang ada. Adanya 
+sifat mereduksi disebabkan oleh adanya 
+gugus aldehid bebas yang terdapat dalam 
+glukosa. Selanjutnya glukosa mengalami 
+oksidasi oleh pereaksi Nellson menghasilkan 
+asam glukonat. Larutan dipanaskan dengan 
+ditutup kapas agar reaksi berlangsung secara 
+maksimal. Dengan adanya pemanasan dapat 
+meningkatkan energi kinetik dari molekul-
+molekul 
+sehingga 
+akan 
+meningkatkan 
+kecepatan 
+reaksi. 
+Larutan 
+yang 
+sudah 
+dipanaskan selanjutnya didinginkan dan 
+ditambah reagen arsenomolibdat didapatkan 
+warna biru kehijauan karena arsenomolibdat 
+bereaksi dengan kuprooksida membentuk 
+molibdenum. Pengukuran dilakukan pada 
+saat 
+operating 
+timedengan 
+panjang 
+gelombang 761 nm.Kurva baku glukosa 
+anhidrat dapat dilihat pada gambar 9. 
+ 
+ 
+ 
+Gambar 9.Kurva Baku Glukosa Anhidrat 
+ 
+ 
+Konsentrasi larutan baku glukosa yang 
+digunakan dalam penelitian ini 50 ppm. 
+Masing-masing 
+konsentrasi 
+ditambahkan 
+dengan 
+baku 
+glukosa, 
+kemudian 
+dari 
+campuran tersebut diambil sebanyak 1,0 mL 
+untuk direaksikan dengan reagen Nellson. 
+Larutan dipanaskan dengan ditutup kapas, 
+lalu didinginkan, dan ditambahkan dengan 
+arsenomolibdat, kemudian larutan diukur 
+pada saat operating time dengan panjang 
+gelombang 761 nm.  
+Hasil data penurunan kadar glukosa 
+menunjukkan rata-rata persentase penurunan 
+yang terus meningkat dari 80 ppm sampai 
+160 ppm. Pada konsentrasi. Persentase 
+penurunan paling tinggi pada konsentrasi 160 
+ppm dengan rata-rata 50,38 
+7 
+EKSTRAKSI FLAVONOID DARI DAUN PARE…. 
+ 
+ 
+                   (Erlita dkk)
+ 
+Tabel 16. Hasil Perhitungan PersenPenurunan Glukosa 
+ 
+Konsentrasi 
+(ppm) 
+% penurunan glukosa 
+Rata-rata % 
+penurunan 
+glukosa 
+Replikasi 1 
+Replikasi 2 
+Replikasi 3 
+80 
+10,81% 
+11,18% 
+12,66% 
+11,55% 
+100 
+23,84% 
+23,96% 
+24,08% 
+23,96% 
+120 
+36,25% 
+35,76% 
+35,39% 
+35,80% 
+140 
+44,85% 
+45,22% 
+45,34% 
+45,14% 
+160 
+49,77% 
+50,63% 
+50,75% 
+50,38% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gambar 10. 
+Kurva Penurunan Kadar Glukosa 
+ 
+Pada grafik tersebut dapat diketahui 
+bahwa persentase penurunan kadar glukosa 
+lebih 
+besar 
+pada 
+kadar 
+160 
+ppm 
+dibandingkan dengan kadar 80 ppm  
+ 
+ 
+(NH4)6Mo7O24.4H2O
+3H2SO4
+7H2MoO4
+3(NH4)2SO4
+12MoO42-
+AsO43-
+[AsMo12O40]
+12H2O
+[AsMo12VO40]3-
+4Cu+
+[AsMo4VMo8VIO40]7-
+4Cu2+
+CHO
+CH2OH
+H
+OH
+H
+OH
+HO
+H
+H
+OH
+COOH
+CH2OH
+HO
+H
+H
+OH
+HO
+H
+H
+OH
++ 2Cu2+ + 4OH-
+Cu2O
++
++ 2H2O
+Nellson
+merah bata
+glukosa
+asam glukonat
+(1).
+(2).
+(3).
+(4). 
+ 
+Gambar 11. 
+Reaksi Pembentukan Senyawa Kompleks Glukosa dengan Arsenomolibdat 
+(Kautsar, 2011) 
+ 
+8 
+METANA, Vol. 10 No. 01, Juli 2014, Hal. 1-11 
+Kompleks molibdenum yang terukur 
+sebanding dengan kadar glukosa dalam 
+larutan. Komponen warna dari pereaksi 
+Nellson-Somogyi juga akan mengabsorbsi 
+cahaya pada panjang gelombang 747 nm, 
+sehingga dalam analisis ini digunakan 
+blangko dengan menambahkan pereaksi 
+tersebut. 
+Hal 
+ini 
+bertujuan 
+untuk 
+meminimalkan adanya peningkatan absorban 
+yang terukur oleh instrumen yang berasal 
+dari warna senyawa yang tidak diharapkan, 
+yang 
+mengakibatkan 
+penurunan 
+akurasi 
+pengukuran.  
+Analisis data penelitian secara statistik 
+dengan 
+menggunakan 
+SPSS 
+(Statistical 
+Product and Service Solutions) versi 16 
+didahului dengan uji normalitas dengan 
+menggunakan rumus dari Shapiro-Wilk, dan 
+uji homogenitas dengan menggunakan rumus 
+dari Lavene Test. Untuk uji normalitas dan 
+uji homogenitas nilai signifikansi lebih besar 
+dari 0,05. Uji normalitas digunakan untuk 
+mengetahui apakah data berdistribusi normal 
+atau tidak, sedangkan uji homogenitas 
+digunakan untuk mengetahui apakah ragam 
+antar perlakuan homogen atau tidak.  
+Berdasarkan perhitungan dari uji Tukey 
+antar kelompok glukosa setelah penambahan 
+data 
+berbeda 
+signifikan 
+yaitu 
+nilai 
+signifikansinya kurang dari 0,05, sehingga 
+dapat disimpulkan masing-masing kelompok 
+data terdapat perbedaan dalam menurunkan 
+kadar glukosa.  
+ 
+Tabel 19. Data Interpretasi Spektrum UV-
+Vis 
+ 
+Perlakuan 
+Sampel 
+Isolat 
+Flavonoid 
+λ maks (nm) 
+Pergesera
+n λ (nm) 
+Penafsir
+an 
+Pita 
+I 
+Pita 
+II 
+Pit
+a I 
+Pit
+a II 
+Sampel 
+dalam 
+metanol 
+366,
+4 
+271,2 
+- 
+- 
+Flavonol 
+(3-OH 
+bebas) 
+Sampel 
+dalam 
+metanol + 
+NaOH 
+343,
+4 
+266,2 
+-23 
+-5 
+3,4’-OH, 
+o-diOH 
+pada 
+cicin A, 
+pada 
+cincin B 
+: 3-OH 
+berdampi
+ngan 
+Sampel 
+dalam 
+metanol + 
+NaOH 
+(5menit) 
+332,
+6 
+261,6 
+-
+33,8 
+-9,6 
+- 
+Sampel 
+dalam 
+metanol + 
+NaOAc 
+401,
+8 
+262,6 
++35,
+4 
+-8,6 
+- 
+Sampel 
+dalam 
+metanol + 
+NaOAc + 
+H3BO3 
+398,
+8 
+- 
++32,
+4 
+- 
+o- di OH 
+pada 
+cincin B 
+Sampel 
+dalam 
+metanol + 
+AlCl3 
+414,
+8 
+248,4 
++48,
+4 
+- 
+5-OH 
+Sampel 
+dalam 
+metanol + 
+AlCl3 + 
+HCl 
+331,
+4 
+262,4 
+-35 
+-8,8 
+- 
+ 
+Pada spektrum yang ditunjukkan pada 
+sampel yang dilarutkan dalam metanol 
+didapatkan dua pita yaitu pita I pada panjang 
+gelombang 366,4 nm dan pita II  pada 
+panjang gelombang 271,2 nm. Interpretasi 
+spektrum pada kedua pita di atas adalah 
+rentang spektrum dari senyawa flavonoid 
+golongan 
+flavonol.Penambahan 
+pereaksi 
+geser NaOH untuk mendeteksi adanya gugus 
+hidroksil yanglebih asam, yang pada hasil 
+diperoleh gugus hidroksil pada rantai karbon 
+4’.Penambahan kekuatan spektrum setelah 
+waktu tertentu menunjukkan bahwa gugus ini 
+tidak 
+peka 
+terhadap 
+basa.Penambahan 
+pereaksi geser Na asetat digunakan untuk 
+mendeteksi 
+adanya 
+gugus 
+7-hidroksil 
+bebas.Pada hasil tidak didapatkan bahwa 
+terkandung 
+adanya 
+gugus 
+7-hidroksil 
+bebas.Penambahan 
+H3BO3 
+untuk 
+menjembatani kedua gugus hidroksil o-diOH, 
+pada hasil menunjukkan adanya gugus o-
+diOH pada cincin B. Penambahan pereaksi 
+geser AlCl3 dan HCl untuk mendeteksi 
+adanya gugus 5-hidroksil bebas. Pada hasil 
+didapatkan bahwa terkandung adanya gugus 
+5-hidroksil bebas. 
+ 
+9 
+EKSTRAKSI FLAVONOID DARI DAUN PARE…. 
+ 
+ 
+                (Erlita 
+dkk)
+Hasil yang didapat dari interpretasi 
+spektrum di atas adalah 5, 3’, 4’ – trihidroksi 
+flavonol. 
+O
+O
+OH
+OH
+OH
+OH
+ 
+ 
+ 
+Gambar 
+12.Interpretasi 
+spektrum 
+flavonoid 5, 3’, 4’-trihidroksi flavonol 
+ 
+KESIMPULAN 
+1. Kondisi yang optimum dalam proses 
+ekstraksi flavonoid dari daun pare 
+(Momordica 
+charantiaL.) 
+dengan 
+berbantu 
+gelombang 
+mikroadalahmenit 
+ke-30 
+dengan 
+rendemen 20,85%. 
+2. Konsentrasi ekstrak flavonoid yang 
+dapat menurunkan kadar glukosa 
+adalah 160 ppm dengan penurunan 
+50,38%. 
+3. Jenis flavonoid dalam daun pare 
+(Momordica charantia L.) yang 
+dapat 
+menurunkan 
+kadar 
+glukosaadalah 5, 3’, 4’-trihidroksi 
+flavonol 
+ 
+SARAN 
+1. Dilakukan penelitian lebih lanjut 
+mengenai 
+uji 
+aktivitas 
+isolat 
+flavonoid daun pare (Momordica 
+charantia L.) dalam menurunkan 
+kadar glukosa secara in vitro.  
+2. Dilakukan penentuan kadar flavonoid 
+total 
+pada 
+isolat 
+daun 
+pare 
+(Momordica charantia L.) dalam 
+menurunkan kadar glukosa secara 
+invitro. 
+ 
+DAFTAR PUSTAKA 
+ 
+Ahmad Z., Khairul F.Z., Azhar Y., Chiong 
+H.S., Malarvilis S., Amin I., dan 
+analysis of Polipeptide-K and Oil 
+Isolated from Seeds of Momordica  
+charantia (Bitter Gourd).l Journal 
+Molecules. 17. 9631-9640. 
+ 
+Muhammad N.H. 2012. In Vitro Antidiabetic 
+Activities and Chemical  
+ 
+Basha S. K. dan Kumari. 2012. In Vitro 
+Antidiabetic 
+Activity 
+of 
+Psidium 
+Guajava 
+Leaves 
+Extracs, 
+Asian 
+Pasific Journal of Tropical Disease. 
+1-3 
+ 
+Departemen Kesehatan RI. 1986. “Sediaan 
+Galenik”. Jakarta: Depkes RI 
+ 
+Ermaiza. 
+2009. 
+Pengaruh 
+Dua 
+Jenis 
+Polisakarida dalam Biji Alpukat 
+(Persea americana mill) Terhadap 
+Kandungan Sirup Glukosa Melalui 
+Proses Hidrolisis dengan HCl 3%. 
+Skripsi. Medan: Fakultas Matematika 
+dan 
+Ilmu 
+Pengetahuan 
+Alam 
+Universitas Sumatera Utara 
+ 
+Hardiman, 
+D. 
+2013. 
+Diabetes 
+dan 
+Komplikasinya 
+Mengintai 
+Kelengahan Kita. Tumbuh. Edisi 
+Januari: 3-5. 
+ 
+Heinrich, M., Joanne B., Simon G., dan 
+Elisabeth M. W. 2009. Farmakognosi 
+dan Fitoterapi. Diterjemahkan oleh 
+Amalia H. Hadinata. Jakarta: Buku 
+Kedokteran EGC. 
+ 
+Kautsar, R. H. 2011. Kajian Hidrolisis 
+Enzimatis Selulosa dari Alga Merah 
+(Eucheuma 
+spinosum 
+dan 
+Eucheuma cottoni) Menggunakan 
+Enzim Selulase dari Aspergillus 
+niger. Skripsi. Malang: Fakultas Sains 
+dan 
+Teknologi 
+Universitas 
+Islam 
+Negeri Maulana Malik Ibrahim 
+ 
+Leelaprakash, G., J. Caroline, Gowtham 
+B.M., Pradeep K., dan Shivram P. 
+2011. In Vitro Antimicrobial and 
+Antioxidant Activity of Momordica 
+charantia Leaves. Pharmacophore. 
+2. (4) : 242-252 
+ 
+ 
+ 
+10 
+METANA, Vol. 10 No.01, Juli 2014, Hal. 1-11 
+Purwatresna, 
+E. 
+2012. 
+Aktivitas 
+Antidiabetes 
+Ekstrak 
+Air 
+dan 
+Etanol Daun Sirsak Secara in vitro 
+melalui 
+inhibisi 
+enzim 
+α-
+glukosidase. Skripsi. Bogor: Institut 
+Pertanian Bogor 
+ 
+Razak A. K., Ni Ketut Sumarni, Basuki 
+Rahmat. 2012. Optimasi Hidrolisis 
+Sukrosa    Menggunakan  Resin 
+Penukar Kation Tipe Sulfonat. 
+Jurnal Natural Science 1 (1):119-131 
+ 
+Robinson, T. 1995. Kandungan Organik 
+Tumbuhan 
+Tingkat 
+Tinggi. 
+Terjemahan 
+Padmawinata, 
+K. 
+Bandung: ITB Press. 
+ 
+Sadasivam, S. dan Manickam, A. 1996. 
+Biochemical Methods. New Delhi: 
+New Age International 
+ 
+Zaini, R. 2006. Isolasi Komponen Bioaktif 
+Flavonoid dari Tanaman Daun 
+Dewa (Gynura pseudochina L.). 
+Tesis. Bogor: Institut Pertanian Bogor. 
+ 
+11 
+View publication stats
+View publication stats

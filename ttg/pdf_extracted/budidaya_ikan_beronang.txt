@@ -1,0 +1,708 @@
+TTG BUDIDAYA PERIKANAN
+Hal. 1/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+BUDIDAYA IKAN BERONANG
+(Siganus sp)
+1.
+PENDAHULUAN
+Dalam PJPT II, sub sektor perikanan semakin dituntut dalam mencukupi
+kebutuhan protein hewani dari ikan. Selama ini produksi perikanan laut
+sebagian besar masih tergantung dari hasil pemungutan/penangkapan dari
+alam yang produksinya semakin menurun, dilain pihak dengan meningkatnya
+laju pertumbuhan penduduk kebutuhan protein akan terus meningkat setiap
+tahun.  Oleh karena itu produksi perikanan perlu digali dari 2 (dua) sumber yaitu
+penangkapan dan budidaya.
+Salah satu komoditi ikan laut yang potensial dan sudah dapat dibudidayakan
+adalah ikan beronang (Siganus sp).  Dari hasil penelitian ternyata komoditi
+beronang mempunyai nilai yang menguntungkan sebagai berikut:
+a. Ikan beronang merupakan makanan yang enak dan gurih dan disukai banyak
+orang sehingga pemasaran ikan ini cukup baik.
+b. Ikan ini umumnya "primary herbivor" yaitu pemakan plankton nabati
+tumbuhan dan juga memakan makanan buatan.
+c. Selama musim-musim tertentu benih beronang dapat diperoleh dalam jumlah
+banyak.
+d. Ikan beronang mempunyai toleransi besar terhadap salinitas dan suhu.
+e. Mempunyai daya adaptasi yang tinggi dan pertumbuhan yang cepat.
+f. Ikan ini sudah dapat dipijahkan di dalam laboratorium sehingga prospek
+pembenihan dari hatchery cukup baik.
+g. Ikan beronang mempunyai harga pasar yang cukup tinggi baik untuk
+konsumsi dalam maupun luar negeri, terutama yang ada telurnya selama
+tahun baru cina.
+h. Teknologi pembesaran ikan beronang sudah dikuasai.
+TTG BUDIDAYA PERIKANAN
+Hal. 2/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+Mengingat budidaya ikan beronang relatif baru dikenal masyarakat, maka
+petunjuk teknis ini diharapkan dapat menjadi pedoman bagi yang berminat
+melakukan usaha budidaya beronang.
+2.
+BIOLOGI
+1) Diskripsi dan Taksonomi
+Ikan beronang dikenal oleh masyarakat dengan nama yang berbeda-beda
+satu sama lain seperti di Pulau Sribu dinamakan kea-kea, di Jawa Tengah
+dengan nama biawas dan nelayan-nelayan di Pulau Maluku menamakan
+dengan sebutan samadar.
+Ikan beronang termasuk famili Siginidae dengan tanda-tanda khusus sebagai
+berikut D XIII, 10 A VII, 9, P2 I, 3, 1, tubuhnya membujur dan memipih latural,
+dilindungi oleh sisik-sisik yang kecil, mulut kecil posisinya terminal.
+Rahangnya dilengkapi dengan gigi-gigi kecil.  Punggungnya dilengkapi oleh
+sebuah duri yang tajam mengarah ke depan antara neural pertama dan
+biasanya tertanam di bawah kulit.  Duri-duri ini dilengkapi dengan kelenjar
+bisa/racun pada ujungnya.
+Secara lengkap taksonomi ikan beronang adalah sebagai berikut.
+Kelas:
+-
+Dada 
+:
+Percipformes
+-
+Sub dada
+:
+Acanthuroidei
+-
+Famili 
+:
+Siganidae
+-
+Genus 
+:
+Siganus
+-
+Species 
+:
+Siganus spp.
+2) Kebiasaan Makanan
+Sesuai dengan morfologi dari gigi dan saluran pencernaannya yaitu mulutnya
+kecil, mempunyai gigi seri pada masing-masing rahang, gigi geraham
+berkembang sempurna, dinding lambung agak tebal, usus halusnya panjang
+dan mempunyai permukaan yang luas, ikan beronang termasuk pemakan
+tumbuh-tumbuhan, tetapi kalau dibudidayakan ikan beronang mampu
+memakan makanan apa saja yang diberikan seperti pakan buatan.
+3) Penyebaran
+Penyebaran ikan beronang ini cukup luas, tetapi penyebaran setiap species
+sangat terbatas seperti yang terdapat di LON LIPI daerah penyebaran setiap
+species sebagai berikut:
+TTG BUDIDAYA PERIKANAN
+Hal. 3/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+a. Siganus guttatus penyebarannya di :
+Sumatera 
+:
+Bengkulu, Padang Deli;
+Jawa
+:
+P. Seribu, Cirebon, Balay, Surabaya;
+Kalimantan 
+:
+Balik Papan;
+Sulawesi 
+:
+Ujung Pandang, Bajo, Manado, Selayar;
+Maluku
+:
+Seram, P. Obo, Ternate, Ambon, dsb.
+b. Siganus canaculatus penyebarannya di :
+Sumatera 
+:
+Padang;
+Jawa
+:
+Ujung Kulon, Teluk Banten, P. Seribu;
+Maluku
+:
+Ternate, Bacan.
+c. Siganus vulpinus penyebarannya di :
+Kalimantan 
+:
+Birabirahan;
+Sulawesi
+:
+Masalembo, Ujung Pandang, Manado;
+Maluku
+:
+Ternate, Kajoa, Ambon, Seram;
+Irian 
+:
+Manokwari.
+d. Sirganus virgatus penyebarannya di :
+Sumatera
+:
+Pariaman, Padang, Bangka, Belitung;
+Jawa 
+:
+P. Seribu, Bawean;
+Kalimtan
+:
+Sundakan;
+Sulawesi 
+:
+Ujung Pandang, Bajo.
+e. Siganus corallinus penyebarannya di :
+Sumatera;
+Jawa;
+Nusa Tenggara;
+Sulawesi;
+Maluku.
+f. Siganus chrysapilos penyebarannya di :
+Jawa 
+:
+P. Seribu;
+Kalimantan
+:
+Sundakan;
+Sulawesi
+:
+Ujung Pandang, Manado, Slayar;
+Nusa Tenggara 
+:
+Sumbawa;
+Maluku
+:
+P. Obi, Roti, Ambon dan sekitarnya.
+g. Siganus spinus penyebarannya di :
+Sumatera
+:
+Bengkulu, Padang, Tapak Tuan;
+Jawa
+:
+P. Serinu, Pacitan, Karang Bolong, Prigi;
+Sulawesi 
+:
+Ujung Pandang. Bajo, Manado;
+Nusa Tenggara, Timor;
+Bali;
+Maluku dan sekitarnya.
+TTG BUDIDAYA PERIKANAN
+Hal. 4/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+h. Siganus vermiculatus penyebarannya di :
+Sumatera 
+:
+Bengkulu, Padang, Sibolga, Nias;
+Jawa
+:
+P. Seribu, Semarang;
+Kalimantan
+:
+Balik Papan dan Sundakan;
+Sulawesi
+:
+Ujung Pandang, Bulukumba, Manado, Sangihe;
+Maluku
+:
+Halmahera, Morotai, Ternate, Bacan, Ambon;
+Nusa Tenggara, Timor.
+i. Siganus puellus penyebarannya di :
+Jawa 
+:
+P. Seribu;
+Sulawesi
+:
+Ujung Pandang;
+Maluku dan sekitarnya.
+j. Siganus javus penyebarannya di :
+Sumatera 
+:
+Deli, Sibolga, Bengkulu, Bangka, Belitung;
+Jawa
+:
+Jakarta, Cirebon, Semarang, Jepara, Surabaya,
+Pasuruan, madura;
+Kalimantan
+:
+Stagen, Balik Papan;
+Sulawesi
+:
+Ujung Pandang, Bajo.
+k. Siganus lineatus penyebarannya di :
+Maluku
+:
+Ternate, Morotai, Ambon dan sekitarnya.
+3.
+TEKNOLOGI BUDAYA
+1) Persyaratan Lokasi Budidaya
+Untuk mencapai produksi jenis komoditas budidaya laut secara optimal
+memerlukan kecermatan dalam penentuan lokasi budidaya yang akan
+dikembangkan serta kecocokan metoda yang digunakan.  Dalam hal ini,
+pemilihan lokasi untuk budidaya ikan di laut harus akan mempertimbangkan
+dari aspek teknis dan non teknis.
+Dari segi aspek teknis hal-hal yang harus diperhatikan meliputi:
+a. Perairan/lokasi yang dipilih harus terlindung dari pengaruh angin/musim
+dan gelombang, hal ini untuk mengamankan/melindungi salinitas
+budidaya.
+b. Pergerakan air harus cukup baik dengan kecepatan arus antara 20 ~ 40
+cm/detik, apabila kecepatan arus kurang mengakibatkan penyediaan air
+kurang dan O2 yang di supplay juga akan berkurang dan sebaliknya
+apabila kecepatan arus cukup besar pertumbuhan ikan akan terganggu
+sebab energi yang didapatkan dari makanan banyak keluar untuk
+melawan arus.
+c. Lokasi harus bebas dari pengaruh pencemaran atau polusi baik limbah
+industri maupun limbah rumah tangga.
+TTG BUDIDAYA PERIKANAN
+Hal. 5/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+d. Lokasi juga harus bebas dari hama yang meliputi antara lain ikan-ikan
+besar dan buas, binatang yang selain potensial dapat mengganggu
+(predator).
+e. Hal yang sangat penting lokasi harus memenuhi persyaratan kualitas air
+yang baik untuk pertumbuhan ikan seperti :
+-
+Kadar garam berkisar antara 27 ~ 32 ppt.
+-
+Suhu air berkisar antara 28 ~ 320C.
+-
+O2 (oksigen) berkisar antara 7 ~ 8 ppm.
+-
+Nitrat 0,9 ~ 3,2 ppm dan phospat 0,2 ~ 0,5 ppm.
+f. Untuk mempermudah kelancaran kegiatan yang berhubungan dengan
+usaha budidaya yang meliputi sarana jalan, telpon, listrik, sumberdaya
+manusia, pakan, pasar, ketersediaan bimbingan harus dalam jumlah yang
+cukup memadai serta bahan-bahan untuk komoditi budidaya mudah
+diperoleh.
+Sedangkan aspek dari aspek non teknis harus memperhatikan sektor-sektor
+yang berkaitan dengan kebijaksanaan penggunaan lahan dalam hubungan
+dengan kepentingan sektor lain seperti pariwisata, pelayaran, dll.
+2) Sarana produksi
+Metoda budidaya ikan beronang di laut dapat dilakukan dengan metoda
+Karamba Jaring Apung (KJA) yaitu wadah atau tempat budidaya ikan yang
+terbuat dari bahan jaring yang digantungkan pada kerangka (rakit) di laut.
+a. Desain Konstruksi Keramba Jaring Apung
+Keramba Jaring Apung terdiri dari komponen rakit apung, kurungan,
+pelampung dan jangkar.  Cara pembuatan masing-masing komponen
+tersebut adalah sebagai berikut:
+-
+Rakit Apung
+Pembuatan rakit apung dapat dilakukan di darat dengan terlebih dahulu
+membuat kerangka sesuai dengan ukuran yaitu 8 x 8 m.  Kerangka ini
+berfungsi sebagai tempat peletakan kurungan yang berbentuk segi
+empat dan terbuat dari bahan bambu atau kayu.
+Setiap unit kerangka dapat terdiri dari 2 atau 4 kurungan tetapi secara
+ekonomi setiap unti dianjurkan sebanyak 4 (empat) buah kurungan.
+Kerangka ditempatkan di lokasi budidaya dengan diberi jangkar
+sebanyak 4 buah agar tetap pada tempatnya atau tidak terbawa arus.
+TTG BUDIDAYA PERIKANAN
+Hal. 6/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+Gambar 1.  Kerangka Rakit
+-
+Kurungan
+Kurungan berfungsi sebagai wadah pemeliharaan ikan yang terbuat
+dari bahan polyethilen (PE) D. 18 dengan lebar mata jaring antara 0,75
+~ 1".  Bentuk kurungan disesuaikan dengan bentuk kerangka rakit yaitu
+empat persegi dengan ukuran 3 x 3 x 3 m3.  Jaring apung yang telah
+siap dibuat di pasang pada kerangka rakit dengan cara mengikat ke
+empat sudut bagian atas pada setiap sudut kerangka.  Pola pembuatan
+kurungan dan cara pengikatan dapat dilihat pada gambar 2 dan gambar
+3 dan agar kerangka jaring apung tetap terbentuk bujur sangkar, maka
+pada sudut bagian bawah jaring diberi pemberat.
+Gambar 2.  Pola Pembuatan Kurungan Apung
+TTG BUDIDAYA PERIKANAN
+Hal. 7/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+Gambar 3.  Cara Pengikatan Jaring
+Gambar 4.  Kurungan Telah Dipasang pada Rakit
+-
+Pelampung
+Untuk mengapungkan sarana budidaya termasuk rumah 
+jaga
+diperlukan pelampung.  Pelampung dapat digunakan drum plastik
+volume 200 liter.  Dan untuk menahan rakit diperlukan pelampung
+sebanyak 12 buah.  Pelampung diikat dengan tali polyethelene (PE)
+yang bergaris tengah 0,8 ~ 1,0 cm.
+Gambar 5.  Penempatan dan Pemasangan Pelampung Pada Kerangka Rakit
+TTG BUDIDAYA PERIKANAN
+Hal. 8/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+-
+Jangkar
+Jangkar berfungsi untuk menahan sarana budidaya agar tidak bergeser
+dari tempatnya akibat pengaruh arus dan angin ataupun gelombang.
+Setiap inti keramba jaring apung dipergunakan jangkar 4 buah yang
+terbuat dari besi dengan berat 50 kg.  Panjang tali jangkar biasanya 1,5
+kali kedalaman perairan pada waktu pasang tinggi.
+Gambar 6 Pengaturan dan Pemasangan Jangkar
+b. Benih
+-
+Persyaratan Benih
+Benih yang digunakan untuk budidaya perlu diperhatikan dan diseleksi
+benih yang betul-betul sehat.  Benih yang sakit akan terhambat
+pertumbuhannya dan lebih berbahaya lagi adalah penularannya ke ikan
+di dalam wadah budidaya.
+Berdasarkan pengamatan visual secara umum benih yang sehat antara
+lain adalah :
+*
+Bentuk badan normal/tidak cacat/tidak sakit;
+*
+Gerakan ikan lincah;
+*
+Mempunyai respon yang tinggi terhadap pakan yang diberikan.
+-
+Penyediaan Benih
+Sampai saat ini benih ikan beronang yang digunakan dalam usaha
+budidaya berasal dari hasil penangkapan di alam.  Benih ikan beronang
+dapat diperoleh dalam jumlah besar pada saat musim puncak benih.
+TTG BUDIDAYA PERIKANAN
+Hal. 9/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+Untuk setiap jenis beronang musim puncaknya akan berlainan setiap
+lokasi.
+Penyediaan benih ikan beronang secara massal dari hatchery sampai
+saat ini masih dalam pengkajian walaupun pemijahan untuk beberapa
+jenis sudah berhasil dilakukan.
+-
+Penanganan dan Transportasi Benih
+Benih ikan beronan sangat peka terhadap perubahan lingkungan
+seperti suhu dan salinitas, sehingga penanganan benih ikan beronang
+sangat perlu dijaga hati-hati.
+Pada saat pemindahan benih dari suatu wadah ke wadah lain harus
+selalu diambil bersama airnya.  Pemindahan benih dapat dilakukan
+sehari setelah pengumpulan dan cukup memberikan istirahat bagi ikan
+dan untuk perlakuan selanjutnya disarankan untuk menggunakan seser
+yang tidak cekung untuk menghindarkan luka-luka di kulit akibat
+persentuhan benih satu sama lain.
+Pengangkutan benih ikan beronang untuk jarak dekat dapat digunakan
+keramba dengan anyaman bambu yang halus dan diapungkan di air.
+Keramba diseret perlahan-lahan menuju tempat budidaya.  Dan untuk
+jarak jauh dapat digunakan kantong-kantong plastik atau periuk-periuk
+tanah.
+Benih ikan beronang dengan perlakuan baik dan aklimasi yang cukup
+dapat ditransportasi sampai maksimum 48 jam.
+c. Pakan
+-
+Persyaratan Pakan
+Salah satu faktor yang sangat penting menentukan pertumbuhan ikan
+yang dipelihara adalah faktor ketersediaan pakan yang cukup baik
+kualitas maupun kuantitas sehingga harus diperhatikan sebaik-baiknya
+yaitu harus memenuhi komposisi dan jumlah nutrient/zat makanan yang
+dibutuhkan ikan untuk pertumbuhan.  Pakan yang diberikan sebaiknya
+yang masih baru (pellet) dan segar (ikan rucah).
+-
+Penanganan Pakan
+Untuk menjaga kualitas pakan yang diberikan untuk budidaya ikan
+beronang perlu diperhatikan penanganan terhadap pakan yang
+digunakan.  Hal yang perlu diperhatikan dalam penanganan pakan
+antara lain adalah tempat penyimpanan pakan harus bersih dan kering.
+TTG BUDIDAYA PERIKANAN
+Hal. 10/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+3) Teknologi Budidaya
+a. Pola Produksi
+Dalam usaha budidaya ikan laut pengaturan pola tanam perlu disesuaikan
+dengan ketersediaan seperti (benih, pakan) dan pengaruh dari musim
+serta ketersediaan pasar.  Untuk itu dalam kegiatan budidaya ikan di laut
+setiap lokasi akan berbeda sesuai dengan kondisi setempat.
+Dalam pengaturan pola tanam yang berhubungan daya serap pasar
+alternatif pola tanam adalah setiap KK adalah melakukan penanaman
+pada 1 unit karamba jaring apung yang terdiri dari 4 buah jurungan dan
+penebaran benih dapat dilakukan selang 3 hari - 1 minggu setiap KK atau
+tergantung dari daya serap pasar.
+b. Cara Penebaran Benih
+Benih sebelum ditebarkan perlu diaklimasikan terlebih dulu, kemudian
+secara perlahan-lahan ditebarkan ke dalam wadah budidaya.  Penebaran
+benih sebaiknya dilakukan pada pagi atau sore hari.
+c. Cara Pemberian Pakan
+Jenis pakan yang digunakan pada budidaya ikan beronang adalah pellet
+kering dengan jumlah sebanyak 2% dari berat badan ikan setiap hari.
+Frekuensi pemberian pakan sebanyak 3 kali sehari yaitu pagi, siang dan
+sore hari.
+Konversi pemberian pakan dengan menggunakan pellet biasanya 1 : 4
+yang berarti untuk memperoleh berat ikan 1 kg dibutuhkan pellet
+sebanyak 4 kg.
+d. Penanganan Hasil
+Panen ikan beronang dilakukan setelah masa pemeliharaan 4 ~ 6 bulan
+setelah penebaran.  Panen dapat dilakukan dengan dua cara yaitu :
+-
+Panen sebagian, dilakukan dengan cara memanen ikan yang telah
+berukuran tertentu tergantung kebutuhan pasar dengan menggunakan
+serok/lampit/alat angkap.
+-
+Panen seluruhnya, dilakukan dengan cara memanen hasil budidaya
+sekaligus dengan cara menarik/mengangkat sebagian jaring ke arah
+suatu sudut sehingga akan terkumpul pada suatu tempat dan kemudian
+diambil dengan menggunakan serok/lambit/alat tangkap dengan
+TTG BUDIDAYA PERIKANAN
+Hal. 11/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+berhati-hati agar ikan tidak mengalami luka/cacat.  Panen sebaiknya
+dilakukan pada saat udara sejuk.
+4) Manajemen Budidaya
+Permasalahan yang sering ditemui pada pemeliharaan ikan di laut dengan
+jaring apung adalah pengotoran/penempelan oleh organisme penempel pada
+sarana yang digunakan seperti kerangka, rakit, kurungan apung dan
+pelampung.  Penempelan organisme tersebut akan mengganggu pertukaran
+air dan menyebabkan kurungan bertambah berat.
+Untuk menanggulangi organisme penempel ini maka perlu dilakukan
+pembersihan terutama kurungan secara periodik paling sedikit 1 bulan sekali
+atau tergantung pada banyak sedikitnya organisme penempel.  Sedangkan
+untuk pembersihan kurungan dilakukan dengan menyikat atau dengan
+menggunakan mesin semprot jaring.
+5) Hama dan Penyakit
+a. Hama
+Hama yang sering mengganggu budidaya ikan beronang laut adalah
+berupa hewan/binatang atau pengganggu lainnya seperti burung dan
+lingsang.  Hama dapat menyerang dan membuat kerusakan pada
+kurungan ikan.  Penanggulangan hama dapat dilakukan dengan cara
+menutup bagian atas kurungan dengan jaring serta memagar/melingkari
+kurungan.  Selain itu gangguan karena pencurian oleh manusia perlu juga
+diwaspadai.
+b. Penyakit dan Pencegahannya
+Untuk mengetahui jenis penyakit dan cara pencegahannya diperlukan
+diagnosa gejala penyakit.  Gejala penyakit untuk ikan yang dibudidayakan
+dapat dilihat/diamati dengan tanda-tanda sebagai berikut :
+-
+Ada kelainan tingkah laku : salah satu atau beberapa ikan keluar dari
+kelompoknya dan cara berenangnya miring atau "driving" (ikan yang
+berada di permukaan langsung menuju dasar dengan cepat).  Gejala
+demikian biasanya disebabkan oleh beberapa penyakit, antara lian :
+penyakit insang, penyakit sistem saraf otak, keracunan bahan kimia
+logam berat, dan kekurangan vitamin.
+-
+Ikan tidak mau makan : perhatikan sudah berapa lama keadaan ini
+terjadi, penyebabnya adalah : penyakit diabetes (oxydized fatty),
+kelebihan mineral yang berasal dari pakan dan kebosanan yang terjadi
+karena persediaan pakan sedikit.
+-
+Ada kelainan pada bentuk ikan : hal ini terjadi pada rangka ikan dan
+permukaan tubuh ikan.
+TTG BUDIDAYA PERIKANAN
+Hal. 12/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+-
+Mata tidak normal : disebabkan oleh bakteri dan parasit tremotoda
+Giganea sp.
+Untuk organ tubuh bagian dalam gejala penyakit dapat terjadi pada :
+Insang
+:
+Hilang beberapa bagian, disebabkan kekurangan darah dan
+keracunan, atau parasit yang berupa ciliata dan monogenik.
+Otak
+:
+Terjadi pendarahan dan TBS, disebabkan oleh parasit
+Myxosporadia, Giganea sp, Streptococcus sp, dan Nocardia
+sp.
+Jantung
+:
+Menjadi tebal dan membesar, disebabkan oleh bakteri klas
+Mycospradia, membran jantung membesar karena diserang
+bakteri Streptococcud spp.
+Hati 
+:
+Membesar atau mengecil, warna hijau/kuning, disebabkan
+oleh perubahan kadar lemak (fatty change liver desease).
+Jamur yang berasal dari pakan yang terkontaminasi dapat
+menyebabkan hati mengalami pendarahan, keras, mudah
+pecah.
+Lambung :
+Menjadi kembung, luka dan berlobang, disebabkan oleh
+parasit yang     termasuk klas Cestoda.
+Usus
+:
+Luka, 
+pendarahan, 
+keluar 
+dari 
+anus 
+dan 
+vibriosis,
+disebabkan oleh parasit dalam klas Nematoda, Trematoda,
+Cestoda dan Acanthocephala.
+Limpa
+:
+Menjadi besar/kecil dan kekurangan darah, disebabkan oleh
+adanya penyakit di bagian lain.
+Otot
+:
+Warna tidak jelas/putih, terjadi pendarahan, disebabkan oleh
+bakteri Nacordia sp atau serangan parasit Microsporidae.
+c. Penanganan Ikan Sakit
+Penanganan terhadap ikan sakit dapat dibagi atas dua langkah yaitu :
+-
+Berdasarkan teknik budidaya :
+Tindakan-tindakan yang dilakukan antara lain adalah :
+* Menghentikan pemberian pakan pada ikan;
+* Mengganti makanan dengan jenis lain;
+* Mengkelompokkan 
+ikan 
+menjadi 
+kelompok-kelompok 
+yang
+kepadatannya/ densitasnya rendah;
+* Bila mungkin ikan-ikan dipanen, daripada menjadi wabah bagi ikan
+yang lain.
+-
+Berdasarkan terapi kimia :
+Hal-hal yang perlu diperhatikan dalam tahap ini adalah :
+* Memeriksa 
+kepekaan 
+dari 
+masing-masing 
+obat 
+yang 
+akan
+digunakan;
+* Memeriksa batas dosis yang aman untuk masing-masing obat agar
+tidak terjadi "over dosis";
+* Menjaga agar obat tidak terkontaminasi oleh bakteri;
+* Memperhatikan keterangan yang dikeluarkan oleh pabrik obat
+tersebut.
+TTG BUDIDAYA PERIKANAN
+Hal. 13/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+d. Cara Pemberian Obat
+Cara pemberian obat yang akan digunakan dapat ditentukan sendiri
+dengan memperhatikan bentuk obat, jumlah ikan yang terkena penyakit,
+kondisi dan sarana yang dimiliki di lapangan (tempat budidaya).
+Ada beberapa cara pemberian obat yang dapat digunakan, yaitu :
+-
+Ditenggelamkan dalam tempat budidaya;
+-
+Disebarkan pada permukaan;
+-
+Dicampurkan dalam pakan;
+-
+Dengan cara injeksi.
+Pada 
+ikan 
+beronang 
+biasanya 
+banyak 
+kedapatan 
+parasit 
+jenis
+monogenetik trematoda pada bagian insangnya, parasit ini dapat
+dilepaskan dengan mengunakan "dipterex" (organoposfat, sinonim : Dylox,
+Masoten, Neguvon) dengan dosis sebesar 30 ppm selama 8 - 16 m enit
+dan 50 ppm selama 4 - 5 menit.  Percobaan ini hasilnya positif, dengan
+tingkat kematian ikan beronang sampai 0%.
+Waktu dan dosis obat yang diberikan perlu diperhitungkan dengan hati-
+hati agar tidak terjadi kelebihan dosis yang dapat mengakibatkan
+kematian pada ikan.  Oleh karena itu perlu diketahui berapa jumlah dosis
+yang digunakan.  Di bawah ini diberikan beberapa dosis yang mematikan
+terhadap beberapa jenis ikan beronang.
+Tabel 4. Dosis Dipterex yang mematikan terhadap beberapa jenis ikan beronang
+(Tanaka dan Basyari, 1982).
+No.
+Jenis Ikan
+Panjang Total
+Rata-rata (cm)
+Konsentrasi
+Dipterex (ppm)
+Waktu
+(menit)
+1.
+S. canaliculatus
+3
+30
+39
+2.
+S. canaliculatus
+8-12
+50
+9
+3.
+S. guttatus
+3
+30
+49
+4.
+S. guttatus
+5-8
+50
+9
+5.
+S. javus
+3
+50
+4
+6.
+S. javus
+3
+30
+28
+7.
+S. javus
+9-11
+50
+9
+8.
+S. javus
+15
+30
+15
+e. Pencegahan penyakit
+Untuk mencegah agar ikan yang dibudidayakan tidak terkena penyakit
+dapat dilakukan hal-hal sebagai berikut :
+-
+Menjaga kebersihan tempat budidaya;
+TTG BUDIDAYA PERIKANAN
+Hal. 14/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+-
+Menjaga lingkungan/tidak tercemar oleh limbah industri dan bahan-
+bahan kimia pertanian;
+-
+Memeriksa jenis pakan yang akan diberikan dan hindarkan kontaminasi
+jamur;
+-
+Lakukan vaksinasi bagi ikan yang sehat.
+4.
+DAFTAR PUSTAKA
+1) Dana Kusumah, E., 1985, Beberapa Aspek Biologi Ikan Beronang (Siganus
+spp) Workshop Budidaya Laut 28 Oktober - 1 Nopember 1985 di Lampung.
+10 pp.
+2) WASPADA, E, Hiroki, 1985.  Percobaan Pemberian Pakan pada
+Pemeliharaan Benih Ikan Beronang, Workshop Budidaya Laut 28 Oktober - 1
+Nopember. 68 - 73 p.
+3) Marto Sewajo, S., Burhanudin, Djamali, P. Sianipar. 1981.  Ikan Beronang.
+Biolobi , Potensi dan Pengelolaannya. LON - LIPI. 45 p.
+4) Basyori, A., E. Dana Kusumah; Philip T. T, Pramu, S, Musthahal dan M. Isra.
+Budidaya Ikan Beronang (Siganus spp).  Direktorat Jenderal Perikanan
+bekerjasama dengan IDRC, 39 p.
+5) Informasi Teknologi, BBL.
+5.
+SUMBER
+Pedoman Teknis Budidaya Ikan Beronang, Direktorat Bina Produksi, Direktorat
+Jenderal Perikanan, Departemen Pertanian, Jakarta, 1997.
+6.
+KONTAK HUBUNGAN
+Direktorat 
+Bina 
+Produksi, 
+Direktorat 
+Jenderal 
+Perikanan, 
+Departemen
+Pertanian, Jakarta.
+Jakarta, Maret 2001
+Disadur oleh
+:
+Tarwiyah
+KEMBALI KE MENU

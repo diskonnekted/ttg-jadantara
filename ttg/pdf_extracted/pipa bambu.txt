@@ -1,0 +1,11280 @@
+262.7
+90
+BA
+262.7—7803
+I%u.~
+~
+~
+~
+~-~~•~çjpç ~
+Tampereen teknhllinen korkeakoulu
+Rakennustekniikan osasto
+Vesi- ja ympâristöteknhikan laitos
+Tampere University of Technology
+Department of Civil Engineering
+Institute of Water and Environmental Engineering
+Postgraduate Course in Water Supply and
+Sanitation 1988-90
+in co-operation with
+Finnish International Development Agency
+FINNIDA
+N:oB43
+Katakweba, M.
+LAKE
+VICTO R 1
+Bamboo as an Alternative Pipe Material for
+Rural Water Supply in Tanzan1~~E~
+1
+IY~ ilY WA~ER
+1
+—
+-,
+~O)
+~
+7~O9AD
+The Hagu~
+~
+(O7,~O)8~4311ext. 141/142
+RN: ~t \~ ~O3
+LO:
+1
+~
+LAKE
+TANGANYIKA
+LEGEND:
+BAMBOO WATEPPIPE
+SCHEMESIN OPERATION
+~
+EXISTING BAMBOO FORESTS
+UDK 628.1.14/.15
+ISBN 951—721—573—8
+ISSN 0784—655X
+Tampere, Finland 1990
+BAMBOO
+AS
+AN ALTERNATIVE
+PIPE MATERIAL FOR
+RURAL
+WATER
+SUPPLY IN TANZANIA
+Page
+TABLE OF CONTENTS
+ABSTRACT
+INTRODUCTION
+1
+2
+BAMBOO AS AN ALTEENATIVE PIPE
+MATERIAL
+3
+2.1
+Species of bamboo
+3
+2. 1
+. 1
+Tanzanian species
+3
+2.1.2
+Growth process of bamboo
+5
+2.2
+Physical and chemical characteristics
+of
+bamboos
+6
+2.2.1
+Bamboo culm structure
+7
+2.2.2
+Physical dimensions
+7
+2.2.3
+Strength characteristics
+8
+2.3
+Hydraulic properties
+of baxnboo pipes
+9
+3
+EXPERIMENTAL
+INVESTIGATIONS ON HYDRAULIC PROPERTIES
+OF BAHBOO PIPES
+10
+3.1
+Pipe friction investigations
+10
+3.1 .1
+Methodology
+10
+3.1.2
+Measures
+11
+3.1.3
+Experiment procedure
+12
+3.2
+Pressure tests methodology
+12
+3.3
+Pipe friction resuits
+and discussion
+13
+3.3.1
+Theoretical considerations
+13
+3.3.2
+Resuits of experiments
+15
+3.3.3
+Factors influencing pipe friction
+16
+3.3.4
+Comparison with existing literature
+17
+3.4
+Pressure test resuits
+and discussion
+19
+3.4.1
+Results and discussion
+19
+3.4.2
+Comparison with existing literature
+21
+4
+PLANNING AND DESIGN OF BAHBOO WATER SUPPLY
+SCHEMES
+22
+4.1
+Planning principles
+22
+4.1.1
+Planning procedures in practice
+22
+4.1.2
+Financial considerations
+23
+4.2
+Design principles
+23
+4.2.1
+Design period
+23
+4.2.2
+Design pressure
+24
+4.3
+Typical designs
+of bamboo water supply schemes
+25
+4.3.1
+Design aspects
+25
+4.3.2
+Theoretical design example
+26
+4.3.2.1
+Flow in pipes
+26
+4.3.2.2
+Domestic points
+27
+4.3.2.3
+Distribution reservoirs
+27
+4.3.2.4
+Break pressure tanks
+28
+4.3.2.5
+Concept and location of
+sedimentation tanks
+29
+5
+CONSTRUCTION OF BA~BOO WATER SUPPLY SCHEMES
+31
+5.1
+Construction process
+31
+5.2
+Pretreatment of bamboo pipes
+31
+5.2.1
+Removal
+of partition wails
+32
+5.2.2
+Desapping
+33
+5.2.3
+Pressure testing
+33
+5.3
+Preservation
+33
+5.3.1
+Internal preservation
+34
+5.3.1.1
+Impregnation with non-toxic
+preservatives
+34
+5.3.1.2
+Saturation of pipelines
+37
+5.3.1.3
+Internal coatings
+37
+5.3.2
+External preservation
+37
+5.4
+Pipe jointing
+39
+5.5
+Pipe laying
+40
+5.5.1
+Procedure
+40
+5.5.2
+Lateral
+connections,
+valve connections
+and pressure relief chambers
+40
+6
+OPERATION AND MAINTENANCE OF BANBOO WATER SUPPLY
+SCHEMES
+41
+6.1
+Operational problems
+41
+6.2
+Assessment of operating bamboo water supply
+schemes
+42
+6.2.1
+Present situation
+42
+6.2.2
+Monthly scheme records
+43
+7
+COSTS AND ECONOMICAL CONSIDERATIONS
+45
+7.1
+Cost estimation
+45
+7.1.1
+Manufacturing costs
+45
+7.1.2
+Installation costs
+47
+7.1.3
+Maintenance costs
+47
+7.2
+Economics
+of investment
+48
+7.3
+Cost comparison with polythene pipes
+48
+8
+CONCLUSIONS AND RECOMMENDATIONS
+51
+9
+REFERENCES
+53
+.~PEM13ICES
+Katakweba,
+M.
+1990.
+Bamboo
+as
+an Alternative Pipe Material
+for
+Rural
+Water
+Supply
+in
+Tanzania.
+Tampere
+University
+of
+Technology,
+Institute
+of
+Water
+and
+Enviroriniental
+Engineering.
+Publication B 43.
+55 p.,
+app.
+11
+p.
+ABSTRACT
+Bamboo pipes have been traditionally used as water conduits
+in many parts of the world. They are cheap to use, maintain
+and
+easy
+to construct especially where
+the
+material
+is
+locally available.
+In Tanzania, bamboo pipes have been used
+since early 1970’s.
+Over 300 km of bamboo pipelines
+supply
+water for more than 150
+000 Tanzanians.
+The
+principal objective of this study was to
+observe
+the
+appropriateness
+of
+using
+bamboo pipes
+as
+water
+supply
+conduits with respect
+to specific engineering behaviour as
+compared
+to
+conventional
+pipes.
+Present
+construction
+methodology,
+operation
+and
+maintenance
+procedures
+for
+operating
+schemes
+and the cost aspect of
+the
+technology
+were investigated.
+The
+study was based on an intensive literature review
+and
+laboratory
+investigations on the hydraulic
+properties
+of
+bamboo pipes.
+The roughness coefficients of the Manning
+(n)
+and
+Hazen-Williams
+(C)
+eguations have been determined
+and
+the
+pressure
+withstanding
+ability
+of
+the
+pipes
+investigated.
+Average
+values of the roughness coefficients n and C
+were
+observed
+to vary 0.016
+-
+0.013
+and
+80
+-
+95
+respectively.
+Factors
+like
+internode
+removal,
+non-uniformity
+or
+irregularity of the pipe diameter and the roughness of
+the
+inside of
+the bamboo culm wall were observed to affect
+the
+roughness
+coeffic±ents.
+Also most of the
+values
+of
+the
+friction
+factor (
+)
+plotted against the
+Reynolds
+number
+(Re)
+on
+the Moody diagram were in the
+rough
+turbulent
+zone.
+This justified the use of exponential formulae
+where
+the friction factor is a function of relative roughness.
+The
+observed maximum water pressures of bamboo pipes
+were
+350
+-
+800 kPa.
+It
+was
+observed
+that
+bamboo
+pipes
+can
+withstand
+high
+instantaneous pressures
+under
+laboratory
+conditions
+opposite
+to
+their
+10w
+ability
+under
+field
+conditions.
+Factors
+influencing this pressure
+performance
+could
+not
+be depicted clearly and
+poor
+correlation
+was
+observed under nodal distances and the culm wall thickness.
+1
+1
+INTRODUCTION
+Lack
+of
+conventional pipe
+materials,
+unstable
+economic
+situation
+in
+the
+country and other
+problems
+like
+poor
+infrastructure,
+are
+the
+major
+hindrances
+in
+the
+implementation
+of
+rural
+water
+supply
+in
+Tanzania.
+Conventional
+pipes need huge amounts of
+foreign
+currency
+even
+if
+the pipes are manufactured locally.
+Under
+these
+circumstances
+bamboo pipes are realized as an
+alternative
+solution.
+In early 1970’s Tanzania started investigations on the
+use
+of
+locally available materials,
+wood and bamboo,
+as
+water
+conduits.
+Investigations were a pioneer work,
+but they
+did
+not add much peoples interest;
+indeed,
+the only
+motivating
+force was
+that people needed water and due to their limited
+resources,
+alternative
+means
+at lower costs
+had
+to
+be
+found.
+For
+centuries
+the bamboo played an important role in
+the
+daily life of people in many tropical countries.
+Recently a
+growing interest in the peculiar plants,
+the bamboos,
+with
+their
+rapid rate of growth and multipurpose use
+has
+been
+generated.
+This
+‘poor man’s timber’
+or sometimes
+referred
+to
+as
+‘miracle
+grass’
+can
+simultaneously
+be
+used
+in
+agriculture,
+construction, energy source,
+paper
+industry,
+piping,
+furniture,
+handicrafts,
+etc.
+Its
+socio-economic
+importance
+for the rural population and the use of
+modern
+technologies
+to manufacture these products is realized.
+Lipangile
+(1984)
+confirmed that the use of bamboo pipes
+in
+the small communities of the rural areas
+is quite feasible,
+cheap
+and easy to implement.
+The outstanding advantage
+of
+bamboo pipes over the conventional ones is
+that bamboos are
+abundant
+in
+rural
+areas.
+They
+are
+easy
+to
+harvest,
+transport and store,
+and a bamboo piping system is cheap to
+construct
+and
+maintain. The construction
+process
+though
+labour
+intensive is best carried out at the village
+level
+with the exception of the design work.
+Bamboo pipes are limited to high pressures which makes them
+inferior
+to
+conventional
+pipes.
+They
+need
+careful
+maintenance and sophisticated chemical treatment to prevent
+them against termite and fungal attack.
+Unfortunately,
+although
+bamboo
+pipes
+have
+been
+used
+traditionally
+as water pipes in many parts of
+the
+world,
+scientific
+information
+regarding
+their
+behaviour
+as
+engineering material is very insufficient. Bamboo pipes
+in
+conveying
+water raise the following guestions
+on
+design,
+construction, operation and maintenance of the schemes:
+2
+-
+What are
+the
+factors affecting the hydraulic
+properties
+of bamboo pipes?
+-
+What
+is
+the influence
+of different
+parameters
+on
+the
+pressure performance of bairiboo pipes?
+-
+What are the present design and construction
+techniques,
+as well as operation and maintenance procedures?
+-
+How are the operating schemes performing?
+-
+What
+are
+the
+cost
+differences
+between
+bamboo
+and
+conventional pipes?
+-
+What
+are
+the general advantages
+and
+disadvantages
+of
+using bamboo?
+In
+this
+study
+the effect of various
+parameters
+on
+the
+hydraulic
+properties of the bamboo pipes as well as
+their
+pressure
+withstanding
+ability
+were
+investigated
+under
+laboratory
+conditions.
+An attempt was made
+to
+establish
+parameters
+that influence pressure performance
+of
+bamboo
+pipes.
+In
+general,
+the
+friction
+factors,
+roughness
+coefficients
+and
+bursting pressure of bamboo
+pipes
+were
+investigated. Also the performance of existing schemes
+and
+the
+comparative costs of bamboo and polythene
+pipes
+were
+investigated.
+3
+2
+BAMBOO AS AN ALTERNATIVE
+PIPE MATERIAII
+2.1
+Species
+of
+bamboo
+Bamboo
+is the tallest and thinnest type
+of
+monocotyledon
+belonging
+to
+the family of the Gramine grasses.
+It
+is
+a
+perennial plant which grows
+in different parts of tropical
+and
+sub-tropical
+regions
+in
+the
+world.
+The
+largest
+abundance
+is
+recorded in South-East Asia.
+Sharma
+(1980)
+reported
+that
+there are 75 genera and
+1
+250
+species
+of
+bamboos
+which
+are widely distributed
+ranging
+from
+the
+coastal belt up to an altitude of 3
+700 m depending on
+the
+specie.
+2.1 .1
+Tanzanian species
+There
+are two main species of bamboo in
+Tanzania
+(Johan
+1979): Arundinaria A].pina
+(A.
+Alpinaj
+and
+Bambusa Vulgaris
+(B.
+Vulgarjs).
+A.
+Alpina,
+also called the
+Green
+African
+Mountain
+Bamboo,
+is
+an indigenous
+species
+which
+grows
+between
+altitudes
+2
+500
+-
+3 400 m.
+Unlike
+most
+other
+species
+it
+does
+not
+grow
+in
+clumps,
+but
+appears
+in
+forests. One hectare can contain more than 5
+000 stems
+and
+where
+conditions
+are
+favourable
+it
+will
+take
+3
+-
+4
+years
+for
+a bamboo to grow to full maturity.
+The
+lowest
+part of the stem is straight up to about
+7 m with
+internal
+diameter of 60
+—
+70 mm. At its full maturity,
+this
+species
+reaches a
+height
+of
+18 m
+with
+an
+internal diameter of
+50
+-
+85
+mm.
+The distance between nodes
+is about
+700
+mm.
+Figure
+1
+shows
+A.
+Alpina from Rungwe Mountains
+in
+Mbeya
+district,
+Southern Tanzania.
+Figure
+1.
+A.
+Alpina bamboo species
+from Rungwe Mountain,
+Mbeya,
+Tanzania
+(van der Heuvel
+1983).
+4
+Comparatively,
+B.
+Vulgaris,
+a
+green
+stripped,
+yellow
+coloured
+bamboo
+has
+the
+ability
+to
+withstand
+high
+pressures.
+Whereas
+the green bainboo has shorter
+distances
+between
+nodes
+of
+250
+-
+300 mm
+with
+larger
+diameters
+up to
+150 mm,
+A.
+Alpina
+has
+nodal
+distances
+of
+about
+700 min
+and
+its
+density
+in
+the
+forest
+is about
+10 000
+—
+1
+500 stems/hectare.
+Tanzania
+forest officials estimated the total coverage
+of
+bamboo
+forests
+in Kigoma
+and Kibondo
+districts
+and
+in
+Lindi
+Region
+to be 700 km2. According to
+Clayton
+(1970,
+cited
+by van der Heuvel 1983),
+the flora of tropical
+East
+Africa
+known
+as
+Oxytenanthera Abyssinica
+is
+a
+species
+growing
+in dense clumps with
+3
+-
+10 m high cuims.
+Similar
+to this species is Oxytenanthera Macrothyrsus found in
+Dar
+es
+Salaam
+and
+Kisarawe along the
+coast.
+Other
+species
+inciude
+Oxytenanthera Braunii found in Iringa
+Region
+and
+Oreobambos Buchwaldii
+found in East Usambara mountains
+and
+Rungwe
+district.
+Figures
+2
+and 3
+show
+some
+of
+these
+species.
+Legend:
+1. piece of cula taken
+6
+m above ground
+level
+2. leafy branchlets
+with inflorescencea
+3.
+part of unc3er-side
+of Leaf blades
+showing tessellate
+venation
+4. apikelet
+5.
+lemma
+6. pales
+7.
+androcium
+8. gynoecium
+Figure
+2.
+(Clayton 1970,
+cited
+Oxytenanthera
+Abyssini~
+by van der Heuvel
+1983).
+5
+Legend:
+1.
+leaf branchiet
+2.
+leaves
+3.
+part of dorsal
+surf ace of b].ade
+showing tessellate
+venation
+4a.
+flowering branchiet
+4b. flowering branchiet
+5.
+spikelet cluster
+6.
+bract
+7.
+apikelet cluater
+Figure 3.
+preobambos
+Buchwaldii
+(Clayton 1970,
+cited
+by
+van der Heuvel 1983,
+modified by the author).
+2.1.2
+Growth process of bamboo
+Bamboo planting is propagated by the seed or offshoots
+and
+in
+some
+cases by cutting or layers.
+Due
+to
+scarcity
+of
+seeds,
+the vegetative method is usually preferred though it
+has the disadvantage of resulting into clumps which
+flower
+along with the parent clump rendering to short life span of
+the
+offsprings.
+Research
+is
+to
+be
+done
+on
+bamboo
+propagation
+including
+studies
+on
+possible
+hormonal
+treatment
+(Gaur 1985).
+Bamboo cuims attain their maximum size in about a year.
+At
+this
+time,
+however,
+they lack strength.
+Full maturity
+is
+attained
+after three years.
+Mature bamboo culms
+are
+tali
+and
+thick
+with
+15
+-
+30 m
+height,
+200
+-
+250 mm
+external
+diameter
+and thickness of up to 30 mm. New cuims shoot
+up
+like
+rhizomes
+from the periphery of the clump.
+Figure
+4
+shows typical shoot-outs of the A.
+Alpina species.
+6
+Legend:
+1.
+leafy shoot
+2.
+part of the under-
+side of leaf-blade
+showing tessellate
+venation
+3.
+flowering shoot
+4.
+spikeLet
+5.
+lower glume
+6.
+upper glume
+7.
+lemina
+8.
+palea
+9.
+flower with
+lodiculea
+dissected
+free
+10. caryopsis,
+dorsal
+view
+1-1. caryopsig,
+ventral
+view
+Figure
+4.
+A.
+Alpina
+(Clayton
+1970,
+cited
+by
+van
+der
+Heuvel
+1983).
+The
+phenomenon
+of bamboo flowering still
+puzzles
+bamboo
+scientists.
+It
+is infrequent and gregarious
+in
+most
+of
+bamboo species.
+In some cases,
+all bamboo culms of the same
+species
+flower at the same time irrespective of the age
+or
+location.
+Records show that bamboos flower at the
+age
+of
+30
+-
+60 years and such flowerings are followed by
+the
+culm
+death which can happen on large scale.
+2.2
+Physical and chemical characteristics of bamboos
+Bamboos
+vary a lot in their natural appearance from
+small
+thin species to species with 300 mm thick sterns
+which
+can
+reach
+a height of 30 m.
+All are however
+characterized
+by
+hollow
+sterns having solid nodes
+(with partition wails)
+at
+intermediate
+distances.
+Cuims
+with
+shorter
+intervals
+between
+nodes are strong and durable
+(Jacobs and
+Lindburg
+1978).
+t
+7
+2.2.1
+Bamboo culm structure
+Many
+researchers have studied the structure of the
+bamboo
+culm.
+Liese
+(1986) has observed that
+between
+internodes,
+ceils
+are
+axially
+oriented and in
+the
+nodes
+they
+are
+traversely
+interconnected
+with
+branching
+vessels.
+The
+inter-branching
+at the nodes eventually solidifies into
+a
+partition
+wall.
+The high tensile strength of
+the
+bamboo
+culm
+is thus attributed to the different
+orientations
+of
+the underlying fibral layers.
+The
+main chemical constituents of the culm are
+cellulose,
+peritosans
+and
+lignin
+whose distribution
+in
+the
+plant
+varies
+between different species. Cellulose is
+the
+major
+constituent. Other compounds occurring are small quantities
+of resins,
+saits,
+tannins and wax.
+As
+the culm grows,
+the proportions of
+these
+constituents
+vary,
+and
+on
+reaching full
+maturity
+the
+lignification
+process
+ceases.
+Studies
+(Chen
+Youde
+1985,
+cited
+by
+Lipangile
+1990)
+have shown that with increase in culm age,
+contents of cellulose decrease.
+2.2.2
+Physical dimensions
+Experiments to determine variations in bore size along
+the
+bamboo
+stem
+revealed
+that
+the
+portion
+of
+the
+bamboo
+starting
+from
+1
+m to 5 m was of uniform
+bore
+size
+and
+thickness
+(Msimbe 1984).
+Table
+1
+shows the variation of the
+average
+bore
+size and the difference in diameter
+at
+the
+pipe ends.
+Table
+1.
+Variations
+in average bore size and diameter
+of
+A,
+Alpina species
+(Msimbe
+1984).
+Average bore size
+Difference in diameter
+mm
+mm
+38
+3
+50
+1
+63
+1
+75
+0
+Most of the physical dimensions vary with species and
+from
+stem to stem of the same species.
+It is rare to find bamboo
+species with similar dimensions and in fact small or bigger
+variations
+are
+predominant.
+Table
+2
+shows
+typical
+variations
+of the
+physical dimensions of the
+A.
+Alpina
+species
+as observed in this study.
+8
+Table
+2.
+Physical
+dimensions of various bamboo pipes
+for
+the A. Alpina.
+Internal
+diameter
+mm
+External
+diameter
+mm
+Wall
+thickness
+mm
+Uniform
+length
+m
+60
+75
+15
+3.97
+58
+75
+17
+3.96
+52
+76
+24
+3.72
+61
+77
+16
+3.85
+62
+77
+15
+4.00
+54
+74
+20
+3.83
+65
+81
+16
+4.20
+56
+74
+18
+3.83
+58
+76
+18
+3.85
+56
+75
+19
+3.98
+59
+76
+17
+3.96
+63
+79
+16
+3.98
+59
+79
+20
+4.04
+54
+71
+17
+4.00
+2.2.3
+Strength
+characteristics
+Each species of bamboo has its own strength characteristics
+(United
+Nations
+1972).
+For the use of baznboo as
+a
+water
+pipe it is a disadvantage that the shearing strength of the
+bamboo
+culm
+is
+low compared to that
+of
+wood.
+This
+is
+because the fibres of wood form rays while those of
+bainboo
+are merely glued together by pectin.
+Iringili
+and Mahungu
+(1979)
+experimented
+pressures
+which
+bamboo
+can
+withstand and revealed that
+the
+material
+is
+capable of standing very high instantaneous pressures.
+For
+the green bamboo values up to 600 kPa were observed and for
+the
+yellow bamboo up to
+1
+000 kPa. However,
+the
+pressure
+withstanding capability differs very much from stem to stem
+and
+maximum
+values
+drop considerably when
+the
+stem
+is
+exposed
+to
+high pressures for long times.
+No
+parameters
+could
+be
+established which correlated
+or
+predicted
+the
+pressure
+withstanding
+capability.
+It was
+also
+conciuded
+that
+working pressure for green bamboo should
+not
+exceed
+150 kPa and for yellow bamboo 200
+-
+300 kPa.
+According
+to
+Lipangile and Landman
+(1976),
+when
+bamboo
+pipes are reinforced by putting wire around it,
+there is
+a
+significant impact on the pressure withstanding ability
+in
+case of the green bamboo,
+whereas
+it was less dear
+for the
+yellow
+bamboo.
+This
+is probably because
+the
+surface
+of
+yellow
+bamboo
+is harder and smoother than that
+of
+green
+bamboo.
+Tightening
+of wires around the yellow
+bamboo
+by
+hand
+devices
+were
+more difficult
+resulting
+in
+a
+less
+effective
+contact between the wire and the
+surface.
+When
+green
+bamboo pipes are reinforced,
+their pressure
+ability
+increases
+with
+decreased reinforcement spacing.
+Table
+3
+shows some of the strength properties of bamboos.
+9
+Table
+3.
+Strength properties of bamboos
+(Bajaj et al 1970,
+cited by Lipangile 1990).
+Strength properties
+Unit
+Value
+Specific
+gravity
+kg/m3
+575
+-
+655
+Average weight
+kg/m
+0.625
+Static bending
+-
+fibre stress at elastic limit
+-
+modulus of rapture
+-
+modulus of elasticity
+Ultimate crushing stress
+kg/cm2
+kg/cm2
+kg/cm2
+kg/cm2
+390
+610
+1.5
+520
+-
+-
+-
+-
+100
+1
+600
+2x105
+720
+Average tensile stress at
+yield point
+Ultimate compressive stress
+Safe working stress in tension
+kg/cm2
+kg/cm2
+kg/cm2
+1
+400
+794
+160
+-
+-
+-
+2 800
+864
+350
+Safe working stress in
+compression
+Safe working stress in shear
+kg/cm2
+kg/cm2
+115
+-
+105
+180
+2.3
+Hydraulic properties of bamboo pipes
+The use of bamboo as piping material has some
+limitations:
+the
+friction factor and the water haminer bearing
+capacity
+of the pipe.
+Whereas the former factor has a large
+bearing
+on the pressure losses,
+the latter signifies the extent
+to
+which
+the
+pipe can bear pressure
+without
+bursting
+upon
+valve closure
+(Jacobs and Lindburg 1978).
+According
+to
+Suhan
+(1979)
+the
+discharge-pressure
+measurements
+showed
+bigger
+variations
+of
+the
+friction
+factor
+(X)
+as determined
+by Darcy—Weisbach equation
+with
+Reynolds
+number
+(Re).
+Most of the
+resu],ts
+depicted
+the
+rough
+turbulence conditions as was indicated on the
+Moody
+diagram.
+Suhan
+(1979)
+also concluded in his experiment that
+values
+of Manning roughness coefficient
+(n)
+and Hazen-Williams
+(C)
+coefficient varied 0.013
+-
+0.016 and 75
+— 90
+respectively.
+The
+lower n—values indicate good node removal
+and
+higher
+ones
+poor
+node removal from the inside of
+bamboo
+pipes.
+Suhan
+(1979)
+further conciuded that if the quality of
+the
+node
+removal
+is
+not known,
+it is advisable
+to
+use
+the
+values given for poorly removed nodes.
+Jacobs and
+Lindburg
+(1978)
+defined
+good
+removal
+of
+nodes
+as
+].eaving
+a
+difference
+(s)
+of
+1
+mm between radii
+at
+node
+contraction
+and away from it.
+10
+3
+EXPERIMENTAL
+INVESTIGATIONS
+ON HYDRAULIC PROPERTIES
+OF
+BAMBOO PIPES
+3.1
+Pipe friction
+investigations
+3.1 .1
+Methodology
+The
+experiments
+on
+the friction
+factors
+and
+roughness
+coefficients were performed at the Hydraulics Laboratory at
+the University of Dar es Salaam during
+November
+-
+December
+1989.
+Samples of bamboo pipes were obtained from Iringa and
+supplied
+by the Wood/Bainboo Department of the £4inistry
+of
+Water.
+Test eguipment
+The
+tested sections
+(3.7
+-
+4.2 m long bamboo
+pipes)
+were
+connected individually through PVC couplings
+to a
+constant
+head tank.
+Each pipe was laid horizontally with gate valves
+at
+both ends enabling to achieve a wide range of
+pressure
+and discharge.
+Figure 5
+shows the experimental set-up.
+_
+-
+4 PIEZOMETERS
+~ELINE
+-
+/
+ONTROL i~
+/
+1;
+=
+______
+~
+,,,,
+J
+1~1~TCh1.~h4~!L
+~
+/ff~/ff7/Tf7~/~,’~7
+~,‘.‘~/7.’.f7/ff
+f17
+_________
+L~3.O—40m
+SUMP
+E
+0s
+1~E
+CONSTANT HEAD
+TANK
+O.98x0.98~1.301fl
+E
+‘0
+os
+cs.
+r
+kIA
+tiÏDRAUL(C
+-
+-_-.___
+BAM BO O_~
+1
+2
+3
+4
+~F—
+sP~o~r~
+Legend:
+Q
+volumetric flow rate in the pipe
+L
+= interval between two piezometers
+h~0= reading of V—notch weir for Q
+= Q
+h~t= reading of V-notch weir for Q
+= Qt
+= V-notch apex angle
+600
+hf
+= friction loss
+Figure
+5.
+Pipe friction experimental set-up.
+11
+The
+apparatus was designed
+to enable the
+measurements
+of
+the discharge and the pressure at various points along
+the
+pipe.
+Principally,
+the
+set-up
+is
+used
+to
+determine
+experimentally
+the
+friction coefficients
+of
+the
+tested
+pipes.
+These coefficients are the function of the following
+parameters:
+the
+diameter
+(D)
+(measured
+directly),
+the
+discharge
+(in/or
+directly
+measured
+at
+V-notch),
+water
+viscosity
+(function
+of
+temperature)
+and
+slope
+of
+the
+hydraulic
+grade
+line.
+The latter
+was
+obtained
+through
+pressure measurements of four equidistant piezometers.
+Pipes
+Fourteen pipes
+of diameters 51
+-
+65 mm and wall
+thickness
+of
+15
+-
+24
+mm
+were tested.
+Five pipes
+(pipes
+number 1,
+3,
+4,
+5 and 6)
+were unlined,
+while nine were lined inside with
+tar.
+Discharge
+The discharge (Q)
+was 1.2
+-
+3.1
+1/s.
+Velocity
+The
+velocities
+(v)
+reached
+during
+the
+tests
+were
+0.42
+—
+1.10 mis.
+Gradients
+The friction gradients
+(1) were 0.001
+—
+0.150.
+3.1.2
+Measures
+Pipe diameter
+Prior
+to
+mounting
+the pipe,
+its
+internal
+and
+external
+diameters
+were
+measured
+by
+series
+of
+caliper—square
+measurements.
+Pressure
+The
+pressure
+along
+the
+pipe
+was
+measured
+with
+four
+piezometers
+installed
+in the middie of the
+pipe,
+with a
+distance of 0.60 m between each other.
+Discharge
+The discharge was measured using a V-notch weir. The
+notch
+used
+had
+an apex angle
+of a=
+600
+and a coefficient
+of
+discharge Cd
+=
+0.565.
+12
+A rating curve was established so that the discharge
+could
+be measured directly. Figure
+6
+shows the rating curve for a
+600 V—notch weir.
+From the rating curve it is easy to set a
+certain depth
+(H)
+for a particular discharge (Q).
+3
+2
+IJJ
+~~1
+Figure
+6.
+Rating curve for a 600 V—notch weir.
+3.1 .3
+Experiment procedure
+The experiment involved starting the pump while all
+valves
+were open.
+A stable hydraulic grade line was established by
+suitable
+adjustment of the gate valves.
+Steady
+conditions
+had
+to be established especially at V-notch.
+Measurements
+for
+the piezometer heights
+(hi,
+h2,
+h3,
+h4) and the
+water
+depth
+at
+V-notch
+(hv) had to be taken
+and
+the
+resuits
+entered on a data sheet.
+Then,
+proceeded
+again
+several times
+with
+other
+stable
+hydraulic
+grade
+lines
+(by changing the
+valve
+settings).
+After
+several
+readings,
+the pipe
+was
+disconnected,
+and
+measurements
+for inside and outside diameter,
+length
+and
+water temperature were recorded.
+Lastly,
+the average values
+of
+Manning
+roughness
+coefficient
+(n)
+and
+Hazen-
+Williams
+(C)
+were calculated and the values
+of
+Reynolds
+number
+(Re)
+were plotted on a Moody diagram
+against
+the
+friction factor
+(.Â).
+3.2
+Pressure test methodology
+Pressure
+tests of bamboo pipes were carried out
+at
+Mgama
+Research plot situated 30 km from Iringa Town.
+The plot was
+developed
+earlier for the purpose of
+conducting
+research
+activities related to wood and bamboo technology.
+The tests
+were carried out during the
+first week of January,
+1990.
+60
+70
+80
+WATER
+OEPTH,mm
+13
+Pipes
+Under
+this experiment 12 reinforced
+pipes
+with
+diameters
+53
+-
+67 mm
+were tested.
+Four pipes were green
+(A.
+Alpina)
+and eight yellow
+(B.
+Vulgaris)
+.
+Research eguipment
+The
+tested
+bamboo
+section
+was
+laid
+horizontally
+and
+connected
+directly to the pump.
+With the
+assurnption
+that
+high pressure
+values
+will
+be
+obtained,
+high
+head pump
+with a
+head
+(H)
+of 100 m
+was
+used.
+Pressure
+readings
+were
+recorded
+with
+bourdon
+gauges
+of
+capacities
+1
+500
+-
+1
+600 kPa.
+Figure
+7
+shows
+the
+set-up
+of
+the
+experiment.
+Figure
+7.
+Pressure test experimental set-up.
+Experiment procedure
+The pump was started with all valves open.
+Then,
+the outlet
+valve
+was
+closed
+slowly while
+carefully
+observing
+the
+pressure gauge.
+The valve was continuously closed until the
+pipe
+bursted
+and
+the
+reading on
+the
+gauge
+was
+taken
+recording
+the bursting pressure of the pipe.
+All
+physical
+dimensions,
+like
+diameters
+of
+the
+pipe,
+length
+and
+internodal
+distances
+were
+recorded.
+The
+procedure
+was
+similar for all pipes.
+3.3
+Pipe friction results
+and discussion
+3.3.1
+Theoretical considerations
+Pipe
+friction
+resuits
+in losses
+of
+pressure
+head,
+as
+evidenced
+by
+the gradient of the
+hydraulic
+grade
+line.
+Several
+equations
+have been developed
+to
+describe
+pipe
+friction.
+They all involve the use of
+friction factors
+or
+roughness
+coefficients, which are the
+characteristics
+of
+the
+pipe
+material
+and diameter
+(Hosia
+1988).
+For
+the
+purpose
+of data processing,
+the following
+equations
+were
+used:
+14
+a)
+Darcy-Weisbach eguation
+According to Darcy-Weisbach equation,
+the head loss between
+two points of a pipe separated by a distance is given by
+L
+hf=
+)LX
+—x
+(1)
+D
+2g
+where
+hf
+= head loss between two points
+(m)
+= friction factor
+L
+= distance between two points
+(m)
+D
+= pipe diameter
+(m)
+v
+= water velocity (mis)
+g
+=
+9.81
+m/s2
+The
+friction factor U)
+depends on the velocity
+(v),
+the
+pipe diameter
+(D), the viscosity of the liquid
+(i.e.
+on the
+Reynolds
+number
+Re
+= vD/V)
+and
+characteristics
+of
+wall
+roughness.
+Since
+)i
+is not a constant other formulae
+are
+preferred in engineering practice (Hosia
+1988).
+b) Manning formula
+Among
+the various formulae to correlate the mean
+velocity
+(v)
+with the slope of the energy grade line
+(1)
+and
+with
+the mean hydraulic radius
+(R), the one which have been most
+frequently used for the flows both in open channels and
+in
+closed conduits is
+the Manriing equation:
+V=_X11i2XR2i3
+(2)
+where
+v
+= mean velocity
+(mis)
+n
+= roughness coefficient
+(s/mh/3)
+1
+= hydraulic gradient
+R
+= Di4,
+the hydraulic radius
+(m)
+Manning
+roughness
+coefficient
+can
+be
+related
+to
+the
+friction factor
+n
+x Rhi6
+(3)
+The
+application of the Manning formula is recommended
+for
+fiows
+in rough turbulent zone of the Moody
+diagram,
+i.e.
+when the friction is
+independent from the Reynold number.
+15
+c)
+Hazen-Williams formula
+Another
+widely
+used
+experimental
+formula
+is
+the
+Hazen-Williams
+fommula, recommended
+for the flow
+in
+the
+transition zone:
+v
+= 0.354 C D063 i°~54
+(4)
+where
+v
+= mean velocity
+(m/s)
+C
+= roughness coefficient
+D
+= pipe diameter
+(m)
+1
+= hydraulic gradient
+3.3.2
+Resuits of experiments
+The
+friction
+factor
+(~j, Manning
+and
+Hazen—Williams
+roughness
+coefficients
+(n)
+and
+(C)
+respectively,
+and
+the
+Reynolds
+number
+(Re) have been detemmined for a series
+of
+148
+tests
+performed on 14 different pipes.
+Table
+4
+is
+a
+suinmary of the test results.
+Detailed resuits are shown
+in
+Appendix 1.
+Table
+4.
+Sununary of resuits of pipe friction experiments.
+Pipe
+no.
+No.
+of
+values
+ob~erved
+Manning’8
+Hazeri-Williaui’s
+riniax
+nmin
+nmax—
+T~
+5fl
+cmax cmin cmax—
+c
+Sc
+nTnin
+cmin
+1’)
+36
+0.0214
+0.0123
+0.0091
+0.0169’)
+0.0020
+98
+55
+43
+69
+10.9
+2
+10
+0.0141
+0.0088
+0.0053
+0.012
+0.0010
+137
+79
+58
+103
+14.4
+3’)
+20
+0.0197
+0.0101
+0.0096
+0.015’)
+0.0030
+116
+55
+61
+81
+23.0
+4’)
+32
+0.0178
+0.0113
+0.0070
+0.015’)
+0.0020
+108
+64
+44
+79
+12.2
+5’)
+29
+0.0432
+0.0127 (0.0305)
+(0.0265)’)
+0.0008
+98
+29
+69
+(49)
+17.4
+6’)
+12
+0.0298
+0.0102 (0.0196)
+0.0170’)
+0.0007
+115
+36
+79
+76
+25.2
+7
+22
+0.0176
+0.0123
+0.0053
+0.0151
+0.0002
+97
+65
+32
+92
+12.3
+8
+15
+0.0152
+0.0113
+0.0039
+0.0122
+0.0001
+100
+90
+10
+94
+5.7
+9
+26
+-
+0.0204
+0.0106
+0.0098
+0.0126
+0.0002
+110
+57
+53
+98
+10.4
+10
+36
+0.0299
+0.0138 (0.0161)
+(0.0223)
+0.0005
+87
+36
+51
+(53)
+13.2
+11
+16
+0.0129
+0.0118
+0.0011
+0.0123
+0.0004
+102
+89
+13
+94
+3.2~
+12
+27
+0.0196
+0.0109
+0.0087
+0.0139
+0.0002
+107
+60
+47
+97
+12.3
+13
+25
+0.0161
+0.0113
+0.0048
+0.0134
+0.0013
+108
+70
+38
+97
+9.7
+14
+9
+0.0157
+0.0137
+0.0020
+0.0152
+0.0006
+85
+70
+15
+82
+4.4
+NOte:
+‘)
+unlined pipe~
+Values with large variations have not been
+considered and appear in brackets.
+The
+average
+values
+of pi~es1,
+3,
+4,
+5
+and
+6
+(unlined
+pipes)
+are n
+=
+0.01626 s/m1/3 and C
+=
+81.4.
+Pipes
+2,
+7,
+8,
+9,
+10,
+11,
+12,
+13 and 14
+(lined wi,th tar intemnally)
+have
+the average values n
+=
+0.0139 s/m1/3 and C
+=
+95.8.
+Values
+in brackets
+(Table
+4)
+indicating large variations of
+the resuits were a result of experimental shortcomings from
+one
+side or irregularities in the physical
+dimensions
+of
+the tested pipe sections.
+Otherwise,
+this is
+a true picture
+of
+bamboo
+pipes
+which
+cannot
+be
+similar
+to
+other
+conventional pipes.
+The values of the friction factor have been plotted against
+Reynolds number on the Moody diagram for some of the values
+of the perfommed tests
+(Figure 8).
+Figure 8.
+Friction
+factor
+L2t~) of some bamboo
+pipes
+on
+Moody diagram.
+Figure
+8
+shows that most of the values are in
+the
+rough
+zone of the Moody diagram,
+therefore the use of exponential
+formulae,
+where the friction factor is a function
+of
+the
+relative roughness,
+is
+justified.
+Maximum discharge
+A
+maximum discharge of Qmax
+=
+3.1
+1/s was
+achieved.
+discharge was limited by the capacity of the constant
+tank.
+The
+corresponding
+velocity
+was
+1.5 m/s.
+capacities
+of
+the V-notch and piezometers
+did not
+other measurements beyond these conditions.
+3.3.3
+Factors
+irifluencing
+pipe friction
+Several factors
+affect the friction factor and coefficient
+of friction as observed from the resuits.
+Factors like non-
+uniformity
+of
+the pipe (diameter),
+irregularity
+of
+the
+interriodes
+and the bamboo culm wall roughness
+affect
+the
+friction
+factors
+and the
+corresponding
+coefficients
+of
+friction.
+16
+TUR BU LENC E
+LA~flNAP.j.TPANSITIOt1ALj. ROUOH
+0.10 ~‘
+_____________
+0.c~
+0C~
+____________
+1~
+_______________
+~~_~T’TURBULINCE 1’
+—
+-.
+T
+-
+—
+—
+—
+-—
+.--
+—
+—
+—
+1<
+0
+u.
+z0
+1-
+LJ
+0.06~
+::
+0.05
+0.04~64/R
+~
+003
+—
+—
+-
+-
+Recrit \
+\
+0e2—
+——-~.~
+=
+—
+—
+—
+~-s —
+—
+,~
+——-
+—
+~—
+0~01—
+—--.-
+LE~END:
+• PIPE NO 1
+o PIPENO2
+• PIPENO.4
+0 PIPE N0.7
+£ PIPENO.12
+A PJPENO.13
+iø~
+10’•
+.
+ios
+106
+REYNOLD S
+NLJMBER (Re)
+This
+head
+The
+allow
+17
+Internodes
+The
+internodes
+are
+the major irregularity
+on
+the
+pipe
+internal
+surface which otherwise is smooth and glossy.
+To
+reproduce
+real
+conditions
+as
+good
+as
+possible,
+the
+internodes
+have
+to
+be
+evenly
+arranged
+between
+the
+piezometers
+and
+therefore
+losses due
+to
+them
+will
+be
+inciuded in the resuits.
+Good node removal will improve the
+roughness coefficients.
+Pipe diameter
+The variations in bore size along the bamboo pipe are quite
+considerable.
+There is no uniformity from one end
+to
+the
+other
+which
+resuits in irregular
+velocities
+during
+the
+flow.
+Sudden changes in pipe diameter will enhance
+greater
+headlosses
+due
+to
+eddy formation
+especially
+for
+short
+pipelines (Chadwick and Morfett 1986).
+Proper selection
+of
+bamboos
+in the forest will reduce these variations.
+Culm wall roughness
+Naturally,
+the
+internal culm wall surface
+is
+smooth
+and
+glossy,
+but sometimes
+it appears rough and tuberculated
+as
+a
+rough
+pipe.
+Pipes
+coated
+with tar
+inside
+show
+some
+superiority
+against unlined pipes.
+According
+to
+Chadwick
+and
+Morfett
+(1986)
+the laminar sub-layer
+was
+of
+prime
+importance in explaining the difference between smooth
+and
+rough
+pipes.
+For bamboo pipes the surface
+roughness
+was
+large
+enough
+to
+break up the
+laminar
+sub-layer
+giving
+turbulence right across the pipe.
+Joint s
+The
+tested samples were connected at the ends by means
+of
+polythene
+tubes.
+These were causing friction also
+due
+to
+the abrupt change of diameter.
+There was not much notice of
+a
+systematic
+difference between losses due to
+nodes
+and
+those
+due to joints.
+Therefore it was considered that
+the
+resuits
+gave
+an overall picture of a bamboo
+pipe
+having
+nodes as well as
+joints.
+3.3.4
+Comparison with existing literature
+Bamboo
+pipes
+can be compared to other
+rough
+pipes
+like
+concrete,
+tuberculated pipes or cast iron pipes.
+Otherwise
+comparison was made basing on existing literature and other
+resuits
+of
+experiments performed earlier.
+Table
+5
+shows
+comparison of resuits.
+18
+Table
+5.
+Comparison of Manning
+(n)
+roughness coefficients.
+and Hazen-Willianis
+(C)
+Bamboo pipes with good
+node removal
+Bamboo pipes with poor
+node removal
+Bamboo pipes with good
+node removal
+Bamboo pipes with poor
+node removal
+Bamboo pipes
+Smooth metallic pipes
+Steel pipes with coal
+tar
+lining
+Smooth concrete pipe
+Rough concrete pipe
+Old rough or tuber-
+culated,
+galvanized-
+iron pipe
+Plastic pipes
+Cement asbestos pipes
+Old plastic or cement
+asbestos pipe
+tJnlined or tar dipped
+cast iron pipe
+Old cast iron pipe
+severely tuberculated or
+any other pipe with heavy
+deposits
+Jacobs
+and Lindburg
+(1978)
+60
+Jacobs
+and Lindburg
+(1978)
+0.013
+90
+Suhan
+(1979)
+0.016
+75
+Suhan
+(1979)
+60
+VITA
+(1975)
+Twort et al
+(1985)
+Twort et al
+(1985)
+Twort et al
+(1985)
+Twort et al
+(1985)
+Twort et al
+(1985
+American Society of
+Civil
+Engineers
+(1975),
+cited by
+Kayombo
+(1981)
+American Society of
+Civil
+Engineers
+(1975),
+cited
+by
+Kayombo
+(1981)
+American Society of
+Civil Engineers
+(1975),
+cited by
+Kayombo
+(1981)
+American Society of
+Civil Engineers
+(1975),
+cited
+by
+Kayombo
+(1981)
+American Society of
+Civil Engineers
+(1975),
+cited
+by
+Kayombo
+(1981)
+Table
+5 deduces
+that the results of this study are more or
+less
+similar to certain pipe materials.
+Comparison can
+be
+done
+to
+rough concrete pipes,
+old rough
+or
+tuberculated
+galvanized-iron
+pipes,
+unlined or tar
+dipped
+cast
+iron
+pipes
+or older cast iron pipes with heavy
+deposits.
+Even
+for
+Jacobs’
+and Lindburg’s
+(1978)
+results
+which
+gave
+a
+value
+of
+C
+=
+70 for
+good nodes and
+C
+=
+60 for
+bad nodes,
+it
+can be assumed that the pipes with bad nodes tested in this
+experiment
+were
+not
+as
+bad as
+those used
+by
+Jacobs
+and
+Lindburg
+(1978).
+Suhan’s (1975)
+results were more or
+less
+similar except for the Hazen-Williams roughness coefficient
+(C)
+value.
+The resuits indicated a little higher values and
+this
+is because of tar lining,
+an improvement made
+during
+this experiment.
+Pipe material
+n
+C
+Source
+70
+0.019
+0.010
+0.011
+0.012
+0.017
+0.020
+0.035
+1 40
+1 40
+130
+1 00
+40—80
+19
+According
+to the results
+of this
+study,
+following
+values
+are
+recommended
+for
+hydraulic
+calculations
+of
+bamboo
+pipelines
+(Table 6).
+Table
+6.
+Recommended values
+for hydraulic design of bamboo
+pipelines.
+Pipe condition
+Manning
+n
+Hazen-Williams
+C
+Unlined pipes with poor
+node removal
+0.016
+80
+Lined pipes with good
+node removal
+0.013
+95
+According
+to
+the
+experience
+and
+literature,
+most
+of
+operating
+schemes were constructed with lined bamboo pipes.
+Since
+the
+quality
+of
+the
+node
+is
+the
+major
+problem
+resulting
+into excessive
+head losses,
+care should
+be
+taken
+in removing these nodes.
+Otherwise,
+recommended values will
+be
+meaningless if
+design
+and construction
+are
+done
+in
+an ad hoc situation.
+3.4
+Pres~ure test resuits
+and discussion
+3.4.1
+Results and discussion
+To
+improve
+their pressure performance, bamboo
+pipes
+are
+reinforced
+with
+wires.
+The
+resuits,
+however,
+do
+not
+indicate
+significant improvement particularly
+considering
+that
+in
+their
+natural form,
+bamboos
+can
+withstand
+an
+average pressure of more than 500 kPa. The results revealed
+that
+hard tightening of wires without any device does
+not
+make
+any effective contact on the bamboo pipes.
+Pressures
+as
+high
+as 800 kPa have consistently been
+achieved
+when
+wires are tightened on bamboo pipes or pretightened by bolt
+or
+nut.
+Table
+7 shows
+a summary of
+results
+of
+pressure
+tests
+20
+Table
+7.
+Sumniary of pressure test results.
+- Correlation
+coefficient
+r~p = 0.34.
+- Correlation
+coefficient
+rtp
+= -0.17.
+The
+results show that pressure rating of bamboo
+pipes
+is
+quite
+surprising.
+The pressure performance of
+the
+tested
+pipes showed that they vary with species
+from stem to
+stem
+of the
+same species.
+Maximum
+pressures
+experienced in this
+case
+may
+signify
+either
+inability of bamboos
+to withstand
+continuous
+low
+pressures
+or sudden development of pressures
+higher
+than
+rated.
+The
+results
+also
+show the
+superiority
+of
+B.
+Vulgaris
+species
+over
+the A.
+Alpina species.
+Maybe due
+to
+their
+shorter
+nodal
+distances,
+B.
+Vulgaris
+recorded
+higher
+pressure
+values
+of
+400-800
+kPa.
+This
+also
+may
+be
+necessitated by their wall thickness being thicker than the
+A. Alpina if the theory still holds.
+However,
+in the contrary to what was generally believed
+to
+influence
+bamboo
+pressure
+performance,
+i.e.
+nodal
+distances,
+this experiment revealed very poor
+correlation
+between
+pressure
+performance
+and
+nodal
+distances.
+The
+experiment
+was also extended to study the effect
+of
+wall
+thickness
+on pressure performance of the
+pipes.
+Although
+again
+the correlation was poor,
+it was negative in
+nature
+which implies increased pressure withstanding ability
+with
+decreased wall thicknesses.
+Indirectly,
+this might
+suggest
+age
+of
+bamboo having some influence
+on
+pipes’
+pressure
+performance.
+Pipe Species
+no.
+Average
+nodal
+distance
+mm
+Internal
+diameter
+mm
+External
+diameter
+mm
+Average
+thickness
+mm
+Maximum
+pressure
+kPa
+1
+A. Alpina
+2
+B. Vulgaris
+3
+B. Vulgaris
+4
+B. Vulgaris
+5
+B. Vulgaris
+6
+A. Alpina
+7
+A. Alpina
+8
+A. Alpina
+9
+B. Vulgaris
+10
+B. Vulgaris
+11
+B. Vulgaris
+12
+B. Vulgaris
+326
+271
+297
+287
+317
+350
+364
+324
+295
+307
+332
+287
+59
+54
+54
+52
+66
+56
+54
+56
+67
+54
+59
+60
+76
+82
+79
+72
+88
+74
+71
+74
+85
+77
+82
+82
+17
+28
+25
+20
+22
+18
+17
+18
+18
+23
+23
+22
+400
+400
+800
+600
+700
+350
+400
+400
+600
+660
+650
+500
+Mean, X
+313
+58
+79
+21
+540
+Standard
+deviation,
+S
+26.4
+4.8
+5.4
+3.5
+14.9
+between nodal distance
+and pressure,
+between wall thickness
+and pressure,
+21
+Furthermore,
+it
+was observed
+that
+failure
+always
+started
+from top to
+bottom of
+sterns.
+This also strorigly suggests
+a
+possible
+correlation between pressure ability and
+age
+of
+bamboo.
+3.4.2
+Comparison with existing
+literature
+Iringili
+and
+Mahungu (1979)
+suggested
+that
+the
+working
+pressure
+for green bamboo should
+not exceed
+150 kPa
+and
+200
+-
+300 kPa
+for
+the yellow bamboo.
+In
+their
+pressure
+experiments,
+they revealed that the material is capable
+of
+taking
+very
+high instantaneous
+pressures
+with
+observed
+values of up to 600 kPa and
+1
+000 kPa for green and
+yellow
+bamboo
+respectively.
+However,
+no
+parameters
+could
+be
+established
+which
+correlated
+or
+predicted
+pressure
+withstanding cabability of the pipes.
+Recommended yalues
+According
+to
+the
+experience and
+the
+resuits
+of
+these
+experiments, bamboo pipes can withstand high
+instantaneous
+pressures
+as
+opposed
+to their low
+ability
+under
+field
+conditions.
+With the above arguments the author
+recommends
+the
+working
+pressures of 200
+-
+400 kPa regardless of
+the
+used species. These values can be increased when there
+is a
+proper
+control
+of
+bamboo species as
+from
+flowering
+to
+harvesting period.
+This will assist in obtaining bamboos of
+specific and definite physical dimensions.
+22
+4
+PLANNING AND DESIGN OF BANBOO WATER SUPPLY SCEEMES
+4.1
+Planning
+principles
+Basically
+bamboo
+water
+supply schemes
+are
+relevant
+for
+small
+community water supply systems,
+because
+design
+and
+construction is not difficult.
+The technology is simple and
+adapted
+to
+the
+available
+technical
+and
+organizational
+skills.
+The
+planning and design of bainboo water supply schemes
+in
+Tanzania
+is
+approached
+under
+a
+programme
+rather
+than
+projects.
+Since the technology is new, all
+activities
+of
+planning
+and
+design are centralized to
+monitor
+all
+key
+problems
+like technical and management problems.
+However,
+community involvement aspects at this stage assumes greater
+significance,
+as their acceptance to the technology is
+50
+vital.
+4.1.1
+Planning
+procedures
+in practice
+Generally
+in water project design,
+engineering
+decisions
+are required
+to determine
+the area,
+population,
+industrial
+situation,
+institutions and other consumers to
+be
+served
+(likkanen 1989).
+The per capita
+consumption,
+design period,
+pressure
+zones,
+categories of consumers and
+other
+water
+needs have to be established.
+Landscape and location of various facilities to be provided
+such
+as
+water source,
+intake,
+treatment
+plants,
+pumping
+stations,
+reservoirs,
+pipe alignments,
+distribution points,
+construction
+materials
+in
+addition
+to
+community
+participation,
+all
+form the essential
+parameters
+to
+be
+considered.
+Tariffs,
+project costs and timing must also
+be
+determined.
+The
+designer has therefore to
+determine
+the
+long
+term
+water demand from the outset,
+hence,
+before
+a
+final
+design
+is
+arrived at,
+the
+following
+studies
+and
+reports are required:
+-
+a pre-feasibility study
+-
+feasibility study
+-
+detailed final designs.
+At
+the planning stage,
+the design period
+(usually
+5
+-
+15
+years)
+i.e.
+the time within which the project
+long
+term
+demands
+are projected at the least project cost should
+be
+done,
+levels and contours plotted on the
+survey
+drawings
+under
+standard procedures.
+Other drawings
+include
+plans,
+cross and longitudinal sections.
+The bamboo pipeline should not pass through areas with many
+trees as roots may penetrate the pipe and choke
+it.
+1f
+not
+possible to by-pass such areas,
+then the pipeline should be
+covered
+with a bamboo sheath of larger diameter
+which
+in
+turn will protect the line carrying water
+(Lipangile
+1990).
+23
+4.1 .2
+Financial
+considerations
+In
+rural
+areas of Tanzania people are used to
+get
+water
+freely
+and
+the
+aspect of paying for
+water
+is
+not
+yet
+conceived.
+Together
+with
+the adoption
+of
+bamboo
+water
+pipes,
+it
+is
+difficult
+to
+rely
+on
+this
+principle.
+Therefore,
+all bamboo schemes are financed by the
+Central
+Government together with several external donors.
+The
+only
+main
+contribution from the community is
+their free
+labour
+during construction phase.
+The villagers dig trenches,
+lay
+pipes
+and
+participate in construction
+of
+intake
+works,
+reservoirs
+and
+domestic
+water
+points,
+which
+reduces
+tremendously the overall construction costs.
+4.2
+Design principles
+Criteria for designing bamboo water supply schemes will
+be
+expected to reflect the following considerations:
+a)
+Reliability of the used preservative
+and the period for
+which it remains effective.
+b) Quality of water at source and whether or not the supply
+will require treatment prior to distribution.
+c)
+Size
+of
+community
+to be served.
+d) Location of the scheme.
+e)
+Desired
+level of service; bamboo water
+supply
+schemes
+should
+preferably
+be restricted to
+small
+residential
+communities and small scale irrigation uses.
+f) Attitude
+of
+the
+proposed
+beneficiaries
+towards
+technological
+changes.
+Bamboo
+technology
+is mainly feasible
+for
+gravity
+water
+supply
+because
+there are difficulties in
+securing
+water
+pumps
+and
+fuel
+in rural areas.
+Furthermore,
+a
+gravity
+system
+ensures a continuous saturation of pipelines
+which
+prevents
+fungal growth.
+Principles involved
+in
+designing
+bamboo
+schemes
+are
+similar
+to
+conventional
+ones
+and
+criteria like design period,
+pressures,
+water demands,
+etc.
+are considered.
+4.2.1
+Design period
+Bamboo water schemes are designed for a period of
+10 years.
+Performance
+of the
+14 years old Likuyufusi scheme in Songea
+district,
+southern Tanzania clearly indicate that a
+bamboo
+water
+supply
+system
+can serve for more
+than
+10
+years.
+This
+scheme
+was crudely constructed in a relatively
+warm
+climate,
+and
+when checked in 1989 it showed no
+signs
+of
+failure.
+Although the design period is lower compared to 15 years or
+more
+normally used in conventional schemes,
+lack
+of
+well
+defined
+service levels and their complimentary
+inputs
+in
+short
+and
+long
+terms
+and
+the
+complex
+dynamics
+of
+population,
+tend to favour use of shorter period
+for
+ease
+of
+forecasting.
+World Bank
+(1977)
+recommended
+a
+design
+period
+of
+not
+more than
+6
+-
+10 years,
+due
+to
+the
+un-
+certainties
+involved
+in predicting population
+change
+and
+actual demands.
+24
+4.2.2
+Design pressure
+Each bamboo species has
+its own strength characteristics to
+resist water pressure. For A. Alpina,
+the average
+pressure
+resistance
+in pressurized
+bamboo pipes
+is
+430 kPa (Iringili
+and
+Mahungu 1979).
+This necessitated by the
+bond
+between
+the
+parallel fibres in the bamboo culm is weak,
+while
+at
+the
+nodes the tangential bond is
+stronger. Results of
+the
+pressure
+tests
+indicated that apart from
+the
+number
+of
+nodes
+per
+unit
+length,
+also the diameter
+and
+the
+wall
+thickness affect the strength of the bamboo water pipe.
+The
+recommended design pressure was 200
+—
+400 kPa.
+In Bauingenieur
+(1964,
+cited by van der Heuvel 1983)
+It was
+found
+that
+the
+shear stress
+increases
+with
+increasing
+thickness of the bamboo culm wall.
+Also the bending
+stress
+of bamboo pipes with small diameters
+is higher because
+the
+portion
+of
+the
+strong
+sklerenchym
+fibres
+exceeds
+the
+portion
+of
+this strong fibres in larger bamboo
+per
+unit
+area.
+Increasing bamboo pressure sustainability
+To
+reinforce
+the bamboo pipes to
+increase
+its
+pressure
+sustainability,
+galvanized-iron wires are wound around
+the
+pipe at regular intervals
+(Figure 9).
+Figure 9.
+Portion
+of
+a finished bamboo pipe
+with
+wire
+reinforcement (Lipangile 1985).
+Another
+method
+to
+reinforce
+the
+bamboo
+culm
+is
+the
+application
+of formaldehyde and
+sulphuric acid (Mac Conal
+1979).
+These
+chemicals react with the
+cellulose
+of
+the
+parallel fibres which are cross linked in the way:
+2 Cellulose
+-
+0
+-
+OH
++ HCHO.
+- .Cellulose
+-
+0
+-
+CH2
+-
+0
+- Cellulose
+(5)
+Formaldehyde treatment causes severe embrittlement of wood.
+The main disadvantage of this method is the introduction of
+poisonous
+formaldehyde. According to Mac Conal
+(1979)
+the
+reaction also takes place with a low pH value and with high
+temperatures.
+25
+1f the pipe is reinforced,
+the system
+ought to be
+designed
+for
+maximum
+static
+pressures
+of 200 kPa and
+250 kPa
+for
+green
+and yellow bainboo
+respectively
+(increased
+to 200 kPa
+and
+400 kPa).
+Under
+these
+pressures,
+developed
+water
+hammer
+pressure is within the ability of bamboo
+pipes
+if
+closing
+time is restricted to 10 s
+(Iringili
+and
+Mahungu
+1979).
+4.3
+Typical designs of bamboo water supply schemes
+Bamboo
+water supply schemes need standard design to
+allow
+rapid
+and
+effective
+construction
+techniques,
+through
+repetitive work
+by relatively unskilled personnel.
+Typical
+technical
+designs
+and construction procedures
+have
+been
+developed
+to be followed in all
+schemes.
+To reduce
+costs,
+technicians
+and delegated persons from the
+community
+are
+trained
+in
+the
+repetitive
+systems
+during
+design
+and
+construction
+phases.
+In all
+cases
+the
+following
+design
+aspects are considered.
+4.3.1
+Design aspects
+Water demand
+Present
+and future water demand for people
+and
+livestock
+is established.
+Allowances
+for water losses,
+water
+demand
+for
+industries
+and
+public
+institutions
+are
+given
+in
+1/capita/d.
+From the established data on the population and
+livestock increase,
+future water demand
+for 20 years can be
+extrapolated.
+Also peak dernand should be
+established
+for
+design purposes.
+Reservoir
+Reservoir
+storage
+capacity that can
+balance
+peak
+flows
+without
+using
+emergency reserves is established.
+1f
+the
+design
+extends
+over 20 years,
+the tank capacity
+should
+be
+capable
+of meeting the peak demand in 20 years
+time.
+The
+tank location should be chosen in such a way that a minimum
+residual head of at least
+1
+m at the highest domestic point
+is attained.
+Domestic points
+On average,
+a single dornestic point
+(DP) serves 200
+people
+and
+it should preferably be within a walking
+distance
+of
+500 m
+(Ministry of Water 1986).
+DP5 are usually constructed
+near schools,
+religious
+centres,
+dispensaries,
+a market
+or
+community
+centre.
+An additional domestic point
+with
+two
+taps
+discharging
+about
+0.5 1/s
+is located
+at
+a
+health
+centre.
+The maximum allowable static pressure at DP5 should
+be 200 kPa and the minimum residual head at any tap
+should
+not be less
+than
+1
+rn.
+26
+Pipes
+Maximum pressure, which should not exceed 200
+-
+400 kPa,
+to
+be
+taken by the bamboo pipe is established.
+Assurance
+is
+made
+such
+that
+pipe
+joints
+are
+equally
+capable
+of
+withstanding such pressures.
+Water flow rate
+The flow of 0.25 1/s/DP is recommended. This
+is estab].ished
+by considering that:
+-
+200 people
+require
+25 l/capita/d
+each
+i.e.
+total
+5
+000 l/d.
+-
+Assuming that the distribution network expansion is
+only
+feasible
+after 19 years,
+by then
+about 300 people
+(50
+%
+increase) will depend on each DP.
+Hence
+7 500 l/d will be
+required.
+-
+Considering
+that
+any
+rural
+water
+system
+has
+to
+be
+supplied within a period of six hours,
+then to supply 200
+people the
+f10w at the tap has to be 0.23 1/s
+and for
+300
+people
+0.35 1/s.
+-
+At a flow of 0.23 1/s
+it will take about
+65 s to fl11
+a
+15
+1 bucket and when the flow is
+0.35 1/s only
+43
+s.
+Although
+the above illustration shows the preferable
+flow
+at
+each tap to be 0.35 1/s
+it is reconunendable
+to
+design
+the
+system on the basis of 0.25 1/s.
+This is
+because
+t~e
+actual
+water
+consumption
+will
+be
+below
+the
+assumed
+25
+1/capita/d,
+and
+the
+filling time
+of a bucket of
+60
+S
+is quite reasonable and acceptable.
+Establishment of flow data in pipes
+Jacobs
+and
+Lindburg
+(1978)
+established
+hydraulic
+flow
+charts.
+These charts are meant to assist the
+designer
+in
+the selection
+of appropriate pipe diameter at a given
+flow
+rate
+to
+obtain a desired hydraulic gradient.
+Appendix
+2
+shows
+charts
+for
+hydraulic
+gradients
+for
+diameters
+40
+-
+80 mm
+and
+flow rates
+0.1
+-
+8.0 1/s.
+The
+basis
+for
+calculation is
+the C-value
+of 75
+for unlined bamboo
+pipes
+and 85 for lined
+bamboo pipes.
+4.3.2
+Theoretical design example
+4.3.2.1
+Flow in pipes
+A
+flow
+in a pipe is
+the result of a
+difference
+of
+head
+between the beginning and the end of the pipe. 1f water
+is
+discharged
+in
+the open air tap,
+the pressure of this
+water
+is atmospheric. The amount of flow is
+fixed by:
+27
+a) The
+hydraulic
+gradient
+= available
+head-loss
+per
+unit
+length
+I=H/L
+(6)
+b)
+The
+pipe
+characteristics
+(diameter
+and
+inside
+wall
+roughness).
+c)
+Additional frictional losses.
+d)
+The
+fluid
+characteristics
+(type
+of
+fluid
+and
+its
+temperature).
+e) The stream flow characteristics.
+In
+designing a water supply system,
+issues a)
+and
+b)
+are
+considered.
+Additional
+frictional
+losses
+occur
+in
+the
+bigger pipes ($
+> 32
+mm) due to the low velocities
+that
+are
+negligibly small
+though not at DP5.
+4.3.2.2
+Domestic points
+-
+The
+taps at the DP5
+should always be
+1
+m
+above
+ground
+level.
+-
+Domestic
+points
+comprise of
+4 m long
+galvanized
+steel
+(G.S.)
+pipes with diameters
+12.5,
+18.8 and 25.0
+mm.
+With
+these
+small pipes and high velocities we cannot
+neglect
+the
+addjjonal frictional losses.
+The effect
+of
+these
+additional
+losses
+at DP5 can be expressed
+as follows:
+T.P.
+=
+1 x L x 3v2/2g
+(7)
+where
+T.P.
+= terminal
+pressure
+at
+tap
+enabling
+a
+discharge
+of Q 1/s
+1
+= hydraulic
+gradient corresponding
+to
+the
+chosen diameter,
+roughness
+and Q
+L
+= pipe length (L
+= 4 m)
+3
+= number
+of
+additional
+frictional
+losses
+expressed
+as velocity head
+(v2/2g)
+i.e.
+2 x v2/2g due to 900 bends
+1
+x v2/2g due to outlet
+losses
+at tap
+•
+v
+= mean water velocity (mis)
+g
+= acceleration
+due to gravity
+(= 9.81
+m/s2)
+4.3.2.3
+Distribution reservoirs
+1f
+sufficient
+water is available
+at
+the intake,
+the
+most
+economical
+choice
+between three
+possibilities
+has
+to
+be
+made:
+a)
+No tank and ‘very big’
+gravity
+main which will
+discharge
+the peak flow.
+b)
+A ‘small’
+tank and a ‘big’
+gravity main.
+c)
+A ‘big’
+tank and a
+‘small’
+gravity main.
+Note:
+‘big’
+and
+‘small are used here to
+distinguish
+the
+differences and not to indicate
+exact sizes
+of the tanks.
+28
+Determination of the tank size
+Applied notations:
+Qx = peak demand
+(uh) after x years
+q
+= discharge of gravity main
+(1/s)
+Generally,
+>
+~
+no tank is needed
+< q
+< Q2o~ no tank is needed in the first
+10 years
+<
+~
+tank is not to be constructed
+now,
+tank
+is
+needed within
+10 years,
+tank has
+to
+be
+constructed
+to
+cover the
+peak
+flow
+for the next
+20 years.
+1f a tank is needed we can thus determine two situations:
+a)
+A
+small
+tank can be constructed if
+the
+gravity
+flow
+between 9.00 am
+-
+3.00 pm
+is sufficient
+to supply
+the
+water
+amount
+which
+is
+lacking
+between
+3.00 pm
+-
+6.00
+pm.
+b)
+A
+‘big’
+tank has to be constructed if the gravity
+flow
+between
+6.00 pm
+-
+4.00 pm
+is required to
+balance
+the
+water requirements during day time.
+‘Small’
+tank
+-
+capacity:
+3 x (Q20
+-
+q) possible
+if:
+6 x q
+.. 3 x (Q20
+-
+q)
+q~xQ~0orq>xQ20
+(8)
+‘Big’
+tank
+-
+capacity:
+6 x (Q20
+-
+2q) possible if:
+12q
+~.
+6 x (Q20
+— 2q)
+q ~ x Q20 or
+q ~
+(1/4)
+x Q20
+(9)
+Resuming,
+1f the discharge
+of the gravity main is
+less than a quarter
+of
+the
+peak
+demand
+after
+20 years,
+it has to be
+increased
+by means of a twin line or a pipe with a bigger diameter.
+4.3.2.4
+Break pressure tanks
+A break pressure tank is needed if the pressure in the pipe
+exceeds
+maximum
+static
+pressure
+(i.e.
+200
+- 400 kPa
+for
+bamboo
+pipes).
+Each break pressure tank requires
+a
+ball
+valve
+to avoid excessive spilling of water which may
+lead
+to unhygienic conditions.
+1f
+q
+1f
+Q1o
+1f
+q
+29
+At
+gravity
+mains a break pressure tank can
+sometimes
+be
+omitted by choosing a
+‘small’
+gravity main which discharges
+continuously in a ‘big’
+tank without bali valve.
+Because of
+the
+continuous
+flow only a dynamic
+pressure
+will
+occur
+which
+is much smaller than the static pressure.
+That is the case
+if:
+-
+enough water is available at the intake,
+also at the
+end
+of
+the
+dry season
+(one should not waste
+water
+in
+one
+village
+at the cost of other villages depending
+on
+the
+same water source down stream)
+-
+a
+natural drainage is available
+— close to the tank
+(to
+avoid unhygienic situations
+therein)
+and if,
+-
+the
+saving
+of
+money
+is considerable
+in
+long
+gravity
+mains.
+1f
+break pressure tanks are required in
+the
+distribution
+network,
+the design should start at the break pressure tank
+which
+is
+situated most downstream.
+Each
+pipeline
+system
+downstream
+of a break pressure tank can be regarded
+as
+a
+system on itself.
+1f one starts the design work at the most
+downstream
+break
+pressure tank whatever water
+demand
+is
+required
+for that system can be calculated.
+This
+required
+water amount becomes a constant for the upstream system(s).
+Design
+should
+be such that the required f10w
+can
+aiways
+discharge
+in
+the
+break pressure
+tank,
+leading
+to
+the
+assumption that the break pressure tank is always full.
+4.3.2.5
+Concept and location of sedimentation tanks
+Jacobs
+and Lindburg (1978)
+conducted a study on the
+actual
+silt
+ioads
+expected
+at
+certain
+water
+sources.
+They
+indicated
+that
+very
+dear
+water
+has a
+silt
+bad
+of
+>
+0.125 i/m2.
+Constructing
+a sedimentation
+tank at the intake will
+reduce
+silt
+bad considerably. The principle of
+a
+sedimentation
+tank
+is that
+the tank is long enough to ensure
+settiement
+of all
+particles
+which exceed
+a certain
+diameter
+(D).
+The
+calculation
+is
+implemented
+by
+judging
+from
+the
+settling
+velocity
+(VS)
+of
+the
+smallest
+particle
+with
+diameter
+(D) which must be sedimented in
+connection
+with
+the horizontal mean velocity
+(v)
+in the tank (Hukka 1989).
+Any
+particle
+bigger
+than
+(D)
+will
+settie
+in
+the
+sedimentation
+tank. Considering a tank with a
+height
+(H)
+and length
+(L),
+then,
+H
+v
+5
+L
+—=
+-—
+or
+v=v5x—
+L
+v
+H
+(10)
+30
+The
+horizontal
+mean
+Velocity
+(v) is
+the
+result
+of
+the
+discharge
+(Q)
+of the gravity main divided by
+the
+cross-
+sectional
+area
+of the sedimentation tank
+of
+width
+(W),
+hence:
+Q
+v=—xW
+(11)
+H
+Combining
+(10)
+and (11)
+L
+Q
+Q
+v5x—=—xW
+or
+L=
+xW
+(12)
+H
+H
+With Equation
+12 the sedimentation tank can be designed.
+Simple example
+Assuming
+a settling velocity
+V5
+= 0.003 m/s for a silt
+of
+D = 0.05
+min.
+Consider a water supply system for a
+Village
+of
+1
+250 people,
+which
+is implemented without
+a
+storage
+tank
+(thus
+graVity
+main produces
+the peak flow),
+after
+20 years
+the discharge
+of the graVity main will be 2.9 1/s.
+Assume width
+W
+= 0.8
+m
+Q
+Thus bength
+L
+=
+x W = 1.2
+m
+VS
+Similarly,
+for a village system of
+2
+000 people
+(without
+tank),
+the
+gravity
+main
+will
+after
+20
+years
+produce
+4.6 1/s.
+Then,
+the length of the sedimentation tank has
+to
+be:
+L = 2.0
+m at a width
+W = 0.8
+m
+31
+5
+CONSTRUCTION OF BANBOO WATER SUPPLY SCHEMES
+5.1
+Construction process
+The construction process will generally involVe a total
+of
+20
+stages
+starting from buying bamboos
+from
+the forest,
+production
+of the pipes
+and finally
+laying
+the
+pipe
+into
+the
+trench.
+Figure
+10
+suinmarises
+the
+construction
+methodobogy.
+Figure 10.
+5
+From
+Figure
+10
+comparison
+can be made
+with
+a
+similar
+factory
+of manufacturing conventional pipes.
+Work
+studies
+could
+be
+made
+on different stages of making
+a
+pipe
+as
+outlined in the summary chart and the cost of the pipe
+can
+be
+determined.
+HoweVer,
+the
+major
+stages
+include
+preserVation and production of the pipes.
+5.2
+Pretreatment of bamboo pipes
+Generally,
+in the absence of centralized pipe manufacturing
+facility construction methodobogy includes pipe making
+and
+laying operations.
+After
+cutting,
+bamboos are transported from the forest
+to
+the central water pond,
+where they are stored for at
+least
+three months
+for desapping.
+From the central pond,
+they are
+transported
+to the ponds at the construction sites.
+t.
+10
+9
+8
+LOADING
+REMOVAL
+TYING
+AND
+INTO
+FROM POND
+IMMERSING
+TRUCK
+FOR OPYING
+INTO WATER
+Summary of the construction
+process.
+32
+At the construction site the bamboo undergoes the folbowing
+processes
+(Figure
+10):
+a) boring
+to remove the nodes
+b)
+pressure testing
+c)
+reinforcements by galvanized wires
+d) sharpened at both ends for poly connection
+joints
+e)
+immersed
+in
+boiling
+tar
+for
+2-3 minutes
+(if
+internal
+coating is not desired,
+the ends are plugged)
+f)
+drying under
+shed
+g)
+transported to the trench for pipe laying.
+5.2.1
+Removal of partition walls
+The
+partition
+wails
+are
+drilled
+twice:
+first,
+when
+submerging the culms into water for desapping purpose,
+and
+second to remove all remaining parts in the pipe.
+The nodes
+are bored out manually using a home-made bit attached to
+a
+12.5 mm diameter galvanized iron pipe (Figure 11).
+.l2nvi pipe
+~~nail
+Section
+Figure
+11.
+Bits
+for removal of partition walls
+(Van
+der
+Heuvel
+1983 and Morgan 1974).
+Removal of
+nodes
+with a hand-tool
+is
+a
+disadvantageous
+technique
+because of insufficient
+removal of the
+partition
+wall material resulting in extra energy bosses in the water
+pipe
+(van
+der Heuvel
+1983).
+The use of a
+flexible
+drive
+with adapted bit for the node removal gives better
+resuits
+(Figure 12).
+Top view
+Figure
+12.
+Interior
+of
+a
+smooth bamboo
+pipe
+(van
+der
+Heuvel
+1983).
+33
+5.2.2
+Desappping
+Desapping
+is
+the
+extraction of saps,
+starch
+and
+other
+substances
+from the inside of the bamboo culm wall.
+Fresh
+cut
+bamboos
+when
+used without
+desapping
+treatment
+may
+result
+in
+odorous
+water
+with
+unpleasant
+taste.
+Decomposition
+of
+the bamboo pipe is also
+accelerated
+by
+micro-organisms
+and
+substances
+in
+the
+pipe
+which
+are
+responsible
+for the contamination of drinking
+water.
+The
+amount of sap is related to this decomposition.
+The
+common method of desapping is submerging of the
+pipes
+into
+non—stagnant
+water
+for
+two
+—
+three
+months.
+The
+submerging procedure is not effective for all species.
+For
+example
+the
+B.
+Vulgaris
+has
+to
+be
+submerged
+into
+chlorinated water
+(Lipangile
+1984).
+5.2.3
+Pressure testing
+Pressure
+testing
+of bamboo pipes is usually done
+with
+a
+small
+water pump.
+Water
+is pumped through a connection
+of
+galvanized
+steel
+pipes
+with
+a
+po1y
+joint
+for
+bamboo
+connection.
+The end of the
+pipe
+is
+closed
+by a wooden
+plug
+while
+water
+is
+being
+pumped.
+1f the
+working
+pressure
+of
+the
+system
+is
+250 kPa,
+the
+bamboo pipes
+are
+tested
+with
+a
+pressure
+of
+up to 300 kPa.
+The method
+is
+crude
+and
+the
+results are in most cases unreliable.
+5.3
+Preservation
+Baznboo being
+an organic material,
+once buried
+in the ground
+unprotected
+will
+naturally decay by action
+of
+bacteria,
+fungi
+and
+termite attack.
+Thus the need to
+stop
+natural
+decay
+by way of preservation
+cannot be over-emphasized
+if
+bamboo
+pipes
+are to be used.
+Without
+proper
+preservation
+bamboo pipes will not last longer than 2
+-
+3 years.
+Whereas
+internal attack is restricted to decay
+by
+micro-
+organisms,
+external decay
+is caused by both micro-organisms
+and
+termites
+(van der
+Heuvel
+1983).
+In hot
+bow
+altitude
+areas,
+termites are very aggressive and in
+the
+highlands
+with
+cold climates
+they are almost non-existent.
+van der
+Heuvel
+(1983) reported
+that
+termites
+are guite
+active
+in
+Indonesia
+while fungi are active almost everywhere in
+the
+world.
+34
+5.3.1
+Internal preservation
+Internal
+protection
+can
+be
+affected
+by
+the
+following
+techniques or their combinations
+(Msimbe 1984):
+a)
+excluding
+micro-organisms
+from the
+water
+by
+careful
+selection of the water source and by purification
+b)
+preventing microbiological activities in the bamboo culm
+by
+impregnation with toxic/non—toxic chemicals such
+as
+copper chrome arsenic
+(CCA),
+copper
+chrome
+(CC)
+and
+copper formulations of alkyl
+animonium compounds
+c)
+saturation of the bamboo culm with water
+d)
+coating the inner surface by tar of bitumastic materials
+that are safe for drinking water supply
+e)
+sterilization of the culm with chemical disinfectants.
+According
+to
+Purushotham et al
+(1965),
+copper
+arsenate
+formulations have been in use
+for more than 50 years in the
+world.
+Water-borne
+preservatives
+containing
+CCA
+are
+considered
+among
+the most effective
+wood
+preservatives.
+Because all these chemicals are toxic and when
+impregnated
+into the bamboo culm,
+will eventually leach into water,
+and
+thus cannot be used.
+In this case,
+non—toxic chemicals
+are
+preferred.
+5.3.1 .1
+Impregnation with non-toxic preservatives
+Certain
+copper
+and
+borax
+based
+compounds
+are
+good
+preservatives
+against
+fungi and they are
+also
+effective
+against termites.
+Such compounds are TIMBOR
+(Borax)
+and the
+copper
+ammonium compound produced as CQA. These
+chemicals
+are harmless even if leaching occurs.
+Impregnation of these
+chemical
+preservatives can be effected in
+four
+different
+methods:
+a)
+open tank
+method
+b)
+hot
+and cold bath
+method
+c)
+diffusion
+method
+d)
+boucherie method.
+OPen tank method
+This
+involves submerging fresh bamboo pipes in a cold
+bath
+solution
+of
+the
+compound
+under impregnation for two months.
+This
+method
+is
+considered
+adequate
+for
+albowing
+enough
+chemica]. to diffuse into the fibres of the bamboo culm.
+Hot and cold bath method
+Fresh
+bamboo
+pipes
+are
+soaked
+in
+boiling
+water
+and
+immediately
+dipped
+in
+a
+cold
+bath
+containing
+the
+preservative solution.
+The hot
+bath facilitates the opening
+of the pores of the bamboo fibres and the sudden change
+of
+temperature
+creates a kind of vacuum in the bamboo
+fibres
+which in turn sucks in the preservative solution leading to
+fixation.
+Figures 13 and 14 depict the boiling and
+drying
+steps of the method respectively.
+35
+Figure 13.
+Boiling
+bamboos for
+(Johan 1979).
+Figure 14.
+Diffusion method
+A
+wet
+bamboo
+pipe
+is
+dipped
+in
+the
+hot
+preservative
+solution
+for
+about
+20 minutes and then
+allowed
+to
+dry
+slowly
+under shade covered with grass.
+Movement
+of
+saits
+into
+bamboo
+tissues
+is
+by diffusion.
+The
+drying
+period
+hot and cold
+bath
+method
+Drying of bamboos for hot and cold bath
+method
+(Johan 1979).
+lasts for four weeks.
+36
+According to Johan
+(1979) these three
+methods are not
+very
+effective as they give rise to crystallization of the
+salt
+on
+the
+culm
+wall
+and
+result
+into
+poor
+longitudinal
+distribution of the chemicals.
+Bpucherje inethod
+Boucherie
+impregnation
+is
+carried out
+either
+by
+using
+gravity
+or
+mechanical pressure. The gravity
+pressure
+is
+best because it saves energy.
+A
+head of
+15 m is used between the tank solution
+and
+the
+bamboo pipe under impregnation, which should be
+fresh
+with
+the partition membranes intact.
+The supply vat is placed on
+a
+high
+elevation
+connected
+to a
+plastic
+hose
+with
+a
+distribution system at the bottom of the vat. Johan
+(1979)
+reported
+that 80 -100 pipes can be impregnated at a
+time.
+Figure 15 shows the method set-up.
+-,, 1
+¶1..
+-
+.1
+,2
+1
+Figure 15.
+Boucherie low pressure plant
+(Johan 1979).
+37
+5.3.1.2
+Saturation of pipelines
+Fungi do not grow
+under 100 % moisture conditions.
+Usually
+they
+require
+a
+moisture
+content
+of
+20
+-
+30
+%.
+This
+condition
+is usually guaranteed under a gravity source
+of
+water
+or
+where
+there is a
+reliable
+pumping
+mechanism.
+Designing
+a
+scheme in which the bamboo pipes
+are
+always
+totally
+filled
+with
+water prevents
+fungal
+attack
+from
+inside.
+Intermittent
+fiushing with chborine water is also
+helpful
+in this regard.
+The flushing should not exceed 10 mg/1
+of
+chiorine,
+and it should go through the entire pipe
+systern
+within a period of two hours.
+After
+this
+duration almost
+86 % of the total chborine input
+will be absorbed
+by
+the
+organic
+reactions between chiorine and the culm
+wall.
+1f
+excessive
+doses are applied, oxidation may occur and
+this
+could
+damage the bamboo culm wall (Hendrikx-Jongerius
+and
+de Leer 1986).
+5.3.1 .3
+Internal coatings
+Coating
+the
+inside surface with approved
+drinking
+water
+linings
+will
+deny micro-organisms access
+to
+the
+bamboo
+culm.
+Coatings of tar (PF4),
+bitumastic materials such
+as
+Aquasil 44, Butturos and Orkitik
+have been used (Lipangile
+1990).
+They
+are water proof,
+non-toxic and
+approved
+for
+contact with drinking water.
+5.3.2
+External preservation
+External
+protection of the bamboo pipe can be achieved
+by
+the following techniques or their combinations:
+a)
+soli treatment
+b)
+external coatings
+c) chemical impregnation.
+Soil treatment
+The
+quintessence
+of
+this
+technique
+is
+to
+make
+the
+environment
+around
+the
+bamboo pipe
+unsuitable
+for
+the
+bamboo
+destroying
+organisms
+to
+live.
+Chiorinated
+insecticides
+can be used in this aspect.
+These
+chemicals
+are
+persistent in the environment making them very
+useful
+for this purpose.
+A rapid decomposing chemical would not do
+because its protective working strength would last only for
+a short time.
+Fears
+of environmental pollution must not be
+exaggerated.
+The
+chemicals
+f ix well into the soil
+which
+reduces
+the
+danger of water and soil poilution.
+Figure 16
+shows
+cross-
+sections of treated trench and treated pipe.
+38
+CCA sawdust
+Ground level
+Ear!h 111hfl9 ~
+.:~
+Tar lining
+(Un!reated)
+Bamboo pupe
+a)
+b)
+Figure 16.
+Cross-section of a pipe tre~chtreated with
+a)
+pesticide
+and
+b)
+copper
+chrome
+arsenic
+(Lipangile 1985).
+External
+coatings
+-
+External coating of the bamboo either
+by tar or
+bitumastic
+paints
+have a considerable
+impact on the fungi attack.
+Tar
+and its
+products
+are not considered
+to be insecticides
+and
+so
+the
+treatment
+is
+far less
+effective
+against
+termite
+attack.
+This problem could be solved
+by mixing the tar with
+chlorinated
+pesticides
+before
+coating
+the bamboo. Lipangile
+(1985)
+revealed
+that
+thick
+layers
+(2
+-
+3 mm)
+of tar
+would
+enhance
+considerably
+the
+protective
+working
+strength
+against termite attack.
+Chemical impregnation
+Impregnation
+of the culm with chemicals will also
+provide
+external
+preservation
+of
+the pipe
+against
+termite
+and
+fungal attack.
+The
+lifetime
+of a bamboo water supply scheme can
+also
+be
+increased
+(regardless
+of
+the
+treatment)
+by
+selecting
+villages
+in cooler,
+high altitude areas.
+These areas
+have
+the
+advantage
+of
+being
+less
+infected
+with
+termites.
+Experience
+shows that above altitude
+2
+000 m termites
+are
+not
+thought
+to pose any significant
+threat,
+while
+also
+growth of fungi
+is sbowed down considerably
+(Msimbe 1984).
+Tv lining
+39
+5.4
+Pipe jointing
+Water tight joints can be made in several ways.
+In Ethiopia
+(Morgan
+1974)
+soaked cow-hide,
+rubber inner tubes or
+tar-
+soaked
+rope
+were
+used to bind
+the
+joints
+tightly.
+In
+Tanzania
+most
+practical
+is the
+polythene
+or
+polyvinyl
+chloride
+(PVC)
+pipe sections and a PVC paste cailed
+Tangit
+is used for gluing.
+The bamboo is sharpened with a knife or
+with a kind of pencil-like
+sharpener
+at the ends to make it
+suitable for insertion into the plastic joint.
+The glue
+is
+applied
+to make the
+joint water-tight. Other
+methods
+are
+rubber
+winding,
+rubber string,
+bainboo collar
+and
+bamboo
+string.
+Figures
+17
+and
+18
+show
+different
+water-tight
+joints.
+reve
+Figure 17.
+Water-tight joints
+(Morgan 1974).
+nn~ed
+Wi~h cot~ofl
+Figure 18.
+Different types
+of bamboo pipe joints
+(van der
+Heuvel 1983).
+Rubber winding
+Bamboo
+~lla
+Bamboo string
+40
+5.5
+Pipe laying
+5.5.1
+Procedure
+The procedure of pipe laying inciudes eight operations:
+a)
+trench excavation
+b)
+spraying
+hydrocarbon insecticides
+(aldrin or
+chbordans
+diluted to
+1
+%)
+c)
+back-filling of the trench with 50 mm of soil
+layer
+to
+prevent
+direct
+contact between the pesticide
+and
+the
+pipe
+d)
+laying of the pipe
+e)
+connecting
+pipes with a poly joint
+(before
+connection,
+the
+joint is slightly warmed to guarantee a
+water-tight
+joint upon shrinkage)
+f)
+the
+pipe
+is
+covered
+with soil,
+preventing
+it
+from
+drying
+out
+while
+the
+line
+is
+tested
+on
+pressure
+resistance and leakage
+g)
+on top of this bayer,
+aldrin solution is sprayed again
+h)
+back-filling of the trench.
+Principally,
+a trench is excavated
+to about
+75 cm deep
+and
+60 cm wide.
+Treated pipes
+are laid
+one after
+another
+by
+pushing
+a bamboo pipe in one side of a polythene
+tube
+or
+PVC
+joint. A stone hammer and a piece of plank is used
+to
+push the bamboo into joining position.
+To secure a water—tight
+joint,
+a wire wound
+is made outside
+the
+polythene tube.
+The layout operations can
+be
+carried
+out by unskilled labourers under supervision.
+According
+to
+Lipangile
+(1985) under normal conditions
+200
+in of
+bamboo
+pipeline can be laid out by six labourers in a day.
+Bamboo
+water
+pipelines
+are
+first
+operated
+at
+dynamic
+pressures for a period of 24 hours to ensure that they
+are
+fully saturated.
+Any abrupt change of pressure
+will
+result
+into serious bamboo bursts 1f not saturated with water
+for
+a long period.
+5.5.2
+Lateral connections, valve connections and
+pressure
+relief chambers
+Bamboo
+pipes
+at
+lateral
+connections
+and
+valves
+are
+connected
+in
+similar
+manner as plastic
+pipes,
+by
+using
+adapters and T—connectors.
+Sometimes wooden connectors
+and
+joints are used.
+In
+case of anticipated pressure abong the bamboo
+pipeline
+is higher than the working pressure of the pipes,
+pressure
+relief chambers
+are installed at appropriate locations.
+Similarly,
+water hammer has a serious drawback
+to
+bamboo
+pipes.
+For this
+case,
+a small surge cushion
+device
+below
+the
+water
+point
+is
+installed
+to
+prevent
+additional
+pressures
+resulting
+from abrupt shut-off
+of flow.
+41
+6
+OPERATION AND MAINTENANCE OF BAMBOO WATER SUPPLY SCHEMES
+Huisman
+et al
+(1987)
+suggested
+that it is more difficult to
+run
+than to construct a small community water supply.
+The
+need
+for
+maintenance
+is generally
+recognized,
+but
+the
+actual maintenance work is frequently neglected.
+In Tanzania,
+the issue of operation and maintenance
+(0 & M)
+of rural water supply is
+the national problem.
+In
+its national strategies on 0 & M of rural water
+supply
+schemes
+the
+Ministry
+of Water
+(1988)
+recommended
+that
+O & M responsibilities are to be met at village level.
+This
+meant
+that
+the village shall find the means
+required
+to
+finance
+0 & M
+activities through
+levies,
+contributions,
+productive
+projects,
+etc.
+During the
+transitional
+period
+not
+exceeding
+five years,
+local
+and
+central
+government
+bodies
+shal]. cover part of the 0 & M costs.
+The
+Ministry
+of Water
+(1988) further
+recommended
+that
+it
+will be the responsibility of the individual village to:
+-
+create a water committee and a water fund
+— determine how best to collect and disburse the funds
+-
+select
+suitable
+candidates
+for
+the
+posts
+of
+scheme
+attendants
+and
+arrange
+their
+training
+through
+the
+district water engineer’s office
+-
+through the village committees,
+monitor the operations of
+the
+water
+schemes and promptly
+arrange
+such
+repairs,
+which cannot be handled by the scheme attendants.
+The Wood/Bamboo Department is now reconstructing itself
+to
+operate bamboo schemes as recommended.
+6.1
+Operational problems
+Bamboo water
+supply schemes constructed
+in the rural
+areas
+of Tanzania reflected the following problems which resulted
+•into uneven operations of the schemes
+(Lipangile
+1990):
+a)
+Use of ungalvanized wires which rust.
+b) Plugs
+used
+to fl11 insect-holes
+in bamboo
+pipes
+come
+loose causing excessiVe water losses.
+c)
+Occurrence
+of
+excessive
+water pressures
+due
+to
+the
+following reasons:
+-
+Constructions and extensions which do not comply
+with
+the design.
+-
+Use of dynamic head in design;
+should there happen any
+bbockage,
+static pressures are developed which
+might
+be well above bamboo capacity.
+-
+Surveys for bamboo water schemes are very sensitive.
+A
+rough survey with an error of
+5
+in can cause
+excessive
+damages to a bamboo pipe.
+-
+Use
+of
+much longer pipes
+than the
+recommended 4 m.
+This
+resuits in pipes which are not of
+uniform
+bore
+size which can have adverse effects pressure—wise.
+—
+Use of pipes which have been damaged during transport,
+while removing nodes or during pipeline installation.
+-
+Careless
+application
+of preservatives
+resulting
+in
+termite and fungal attack.
+42
+6.2
+Assessment of operating
+bamboo water supply schemes
+6.2.1
+Present situation
+Principally, two persons are chosen among the villagers
+as
+scheme caretakers.
+During construction they are gjven a day
+to day training on the importance of drinking water
+supply
+and
+on
+the operation and repair of the system.
+They
+are
+trained to attend minor repairs and they are also
+supplied
+with
+basic
+tools
+and spares.
+Special
+forms
+are
+filled
+monthly indicating repairs,
+situation of spare parts,
+etc.
+Observed
+water supply schemes constructed of bamboo
+pipes
+were found to consist of a minimum 5 % of its entire length
+of
+polythene
+pipes
+for jointing the separate
+4 m
+bamboo
+pipes. For the amount of polythene material in all
+schemes
+constructed
+and being maintained varies
+5
+-
+100
+%
+(Table
+8).
+Table 8.
+Examples
+of water supply
+schemes constructed
+of
+bamboo pipes.
+Name of
+Region
+Year of
+Altitude Water
+Present situatiori Percentage Remarka
+achenie
+construc-
+source
+of poly—
+tiori
+thene PVC
+In
+%
+Kilolo
+Iringa
+1980
+1500
+Spring
+Operating well
+S
+Mgama
+Iringa
+1978
+1200
+Spring
+Rehabilitated
+in
+1983
+S
+Igumbilo
+Iringa
+1983
+1100
+Shallow
+well
+Opei-ating well
+5
+Mafruto
+Iririga
+1984
+500
+Shallow
+well
+To
+be replaced
+by
+plastic pipes
+56
+Termites
+Kidogo
+Iringa
+1980
+1300
+River
+Operat~.ngwell
+S
+Mkiu/Kiyombo Iringa
+1983
+1200
+Spring
+Still operating
+5
+Shaurimoyo
+lringa
+1979
+1000
+Spring
+Replaced
+in
+1984
+Ihumo
+Iringa
+1980
+1100
+Spring
+Iinder replacement
+22
+Nyakipambo
+Iringa
+1978
+1200
+Spring
+Operating well
+5
+Kwatwanga
+Iringa
+1981
+1000
+Spring
+Operating
+5
+Lupalilo
+Iringa
+1978
+2000
+Spring
+Replaced
+1988
+by
+lined
+bamboo
+37
+Mago
+Rukwa
+1978
+2000
+Stream
+Replaced
+1988
+by
+lined
+bamboo
+73
+Termites
+Singlwe
+Iringa
+1979
+1000
+Stream
+Rehabilitated
+in
+1987
+5
+Nyanzwa
+tlbeya
+1979
+500
+Spring
+Replaced
+by
+plastic pipem
+S
+Maia
+Mbeya
+1979
+1100
+River
+Operating,
+re-
+placed by lined
+bamboo in 1984
+100
+Termites
+Katabe
+tlbeya
+1981
+1200
+Spi-ing
+Operating well
+5
+Ngumbulu
+Mbeya
+1979
+2200
+Spring
+Rehabilitated
+in
+1988
+S
+IJzia
+Rukwa
+1979
+1000
+Stream
+Replaced
+by
+plastic pipes
+100
+Termites
+Senga
+Rukwa
+1979
+1000
+Spririg
+Rehabilitated in
+1987
+5
+Likuyufusi
+Ruvuma
+1976
+1100
+Spring
+Operating—signm
+of failure
+5
+Lipokela
+Ruvuma
+1981
+1100
+Spring
+tlnder
+rehabilitation
+16
+Lihale
+Ruvuma
+1981
+1200
+River
+Operating well
+5
+43
+Whereas it is generally accepted that most operating bamboo
+water supply schemes need rehabilitation after
+five
+years,
+there
+are some schemes which require
+shorter
+replacement
+intervals
+and
+some even require
+continuous
+replacement.
+Figure
+19
+shows a map of
+Tanzania
+indicating
+operating
+bamboo water schemes and locations of bamboo forests.
+LAKE
+TANGANYIKA
+LEGENO~
+++
+BAMBOO WATERPIPE
+SCHEMES IN OPERATION
+EXISTING
+BAMBOO FORESTS
+R
+Figure
+19.
+Bamboo water supply schemes and bamboo
+forests
+in Tanzania.
+6.2.2
+Monthiy scheme records
+The
+monthly
+records
+for some schemes indicated that
+there
+is
+a need of frequent maintenance of bamboo
+water
+supply
+systems.
+Characterized with bursts,
+bamboo systems
+require
+standby
+funds,
+materials
+and
+crews
+for
+operation
+and
+maintenance
+purposes.
+Tables
+9 and 10 show a
+summary
+of
+average yearly records of Likuyufusi Scheme.
+BA
+44
+Table
+9.
+Suinmary
+of failure records of Likuyufusi
+Scheme
+in 1978—1985.
+Line
+Year of operation
+No.
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1
+-
+-
+BB
+BB
+BB
+-
+B
+-
+2
+L
+-
+-
+-
+LL
+-
+BBB
+-
+3
+LLLLL
+-
+B
+B
+LL
+-
+BBB
+-
+4
+-
+B
+B
+TBBL
+B
+LTT
+TBBTB
+BTTTT
+5
+-
+BB
+-
+-
+T
+B
+BB
+-
+6
+-
+B
+-
+BBB
+-
+BBB
+BBB
+TB
+7
+B
+B
+-
+-
+-
+-
+-
+-
+8
+-
+-
+B
+-
+-
+B
+B
+B
+9
+-
+-
+-
+B
+T
+B
+BB
+B
+10
+LLLB
+L
+BB
+BBB
+L
+B
+BB
+-
+11
+-
+-
+BB
+BBBB
+BB
+B
+B
+BT
+12
+-
+-
+-
+-
+-
+-
+BBBBT
+B
+Key: B
+= Burst,
+T = Termite, L = Leakage
+Table
+10.
+Number of bursts as a function of service life.
+Time
+(y ears)
+1
+2
+3
+4
+5
+6
+7
+8
+No.
+of bursts
+(2)*
+5
+9
+17
+(5)
+8
+25
+(6)
+* Values in brackets
+indicate that number of
+bursts
+at beginning of cycles between
+peak
+also
+increases
+with
+increased
+operating
+life.
+Burst seem to increase with age of service to a peak
+which
+recurs at irregular intervals.
+Whereas first peak occurs in
+the
+fourth
+year of operation,
+the second peak,
+which
+is
+even more severe,
+occurs in the seventh year.
+The effect of
+termite
+attack
+is
+also more felt
+as
+the
+service
+life
+increases.
+Common reasons for the reported failures inciude
+loose
+wire,
+rust wire,
+termite
+attack,
+immature
+bamboo,
+leaking joints and plugging effect
+(Slob 1985).
+45
+7
+COSTS AND ECONOMICAL CONSIDERATIONS
+7.1
+Cost estimation
+Estimation of the total
+cost of constructing a bamboo water
+supply
+scheme should be done at the planning
+stage.
+Such
+exercise
+will facilitate the acquisitlon and budgeting
+of
+the necessary funds.
+Also on a cost comparative measure
+it
+will help to show the competitiveness
+as compared to
+other
+systems
+constructed
+from
+conventional
+pipes.
+For
+the
+purpose of economical evaluation,
+the life span of a bamboo
+water
+supply scheme is
+taken 10
+years.
+In the
+opinion
+of
+the
+author,
+cost
+of bamboo pipes can
+be
+determined
+by
+either of the following two methods:
+a)
+Standard
+time
+method which will involve
+carrying
+out
+work
+studies on the different stages of making a
+pipe.
+Knowing
+the
+time involved for
+all
+operations,
+other
+material
+requirements, manpower requirement and
+wages,
+cost the pipes can be calculated.
+The main assumption of
+this
+method is that labour
+and overhead
+expenses
+are
+uniformly used over the entire year.
+b)
+This
+method
+invoives
+determining
+total
+relevant
+expenditure on pipe manufacture and dividing it by total
+iength
+of pipe laid yearly.
+This technique
+seems
+very
+realistic,
+because
+the necessary labour
+1f
+full time
+employed
+and overhead costs are
+continuously
+incurred
+even if no pipes are manufactured.
+7.1 .1
+Manufacturing costs
+There are various costs associated
+with different stages in
+the
+manufacture of bamboo pipe (Table 11).
+These
+figures
+were
+established in Tanzania based on this technobogy.
+In
+the expenditures
+the pipe preparation is centralized at
+a
+distance
+of 100 km
+from
+the
+green bamboo
+forest
+and
+150
+km
+from
+the yellow
+bamboo forest.
+1f
+there
+is
+a
+reiiable transport and the roads are good,
+it is
+advisable
+to
+process
+the
+culm
+at
+the
+site
+instead
+of
+using
+centralized
+facility.
+Preparation
+costs
+will
+remain
+basically
+the same, the
+only difference to be considered in
+the costs will be transport cost.
+Bamboo
+pipes
+made
+out
+of
+two
+different
+species,
+the
+A.
+Alpina
+(green bamboo)
+and
+~,
+Vulgaris
+(yelbow
+bamboo)
+are
+considered.
+The figures are expressed
+in
+Tanzanian
+shillings
+(TzS)
+(TZS 100
+= USD 1,
+1988 exchange rate).
+The
+standard pipe length is
+4 m and the pipeline system is
+3 km
+long.
+46
+Table
+11. Cost
+of manufacturing a bamboo
+pipe
+(Lipangile
+1988).
+Green bainboo
+Yellow bamboo
+TZS/4 m stem
+TZS/4 m stem
+1.
+Bamboo purchase price
+4.00
+8.00
+2.
+Cutting in the forest (one person at
+TZS
+1
+230/month can cut and carry
+15
+sterns per day)
+4.00
+8.00
+3. Transport (average round trip at
+TZS 121km for 200 sterns per truck)
+6.00
+9.00
+4. Preservation:
+a)
+Permethrin
+5.00
+5.00
+b)
+Tar (interior and exterior)
+15.00
+15.00
+c)
+CCA
+7.50
+7.50
+d)
+Polythene film
+20.00
+20.00
+e)
+Labour
+(2 persons at TZS
+1 230/rnonth
+for 50
+sterns sterns per day)
+2.00
+2.00
+f)
+Capital costs
+-
+construction of a
+25 stem gravity feed at TZS 360 000
+depreciated for 10 years
+3.00
+3.00
+5. Boring of internal walls
+(2 persons at
+TZS
+1
+230/month for 50
+-
+60 sterns/day)
+2.00
+2.00
+6. Wire reinforcernent:
+a)
+Wire(a 10
+crn spacing i.e.
+40 pieces/stem)
+9.00
+9.00
+b)
+Labour
+5.00
+5.00
+7.
+Sharpening end joints
+2.00
+2.00
+8. Local storage and handling
+a)
+Labour
+2.00
+2.00
+b)
+Capital costs
+4.00
+4.00
+9.
+Supervision
+8.00
+8.00
+10. Overhead costs
+(50
+%)
+49.25
+52.75
+11. Loss during transport, handling, etc.
+(15 %)
+14.78
+15.82
+12. Contingency (25
+%)
+24.62
+26.38
+Total cost/stem
+187.15
+200.45
+Total cost/rn of pipe
+46.78
+50.11
+Note to Table
+11:
+-
+In
+Tanzania an average
+of TZS 3/green bamboo is paid to
+the
+Ministry
+of Natural Resources
+and
+TZS 5/stem
+to
+private owners.
+-
+Full
+truck
+loads
+vary from 250 to 350
+stems,
+but
+it
+cannot
+be
+assumed
+that full
+truck
+loads
+are
+always
+achieved. The average distance to bamboo forests is
+50
+kin
+for green and 75 km for yellow bamboo.
+-
+Prices:
+Permethrin
+TZS 200/kg
++ transport
+Tar
+TZS 300/kg
++ transport
+CQA
+TZS
+298/kg
++ transport
+Polythene film TZS
+5/m.
+47
+7.1.2
+Installation costs
+Table
+12 shows installation costs for a bamboo water supply
+scheme.
+Table
+12.
+Installation
+costs
+for a
+bamboo
+water
+supply
+scheme
+(Lipangile 1988).
+Cost TZS/4 stem
+1.
+Transporting cost
+(from storage to the
+project site (average round trip
+TZS
+12/km)
+42.00
+2.
+Labour
+(10 people at TZS 45.50/day
+for 20 metres/day)
+9.10
+3.
+Fittings
+-
+25
+% of average material
+cost
+48.45
+4.
+Add breakage and loss
+(10
+%)
+10.00
+5.
+Contingency
+(25 %)
+24.88
+Total cost/stem
+134.43
+Total cost/m
+33.61
+7.1.3
+Maintenance costs
+The
+average
+maintenance
+requirement
+for
+bamboo
+water
+schemes,
+assuming proper design and construction is
+2
+—
+3
+pipe
+failures
+per
+two months.
+Since
+one
+pipe
+failure
+usually
+requires
+the
+replacement of
+two
+pipes,
+it
+is
+assumed
+that thirty spare pipes are needed per
+year,
+and
+that
+two
+villagers are paid monthly salaries
+to
+do
+all
+necessary repair work.
+Table
+13. Annual
+bamboo pipe maintenance costs
+(Lipangile
+1988).
+Cost TZS/year
+1.
+L
+2.
+B
+y
+abour
+(2 people at TZS
+amboo pipe replacement
+ear including transport
+1
+230/month)
+(30 stems per
+and fittings)
+14
+32
+760.00
+235.40
+Total cost/system
+17 995.40
+Total cost/m
+6.00
+48
+7.2
+Economics of investment
+With the assumptions made in Brokonsult’s
+(1983)
+evaluation
+mission report,
+bamboo pipes of sizes
+63
+-
+75 mm are
+found
+to be price competitive to polythene pipes both in terms of
+financial and economic annualized costs.
+In terms of actual
+present expenditure however,
+bamboo pipes are several
+time
+cheaper both in financial and economical terms.
+The economical advantage of using bamboo pipes
+depends
+on
+what
+size
+of polythene pipe it would replace.
+The
+least
+cost
+option
+as
+a
+function
+of
+hydraulic
+gradient
+and
+discharge (Table
+14).
+Table
+14. Least
+cost
+comparlson of bamboo
+and
+polythene
+pipe as a function of gradient and requirec3
+flow
+(Brokonsult
+1983).
+Polythene
+Green bamboo
+Yellow bamboo
+Tabie
+14 shows clearly the cost competitiveness of
+green,
+yellow
+and
+polythene
+pipes.
+In both cases
+with
+the
+flow
+requirement of
+1
+1/s, bamboo
+is preferred material,
+but for
+other fiows
+the gradient becomes critical.
+7.3
+Cost comparison with polythene pipes
+There are various costs associated in manufacture of bamboo
+pipes
+(Table 15). Those figures were established
+recently
+to have current figures as reflected in Brokonsult’s
+(1983)
+evaluation mission.
+The standard pipe length is
+4 m and the
+length of pipeline system is
+3 km. For comparison purposes,
+the
+ex-factory
+prices of
+equivalent
+diameter
+polythene
+pipes are also given
+(Table 16).
+Flow
+1/s
+Gradient
+m/km
+20
+15
+10
+5
+2.5
+0.5
+1.0
+2.0
+4.0
+8.0
+P
+G
+P
+P
+P
+P
+G
+P
+P
+G
+P
+G
+G
+G
+G
+P
+G
+G
+G
+G
+G
+G
+G
+G
+G
+0.5
+1.0
+2.0
+4.0
+8.0
+P
+Y
+P
+Y
+P
+P
+Y
+P
+Y
+P
+P
+Y
+Y
+P
+P
+P
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Note:
+-
+P=
+G=
+Y=
+49
+Table
+15. Breakdown
+on
+cost of bamboo pipes
+per
+running
+metre
+(TZS 200
+= USD 1,
+1989).
+Pipe
+Bamboo Cutting,
+Wire
+Prepara-
+Treat- Joints
+Total
+dia-
+price
+storage
+cost
+tion
+ment
+cost
+meter
+& Transp.
+cost
+cost
+mm
+TZS/m
+TZS/m
+TZS/m
+TZS/m
+TZS/m
+TZS/m
+TZS/m
+38
+2
+3
+4
+15
+17
+9
+50
+50
+2
+3
+5
+20
+23
+13
+66
+63
+2
+3
+5
+22
+25
+18
+75
+75
+2
+3
+5
+25
+28
+21
+84
+Table
+16. Cost
+of
+polythene
+pipes
+USD
+1,
+1989).
+ex—factory
+(TZS 200
+=
+Diameter,
+mm
+Cost,
+TZS/m
+38
+187
+50
+250
+63
+350
+75
+425
+When
+all the costs are taken into account
+(Table 17),
+the
+bamboo
+and
+polythene
+pipes
+are
+price
+competitive.
+In
+financial
+c~osts, bamboo pipes are price
+competitive
+with
+polythene
+pipes
+50
+-
+63 min outside diameter.
+Economically
+they
+are
+price
+competitive
+with
+polythene
+pipes
+40
+-
+50 mm. Both sets of costs are shown here to illustrate
+that shadow pricing actually has little effect on the
+cost
+advantage of bamboo pipes.
+Table
+17. Financial and economic cost comparison of
+bamboo
+and
+plastic pipes (Brokonsult
+1983,
+modified
+by
+the author).
+Financial
+TZS/m
+cost
+Economic
+TZS/m
+cost
+Description
+Baxnboo
+Polythene
+mm
+Bamboo
+Polythene
+min
+green yellow 32
+40
+50
+63
+75 green yellow 32
+40
+50
+63
+75
+Manufacture of
+bamboo/purchase
+of polythene
+14
+17
+Transport,
+fittings and
+installations
+14
+14
+10
+13
+19
+16
+19 23
+30
+31
+44
+43
+14
+16
+21
+21
+15
+19 29
+23 27 33
+46
+42
+66
+59
+Total
+28
+31
+Maintenance costs
+3
+3
+Annualized costs
+6
+6
+26 32
+42
+3
+3
+4
+61
+6
+87
+8
+35
+37
+2
+2
+7
+8
+38 46
+62
+6
+7
+9
+88
+13
+125
+18
+50
+Notes:
+-
+Transport
+costs
+for
+bamboo
+were
+based
+on
+weighted
+average distance to construction sites.
+— Manufacture
+of
+bamboo
+pipes
+was
+supposed
+to
+be
+centralized.
+-
+Shadow wage rate was assumed 60
+% of financial wage
+rate
+in 1983 wages.
+-
+Shadow
+exchange
+rate
+was
+assumed
+TZS 20
+= USD
+1
+(i.e.
+200
+%)
+of
+fixed rate in March,
+1983.
+Todays value,
+TZS 200 = USD
+1.
+-
+Shadow
+interest
+rate
+assumed
+18
+%
+whereas
+financial
+interest rate assumed
+8
+%.
+-
+Overhead expenses assumed 50 % of pipe manufacturing cost
+in case of bamboo and none in case of plastic pipes.
+— Depreciation in 10 years
+for bamboo pipes assumed to have
+a residual value of
+50
+% after
+10 years.
+Tables
+15 and 17 show that transport contributes greatly to
+both
+financial
+and
+economical
+costs
+of
+baniboo
+water
+schemes.
+To minimize costs,
+present
+construction
+efforts
+should be concentrated in areas where bamboo grows.
+In
+the
+meantime
+in
+other
+regions where
+bamboo
+does
+not
+grow
+naturally,
+people could be encouraged to grow it.
+With
+bamboo
+pipes,
+there
+is
+an
+immense
+potential
+of
+community
+participation in terms of material
+contribution
+in
+addition to labour,
+particularly in areas where
+baniboo
+grows.
+Labour costs for maintenance can in future be significantly
+reduced 1f during construction local labourers are employed
+and
+get on-the-job
+training.
+1f provided
+with
+materials,
+the
+maintenance crew (scheme attendants)
+could
+carry
+out
+minor repair works under their own village organization.
+51
+8
+CONCLUSIONS AND RECONMENDATIONS
+Conclusions and recommendations are based on two points
+of
+view,
+i.e.
+the
+present
+prevailing
+economic,
+and
+technobogical hardships.
+1.
+Economic hardships
+-
+From
+economical
+point
+of view
+bamboo
+pipes
+can
+be
+justified
+under two folds.
+First,
+while the country
+is
+struggling
+with economic hardships bamboo pipes can
+be
+used
+as a temporary measure to serve the purpose
+until
+such a time when conventional materials can be afforded.
+Secondly,
+if
+bamboo pipes are to be
+considered
+as
+a
+solution
+or
+rather
+permanent
+solution,
+then
+the
+technology
+has to be cheaper compared
+to
+conventional
+materials.
+-
+Lack of spare parts
+and inadequate transport
+facilities
+restrict construction of bamboo schemes. Although direct
+injections
+of massive foreign aid into the project
+are
+not
+deemed desirable at the moment,
+aid in the
+form
+of
+materials which are not locally available, will still be
+sought.
+Cooperation with donor agencies to
+assist
+the
+project
+in
+obtaining spare parts,
+polythene
+pipes
+of
+sizes
+not
+locally
+made,
+and
+the
+like,
+should
+be
+enhanced.
+2.
+Technobogical conclusions and recommendations
+From technological point of view the following
+conciusions
+can be observed:
+-
+Although bamboo pipes were rendering
+good service,
+they
+were not yet
+considered
+as engineering
+pipes
+due
+to
+uncertainty or inadequacy of necessary speciflcations.
+—
+Bainboo
+water
+schemes did not
+seem to have
+a
+definite
+operating
+life
+period which makes the economic
+analysis
+complicated.
+—
+Water
+schemes constructed of bamboo pipes
+will
+always
+need standby funds,
+materials and crews for the apparent
+operation and maintenance.
+-
+Since micro-organisms
+and termites are
+less
+destructive
+in
+cool
+high
+altitude areas,
+bamboo
+schemes
+should
+concentrate
+to
+these
+areas to reduce
+high
+costs
+of
+preservatives.
+-
+Pressure still remains the main problem of bamboo pipes.
+There
+is no clarity on the factors upon which
+pressure
+depends
+though the age factor was noted to
+affect
+the
+pressure. Investigation should be further carried out to
+establish
+other factors that influence
+field
+pressure
+performance of bamboo pipes.
+It is also recommended that
+52
+these
+factors
+to be fully
+investigated
+to
+have
+dear
+specifications
+which will
+facilitate
+easy
+understanding
+between
+bamboo
+cutters, water
+systems
+designers
+and
+construction teams.
+-
+There
+was
+little
+improvement
+in
+the
+hydraulic
+performance
+of
+the
+pipes.
+This
+was
+a
+result
+of
+introducing
+internal
+lining of tar
+and
+proper
+nodal
+removal.
+Further investigations can be carried
+out
+to
+improve
+the hydraulic properties of the pipes.
+Results
+of
+the
+experiments
+indicated
+that
+Hazen-Williams
+roughness
+coefficient
+C-value as high as
+140
+can
+be
+achieved.
+-
+Designs should always consider static
+pressures
+rather
+than
+dynamic pressures which encourages enormous
+water
+bosses.
+Also construction should always strictly
+adhere
+to
+designs and any extensions should be
+sanctioned
+by
+the
+engineer.
+Precise supervision
+during
+survey
+and
+construction work to overcome such problems like the use
+of pipes which taper appreciably.
+-
+Baniboo
+cutting at the forest should also be
+supervised
+to avoid cutting immattire bamboos.
+—
+The use of chemical preservatives
+is sensitive.
+Chemical
+handling
+and
+application should be with
+maximum
+care
+from
+the
+health point of view of the workers
+and
+the
+beneficiaries.
+In
+the
+past,
+in the absence of reliable
+preservation
+techniques and back of good understanding of engineering
+behaviour of bamboo pipes,
+it did not seem very sensible
+to embark on large scale implementation.
+—
+Even research
+was previously
+done casually
+though a lot
+of
+knowledge was achieved.
+It is
+therefore
+recommended
+that
+in future detailed research proposals be
+properly
+outlined
+as
+desired
+by
+institutions
+responsible
+in
+overseeing
+research
+activities.
+By
+adhering
+to
+such
+formats
+it
+is
+possible to achieve
+control
+of
+input
+resources,
+time and easy monitoring of progress.
+53
+9
+REFERENCES
+Brokonsult AB
+1983.
+Evaluation Mission
+for
+Wood/Baxnboo
+Project.
+Final Report to the United Republic of
+Tanzania.
+Swedish International Devebopment Authority
+(SIDA),
+Sweden.
+39 p.
+Chadwick,
+A.
+and Morfett,
+J.
+1986.
+Hydraulics
+in Civil
+Engineering. Allen and Unwin,
+London.
+492 p.
+Mac Conal,
+0.
+1979.
+The
+Handbook
+of
+Pulp
+and
+Paper
+Technobogy.
+University
+of Oregon,
+USA.
+p.
+40-41.
+Gaur,
+R.
+1985.
+Bamboo Research in India.
+Proceedings
+of
+the
+International Bamboo Workshop, Hangzhou, China.
+IDRC,
+Canada.
+54
+p.
+Hendrikx-Jongerius,
+C.
+and
+de Leer,
+E.
+1986.
+Reaction
+Between
+Aqueous Chborine and Bamboo.
+Report
+prepared
+for
+the
+Dutch
+Ministry for Foreign Affairs and the
+Wood
+and
+Bamboo
+Project,
+Tanzania.
+Delft University of
+Technobogy.
+The Netherlands.
+22 p.
+van
+der Heuvel,
+K.
+1983.
+Wood and Bamboo for Rural
+Water
+Supply.
+A
+Tanzanian Initiative for Self
+Reliance.
+Delft
+University Press,
+The Netherlands.
+76
+p.
+Hosia,
+L.
+1988.
+Hydraulics. Lecture
+Notes.
+Postgraduate
+Course
+in Water Supply and Sanitation.
+Tampere
+University
+of Technobogy.
+Tampere,
+Finland.
+p.
+1-12.
+Huisman,
+L.,
+Hofkes,
+E.,
+Sunderesan,
+B.,
+de Azevedo
+Netto,
+J.
+and Lanoix,
+J.
+1987.
+Small
+Community
+Water
+Supplies.
+IRC
+(International
+Reference
+Centre).
+Technical
+Paper
+Series No.
+18. The Hague,
+The Netherlands.
+442 p.
+Hukka,
+J.
+1989.
+Ljrban Water Supply and Sanitation;
+Water
+Treatment.
+Lecture
+Notes.
+Postgraduate
+Course
+in
+Water
+Supply
+and Sanitation.
+Tampere University
+of
+Technobogy.
+Tampere,
+Finland.
+145 p.
+likkanen,
+M.
+1989.
+Urban Water
+Supply
+and
+Sanitation,
+Networks.
+Lecture
+Notes.
+Postgraduate
+Course
+in
+Water
+Supply
+and Sanitation.
+Tampere University
+of
+Technology.
+Tampere,
+Finland.
+128 p.
+Iringili,
+M.
+and Mahungu,
+D.
+1979.
+Bainboo
+Pipes
+Project
+Report.
+Department of Mechanical Engineering,
+University of
+Dar es
+Salaani.
+Tanzania.
+12
+p.
+Jacobs,
+P.
+and Lindburg,
+N.
+1978.
+Engineering Report
+on
+Woodstave
+Pipes
+and Tanks and Bamboo Pipes.
+Appendix
+1.
+Iringa,
+Tanzania.
+36 p.
+Johan,
+L.
+1979.
+From Aldrin/Chlordane
+towards
+CCA.
+An
+Internal
+Report
+on
+Field Trials
+with
+CCA
+Impregnation
+Methods for Bamboo Pipes.
+Iringa,
+Tanzania.
+19 p.
+54
+Kayombo,
+W.
+1981.
+Pipe Materials in
+Transmission
+Mains.
+M.Sc.
+Thesis.
+Tampere University of
+Technology.
+Tampere,
+Finland.
+65 p.
+Liese,
+W.
+1986.
+Bamboo
+-
+Biology,
+Silvics
+Properties,
+Utilization. Eischborn,
+Germany.
+p.
+19.
+Lipangile,
+T.
+and Landman,
+C.
+1976.
+Feasibility
+Study
+Report
+on
+the
+Use of Wood and Bamboo
+in
+Water
+Supply.
+Mwanza,
+Tanzania.
+24 p.
+Lipangile,
+T.
+1984.
+Wood and
+Bamboo
+Technology.
+Paper
+presented at the Rural Hydraulic Devebopment Conference
+for
+African/Caribbean,
+Pacific
+and
+Mediterranean
+Basin
+Countries.
+Marseilles,
+France.
+18 p.
+Lipangile,
+T.
+1985.
+Bamboo Water Pipes.
+Waterlines.
+Vol.
+3,
+no.
+2.
+p.
+18—20.
+Lipangile,
+T.
+1988.
+Wood and Bamboo as
+an
+Appropriate
+Technology.
+Iringa,
+Tanzania.
+125
+p.
+(Unpublished draft).
+Lipangile,
+T.
+1990.
+Wood and Bamboo
+as
+an
+Appropriate
+Technology.
+Iringa, Tanzania.
+142 p.
+(Unpublished
+final
+draft).
+Ministry of Water.
+1986.
+Water Supply Design Manual.
+Dar es
+Salaam,
+Tanzania.
+27 p.
+Ministry of Water.
+1988.
+Workshop on
+National
+Strategies
+for
+Operation
+and
+Maintenance
+of
+Rural
+Water
+Supply
+Schemes.
+Morogoro, Tanzania.
+26 p.
+Morgan,
+J.
+1974.
+Water Pipes from Bamboo in Mezan
+Teferi,
+Ethiopia. Appropriate Technology.
+Vol.
+1,
+no.
+2.
+p.
+8-10.
+Msimbe,
+L.
+1984.
+Wood/Bamboo Technology Devebopment. Paper
+presented
+at
+the
+Annual
+Regional
+Water
+Engineer’s
+Conference.
+Tanga,
+Tanzania.
+23 p.
+Purushotham,
+A.,
+Singh,
+S.
+and
+Nigham,
+P.
+1965.
+Preservation
+Treatment
+of Green Bamboo by
+the
+Diffusion
+Process.
+Journal
+of the Timber
+Development
+Association.
+Vol.
+11,
+no.
+4.
+p.
+8—11.
+Sharma,
+Y.
+1980.
+Bamboo in
+the
+Asian Pacific
+Region.
+Proceedings
+of
+the Workshop on Bamboo Research
+in
+Asia.
+Singapore.
+p.
+23-34.
+Slob,
+J.
+1985.
+Wood-Bamboo Project.
+Report
+Prepared
+for
+the c~overnmentof the Netherlands. Dar es Salaam,
+Tanzania.
+23p.
+Suhan,
+G.
+1979.
+Hydraulic Properties
+of
+Bamboo
+Pipes.
+Consulting
+Report
+No. CW 79.1.
+Faculty
+of
+Engineering,
+University of Dar es Salaain,
+Tanzania.
+10 p.
+Twort,
+A.,
+Law,
+F.
+and Crowly,
+F.
+1985.
+Water
+Supply.
+AISE.
+Edward Arnold Ltd,
+London.
+p.
+371-378.
+55
+United
+Nations.
+1972.
+Use of Bamboo and Reeds in
+Building
+Construction Engineering Report No.
+ST/SOA/113.
+p.
+1-3.
+VITA.
+1975.
+Village Technobogy Handbook. Water Fbow
+Design
+Charts. USA.
+p.
+89-90.
+World Bank.
+1977.
+Rural Water Supply Sector Study.
+United
+Republic of Tanzania, Wood Piping.
+Annex 21.
+Dar es Salaam,
+Tanzania.
+p.
+20-21.
+APPENDI~ 1 (1/8)
+Detailed results of the pipe friction experiment.
+* Resuits,
+which
+for some experimental
+shortcomings
+are
+obviously
+meaningless and thus have not been considered,
+appear in brackets.
+* All calculations are based
+on theoretical
+considerations
+given in chapter 3,
+section 3.3.1.
+APPENDIX
+1 (2/8)
+PIPE NO.
+1
+D- 0.0601 •
+Bvo- 0.100 a
+Delta
+L-0.60 .
+Viscosity~ 9.OE-07C21s
+8v-t
+Q
+PIEZOMETER READINGS
+FRZCTZON L088E8
+FRICTION FACTORS
+MANNZNG
+n
+BAZEN WILLIAMS C
+V
+REYNOLDS
+10—3
+1
+2
+3
+4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+a
+iC3is
+in
+in
+in
+in
+(
+*jj3_3
+sim(1/3}
+)
+-
+mis
+0.175
+1.187 1.698 1.690 1.677 1.671
+0.008
+0.013 0.006
+0.090
+0.146 0.067
+16.801
+21.417 14.550
+71.5
+55.0
+83.5 0.418 27941.6
+The now
+is Turbulent
+0.185 1.623
+1.678
+1.670 1.660
+1.640
+0.008 0.010
+0.020
+0.040 0.060
+0.120 12.287
+13.737 19.427
+The flow is Turhulent
+0.193 2.032
+1.595
+1.570 1.550
+1.522
+0.025 0.020 0.028
+0.096 0.077
+0.107
+17.346 15.515
+18.358
+The flow
+is Turbulent
+0.200 2.437
+1.358 1.320 1.290 1.250
+0.030 0.030 0.040
+0.101
+0.080
+0.107
+17.837
+15.849 18.301
+The flow is Turbulent
+0.208 2.954 1.310 1.260 1.218
+1.158 0.050 0.042 0.060
+0.091 0.076
+0.109 16.880
+15.471 18.491
+The flow is
+Turbulent
+0.210 3.092 1.302 1.240
+1.190 1.120 0.062 0.050 0.070 0.103 0.083
+0.116 17.954 16.123
+19.077
+The flow is Turbulent
+0.208 2.954 1.318 1.262
+1.216 1.158 0.056 0.046 0.058
+0.102 0.083
+0.105 17.864
+16.191 18.180
+The flow is Turbulent
+0.200 2.437 1.356 1.318
+1.292
+1.250 0.038 0.026 0.042
+0.101 0.069
+0.112 17.837
+14.755 18.753
+The flow
+is Turhulent
+0.193 2.032
+1.594
+1.568 1.550
+1.520
+0.026 0.018 0.030
+0.100 0.069
+0.115
+17.690
+14.719 19.002
+The flow
+is Turbulent
+0.185 1.623
+1.678 1.670 1.660 1.638
+0.008 0.010 0.022
+0.048 0.060
+0.132
+12.287
+13.737 20.375
+The How
+i. Turbulent
+0.175 1.187
+1.700 1.692 1.686 1.678 0.008 0.006 0.008
+0.090
+0.067 0.090
+16.801
+14.550 16.801
+The tlow
+is Turbulent
+0.210 3.092
+1.300 1.240 1.188 1.118
+0.060 0.052 0.070
+0.099
+0.086 0.116
+17.662
+16.442 19.077
+The How
+is Turhulent
+97.8
+86.7
+59.6 0.572
+38207.2
+66.2
+74.7
+62.3 0.716 47841.6
+63.3
+71.9
+61.6 0.859 57358.6
+66.2
+72.7
+60.0 1.041 69527.7
+61.7
+69.3
+57.8 1.090 72791.4
+62.2
+69.2
+61.1 1.041 69527.7
+63.3
+77.7
+60.0 0.859 57358.6
+64.8
+79.0
+60.0 0.716 47841.6
+97.8
+86.7
+56.6 0.572 38207.2
+71.5
+83.5
+71.5 0.418
+27941.6
+62.8
+67.8
+57.8 1.090 72791.4
+PIPE NO.
+2
+0— 0.0576 a
+Hvo— 0.100 m
+Delta L—0.60 in
+Viscosity~9.OE—O7C2is
+Mvt
+~
+PIEZOMETER READZNGS
+FRICTION LOSSES
+FRICTION FACTORS
+MANNING
+n
+RAZEN WILLIAMS
+C
+V
+REYNOLDS
+~10 —3
+1
+2
+3
+4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+iC3is
+in
+in
+(
+~
+siC(1i3)
+)
+mis
+0.185
+1.623 1.650 1.648
+1.646
+1.638
+0.002 0.002 0.008(0.010)(0.010)0.039(5.485)(5.485)10.971(231.2)(.231.2)109.4 0.623
+39865.5
+The flow is Turbulent
+0.193 2.032 1.452
+1.450
+1.448 1.440 0.002 0.002 0.008(0.00~(0.006X0.025)(4.381)(4.38l)(8.761)(289.~@89.5)(136.9)0.78049918.1
+The How
+is Turhulent
+0.200 2.437
+1.124 1.120 1.104
+1.082 0.004
+0.016 0.022 (0.009) 0.034
+0.047 (5.167) 10.335 12.118 (238.7) 112.9
+95.1
+0.935 59848.1
+The flow is Turbulent
+0.208 2.954
+1.076
+1.060 1.032 1.005
+0.016 0.028 0.027(0.02v 0.041
+0.040 (8.526) 11.219 11.075 Q36.9) 101.2
+103.2
+1.134 72545.4
+The flow is Turbulent
+0.210 3.092
+1.068
+1.040 1.004
+0.980
+0.028 0.036 0.024 (0.037) 0.048
+0.032 (10.773) 12.215 9.974 (105.9)
+92.5 (iis.i) 1.187 75950.7
+The how is
+Turbulent
+0.208 2.954
+1.075
+1.060 1.030 1.002 0.015 0.030 0.028(0.022)0.044
+0.041(8.255)11.674 11.279(141.7)
+97.5 101.2
+1.134 72545.4
+The flow is Turbulent
+0.210 3.092 1.066 1.050 1.002 0.980
+0.016 0.048 0.022(0.021)0.064
+0.129(8.144)14.105
+~
+79.2(120.7~1.187 75950.7
+The flow is Turhulsnt
+APPENDI~1
+(3/8)
+0.175
+1.187
+1.890
+1.886
+1.882
+1.876
+0.004
+0.004
+0.006
+0.050
+0.050
+0.075 12.578 12.578
+15.405
+98.3
+98.3
+79.0
+0.401
+27350.0
+The How is Turbulent
+0.185
+1.623
+1.810
+1.806
+1.000 1.706
+0.004
+0.006 0.014(0.023)0.0400.094(9.198)11.266
+17.208(134.4)108.0
+The How
+ie Turbulent
+0.193
+2.032
+1.650
+1.640
+1.620
+1.600
+0.010
+0.020
+0.020
+0.043
+0.085
+0.085
+11.615 16.426
+16.426 102.6
+70.6
+The How
+is Turbulent
+0.200
+2.437
+1.590
+1.570
+1.550
+1.520
+0.020
+0.020
+0.030
+0.059
+0.059
+0.089 13.701
+13.701
+16.780
+84.6
+84.6
+The How
+is Turhulent
+0.208
+2.954
+1.410
+1.378
+1.340
+1.298
+0.032
+0.038
+0.042
+0.065
+0.077
+0.085
+14.297 15.580 16.379
+79.6
+72.5
+The How is Turbulent
+0.210
+3.092
+1.390
+1.358
+1.325
+1.282 0.032
+0.033
+0.043
+0.059
+0.061
+0.079
+13.656 13.868 15.830
+83.3
+81.9
+Th. How ii Turbulent
+0.208
+2.954
+1.398
+1.380
+1.338
+1.290
+0.018
+0.042
+0.048(0.036)0.085
+0.097(10.723)16.379
+17.510(108.6)
+68.7
+The How
+is Turbulent
+0.200
+2.437
+1.600
+1.574
+1.550
+1.520
+0.026
+0.024
+0.030
+0.077
+0.071
+0.089
+15.621
+15.008 16.780
+73.4
+76.7
+The how
+is Turbulent
+0.193 2.032 1.650
+1.642 1.620 1.602 0.008
+0.022
+0.018(0.034)0.094 0.077 (10.38e 17.228 15.583(115.8)
+67.0
+The flow is Turbulent
+0.185
+1.623 1.808
+1.806
+1.800
+1.785
+0.002
+0.006
+0.015(0.013)0.040 0.100(6.504)11.266
+17.812(195.4)108.0
+The flow is Turbulent
+0.175 1.187 1.892
+1.886 1.880 1.874 0.006
+0.006 0.006
+0.075 0.075 0.075
+15.405
+15.405 15.405
+79.0
+79.0
+The flow is Turbulent
+0.210
+3.092 1.390
+1.360 1.326 1.280 0.030 0.034 0.046 0.055 0.063 0.085
+13.222
+14.076 16.373
+86.3
+80.6
+The
+flow is Turhulent
+PrPE NO.
+3
+D- 0.0518 a
+8vo~ 0.100 •
+Delte
+L.0.60 a
+Viscosity.
+9.0E—07C2/s
+Hvt
+q
+PIEZOMETER READINGS
+PRZCTZON L088E5
+PRICTION PACTORS
+NANNING
+n
+RAZEN WILLIAMS C
+¶/
+REYNOLDS
+•10
+~3
+1
+2
+3
+4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+a
+C3/s
+n
+m
+a
+n
+(
+~l0~
+3
+sirC(113)
+)
+als
+0.185 1.623 1.732 1.720 1.710 1.672
+0.012 0.010 0.038 0.034(0.029) 0.109 10.124(9.242)18.016 116.1 (128.2) 62.3 0.770
+44329.2
+The flow is Turhulent
+0.193 2.032 1.635 1.610
+1.600 1.538
+0.025 0.010 0.062
+0.046(0.018)0.113
+11.670(7.381)18.379
+97.8~.60.5) 59.9
+0.964
+55507.3
+The flow is Turhulent
+0.200 2.437 1.540 1.498
+1.478 1.376 0.042 0.020 0.102
+0.053(0.025)0.129
+12.617(8.706)19.662
+88.6(132.3)
+54.9
+1.156
+66549.2
+The flow is Turbulent
+0.208 2.954 1.466 1.420
+1.382 1.256 0.046 0.038 0.126 0.040(0.033)0.109
+10.893(9.900) 18.028 102.3(113.4)
+59.4 1.402 80668.2
+The How is Turbulent
+0.210 3.092 1.322 1.274
+1.228 1.088 0.048
+0.046 0.140 0.038(0.036)0.110
+10.628 (10.404) 18.151 104.7(107.])
+58.7
+1.467 84454.9
+The How is Turbulent
+0.208
+2.954
+1.468
+1.422
+1.380
+1.254
+0.046
+0.042
+0.126
+0.040(0.036)0.109
+10.893 (10.408) 18.028
+102.3(107.5)
+59.4
+1.402
+80668.2
+The tbv
+ie Turbulent
+0.200
+2.437
+1.542
+1.508
+1.480
+1.378
+0.034
+0.028
+0.102
+0.043(0.035)0.129
+11.352(10.302)19.662
+99.4(110.3)
+54.9 1.156
+66549.2
+The How
+ie Turhulent
+0.193
+2.032
+1.638
+1.615
+1.598
+1.536
+0.023
+0.017
+0.062
+0.042(0.031) 0.113
+11.194 (9.624) 18.379
+102.4 (120.5) 59.9
+0.964
+55507.3
+The tbv
+is Turbulent
+0.185
+1.623
+1.718
+1.704
+1.698
+1.656
+0.014
+0.006
+0.042
+0.040(0.017)0.120
+10.936 (7.159)18.941
+106.9(168.9)
+59.0
+0.770 44329.2
+The flow ie Turbulent
+0.210
+3.092
+1.320
+1.272
+1.230
+1.090
+0.048
+0.042
+0.140
+0.038(0.033)0.110
+10.628(9.942)18.151
+104.7(112.5)
+58.7 1.467 84454.9
+The fbow ie Turhulent
+PIPE
+NO. 4
+D~ 0.0614 e
+Bvo~ 0.100 m
+Delta L~0.60 is
+Viscoeity.
+9.OE—07rC2/s
+fit-t
+q
+PIEZOKETER READINGS
+PRICTION LO8SES
+PRICTION PACTORS
+RANNING
+n
+RAZEN WILLIARS C
+V
+REYNDLDS
+10
+—3
+1
+2
+3
+4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+e
+is 3/s
+is
+e
+m
+is
+(
+*]j)~3 siC(113)
+)
+mis
+68.3 0.548
+37398.3
+70.6 0.686
+46828.7
+68.0 0.823
+56144.1
+68.7 0.998
+68055.6
+71.0 1.044
+71250.2
+63.9 0.998
+68055.6
+68.0 0.823
+56144.1
+74.7 0.686
+46828.7
+65.8 0.548
+37398.3
+79.0 0.401
+27350.0
+68.5 1.044
+71250.2
+APPENDIX
+1
+(4/8)
+PIPE NO.
+5
+D-
+0.0616 is
+Rvo~ 0.100 is
+Delta L~0.60 is
+Viscosity.
+9.OE—07n2/s
+8fl
+Q
+PIEZOMETER READINGS
+PRICTION LOSSES
+FRICTIDN PACTDRS
+MANNING
+n
+HAZEN WILLIAMS C
+V
+REYSOLDS
+~b0—3
+1
+2
+3
+4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+n
+rC3/s
+n
+is
+is
+is
+(
+~
+e’rCtl’3)
+)
+is’s
+0.175
+1.187
+1.828 1.816
+1.810 1.776 0.012
+0.006
+0.014
+0.152 0.076 0.432 21.975
+15.539 36.989
+53.9
+78.3
+30.7
+0.398
+27261.2
+The fbow
+is Turbulent
+0.185
+1.623
+1.850
+1.820
+1.800
+1.740
+0.030
+0.020
+0.060
+0.204
+0.136
+0.407
+25.410 20.747 35.935
+44.9
+55.9
+30.9
+0.545 37276.9
+The fbow
+is Turbulent
+0.193
+2.032
+1.612
+1.562
+1.540
+1.450
+0.050
+0.022
+0.090
+0.217
+0.095
+0.390
+26.198
+17.378
+35.148
+42.7
+66.5
+31.1
+0.682
+46676.6
+The How is
+Turbulent
+0.200 2.437
+1.590 1.512 1.480
+1.350 0.078
+fl.032
+fl.130 0.235 0.096
+0.392
+27.292 17.481
+35.234
+40.2
+65.1
+30.5
+0.818 55961.8
+The flow is Turbulent
+0.208 2.954
+1.510 1.420 1.360
+1.210 0.090 0.060
+0.150 0.185 0.123
+0.308
+24.185 19.747
+31.223
+45.1
+56.2
+34.3
+0.991 67834.6
+The flow is
+Turbulent
+0.164 0.798
+1.980 1.976 1.975
+1.954 0.004 0.001
+0.021 0.112(0.028)0.589 18.861(9.431)43.217
+65.6 (138.6)
+26.8
+0.268 18337.6
+The flow is Turbulent
+0.200 2.437
+1.600 1.510 1.484
+1.352 0.090 0.026
+0.132 0.271 0.078
+0.398
+29.317 15.757 35.504
+37.2
+72.8
+30.3
+0.818 55961.8
+The flow is
+Turbulent
+0.193 2.032
+1.610 1.560 1.530
+1.450
+0.050 0.020
+0.090 0.217 0.087
+0.390
+26.198
+16.569 35.148
+42.7
+70.0
+31.1
+0.682 46676.6
+The How
+ie Turbulent
+0.185
+1.623
+1.851
+1.820
+1.800
+1.740
+0.031
+0.020
+0.060
+0.211
+0.136
+0.407
+25.830
+20.747
+35.935
+44.1
+55.9
+30.9
+0.545
+37276.9
+The fbow is Turbulent
+0.175 1.187 1.830
+1.816 1.812
+1.775 0.014
+0.004
+0.037 0.178 0.051
+0.470 23.736 l2.687 38.587
+49.6
+97.5
+29.3
+0.398
+27261.2
+The fbow is Turbulent
+PIPE NO. 6
+D~ 0.0541
+is
+Evo.
+0.100
+is
+Delta
+L~0.60 is
+Vlscosity.
+9.OE—07m21s
+8fl
+Q
+PZEZOMETER READINGS
+FRICTI0~ LOSSES
+PRICTION
+flCTORS
+MAM~T’JG
+n
+HAZEN WILLIAMS C
+V
+REYNOLDS
+~b0—3
+1
+2
+3
+4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+is
+is3/e
+is
+is
+is
+is
+(
+‘10—3s/m(113)
+1
+mis
+0.175
+1.187
+1.890
+1.880
+1.872
+1.861
+0.010
+0.008
+0.011
+0.066
+0.053
+0.073
+14.190
+12.692
+14.883
+83.6
+94.3
+79.4
+0.516
+31040.5
+The fbow is Turbulent
+0.185 1.623
+1.558
+1.550 1.541
+1.528 0.008
+0.009 0.013(0.028X0.032)0.046(9.282X9.845)11.832(129.c~i(121.4l 99.2
+0.706 42444.6
+The flow is
+Turbulent
+0.193 2.032
+1.480
+1.468 1.450
+1.321
+0.012 0.018
+0.129(0.027)(0.041)0.292(9.079)(11.11~29.766(129.7)(104.2) 36.0
+0.884 53147.5
+The flow is Turbulent
+0.200 2.437
+1.420 1.400 1.262
+1.231
+0.020 0.138
+0.031(0.031)(0.217)0.049(9.776)(25.67~12.171(118.0)(41.6) 93.2
+1.060 63720.0
+The fbow is Turbulent
+0.208 2.954
+1.240 1.215 1.192
+1.164
+0.025 0.023
+0.028(0.027X0.025)(0.030)(9.017)(8.648)(9.542X126.8X132.7)(119.3) 1.285 77238.7
+The How ie Turhulent
+0.210 3.092 1.180 1.140 1.126
+1.090 0.040 0.014
+0.036(0.039)(0.014)(0.035)(i.0.894)(6.445)(10.335)(103.0)(191.6)Q09.1)1.345
+80864.4
+The fbow ie Turbulent
+0.2022.954 1.2401.215 1.192
+1.164
+0.025 0.023
+0.028~0.023)(0.025X0.030y9.017».6489.542~26.8)~32.7»19.3~1.285
+77238.7
+0.200 2.437 1.420
+1.400 1.261 1.232 0.020 0.139 0.029(0.032) 0.219
+0.046 (9.77Q 25.772 11.772 (iie.o)
+41.4
+96.6
+1.060
+63720.0
+The How is Turbulent
+0.193 2.032 1.480 1.467 1.452 1.324 0.013 0.015
+0.128(0.029)0.034 0.290(9.449)10.150 29.651(124.~115.0 36.1
+0.884 53147.5
+The flow ie Turhulent
+0.185 1.623 1.560
+1.550 1.528
+1.520 0.010 0.022
+0.008(0.035) o.078(o.o28)(10.37t 15.392(9.282)(114.3) 74.7 (129.0) 0.706
+42444.6
+The fbow is Turhulent
+0.210
+3.092
+1.150
+1.134
+1.120
+1.034
+0.016
+0.014
+0.086(0.016)(0.014)0.084(6.89t~(6.44~
+15.974
+~69.0~~81.6)
+68.1
+1.345
+80864.4
+The fbow ie Turhulent
+APPENDIX
+1
+(5/8)
+PIPE NO. 7
+D~0.0648 e
+fivo. 0.100
+is
+Delta L~0.60 is
+Viecoeitys
+9.OE—07gC2/e
+Hvt
+Q
+PIEZOMETER
+READINGS
+PRICTION
+LOSSES
+PRICTIGN FACPORS
+MANNING
+n
+HAZEN WILLIAMS
+C
+V
+REYNOLDS
+~10—3
+1
+2
+3
+4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+is
+is3/s
+is
+is
+is
+is
+—
+1
+~b0—3
+e’is(1/3)
+1
+-
+-
+-
+mis
+0.175
+1.187 1.720 1.718
+1.715 1.712
+0.002
+0.003 0.003(0.033)0.049 0.049(10.268)12.576 12.576(124.0) 99.6
+99.6 0.360
+25915.0
+The flow is Turhulent
+0.185 1.623 1.650 1.646 1.640
+1.630 0.004 0.006
+0.010(0.03!9 0.052
+0.087(10.620) 13.007 16.792(116.7)
+93.7
+71.1
+0.492
+35436.0
+The How is Turbubent
+0.193 2.032 1.598 1.590 1.580
+1.570 0.008 0.010
+0.010(0.045)0.056 0.056(11.994)13.410 13.410(100.5)
+89.1
+89.1
+0.616
+44371.6
+The fbow is
+Turbulent
+0.200 2.437 1.514 1.500 1.488
+1.464 0.014 0.012
+0.024 0.054 0.047
+0.093 13.234
+12.253 17.328
+89.0
+96.8
+66.6 0.739
+53198.3
+The fbow is Turbulent
+0.208
+2.954
+1.378
+1.364
+1.334
+1.298
+0.014
+0.030
+0.036(0.037)0.079
+0.095 (10.918) 15.903 17.508 (107.9)
+71.5
+64.8 0.896
+64484.8
+The flow is Turbulent
+0.210
+3.092
+1.130
+1.120
+1.082
+1.050
+0.010
+0.038
+0.032(0.024~0.092 0.077(8.814)17.181
+15.767(135.5) 65.9
+72.3 0.938
+67511.8
+The fbow is Turbulent
+0.208
+2.954
+1.380
+1.365
+1.335
+1.300
+0.015
+0.030
+0.035(0.040)0.079
+0.092(11.301)15.983
+17.263(104.0)
+71.5
+65.8 0.896
+64484.8
+The fbow is Turbulent
+0.200
+2.437
+1.510
+1.496
+1.485
+1.463
+0.014
+0.011
+0.022
+0.054(0.043)0.085 13.234(11.731)16.590
+89.0(101.4)
+69.8 0.739
+53198.3
+The fbow is Turbulent
+0.193
+2.032
+1.600
+1.590
+1.580
+1.574
+0.010
+0.010
+0.006
+0.056
+0.056(0.033)13.410 13.410(10.388)
+89.1
+89.1(117.3)0.616 44371.6
+The fbow is Turbulent
+0.185 1.623 1.649
+1.645
+1.643 1.632 0.004
+0.002 0.011(0.035)(0.017)0.096(10.62q(7.510)17.611(116.7)(169.6) 67.6 0.492
+35436.0
+The fbow is Turbulent
+0.210
+3.092
+1.128
+1.118
+1.084
+1.048
+0.010
+0.034
+0.036d’0.024\0.082 0.087(8.814)16.252 16.723(135.5)
+70.0
+67.8 0.938
+67511.8
+The flow ie Turbulent
+‘
+“
+PIPE NO.
+8
+D~0.0559
+is
+Hvo~0.100 is
+Delta L~0.60 is
+Vitcosity~ 9.OE—07C2’e
+8fl
+Q
+PIEZOMETER
+READINGS
+PRICTION
+LGSSES
+PRICTION FACTGRS
+MANNING
+n
+HAZEN LULLflMS C
+V
+REYNOLDS
+~10~3
+1
+2
+3
+4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—1
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+is
+n3’s
+is
+is
+ii
+is
+t
+~10—3
+s/n(1/3)
+t
+is/s
+0.193
+2.032
+1.310
+1.294
+1.280
+1.262
+0.016
+0.014
+0.018(0.043X0.037)0.048(11.43~~10.700~~12.133Ç101.9X109.5)
+95.6
+0.828
+51436.1
+The fbow is
+Turbulent
+0.200
+2.437
+1.190
+1.168
+1.151
+1.124
+0.022
+0.017
+0.027(0.041X0.032)0.050c11.186)(1.831)12.394cb02.9X11ff.2~ 92.1 0.993
+61668.2
+The
+flow is Turbulent
+0.208
+2.954
+1.100
+1.064
+1.048
+1.020
+0.036
+0.016
+0.028
+0.045(0.020)(0.035)11.807(7.E7ij(10.413)
+95.6(148.1)(109.5)1.204
+74751.6
+The How
+is Turbulent
+0.210
+3.092
+1.040
+1.000
+0.960
+0.940
+0.040
+0.040
+0.020
+0.046
+0.046(0.022)11.887 11.887(8.406)
+94.5
+94.5(137.4)1.260 78260.5
+The
+fbow
+ie Turbulent
+0.208
+2.954
+1.140
+1.066
+1.040
+1.020
+0.074
+0.026
+0.020
+0.093(0.032)co.o25)16.928~10.o3q(8.oo0~64.8(113.~431.3)1.204 74751.6
+The
+flow is Turbulent
+0.200
+2.437
+1.189
+1.162
+1.148
+1.122
+0.027
+0.014
+0.026
+0.050(0.026) 0.048
+12.394 (8.925) 12.163
+92.1 (131.3)
+~4.0 0.993
+61668.2
+The fbow as Turbulent
+0.193
+2.032
+1.314
+1.298
+1.278
+1.262
+0.016
+0.020
+0.016(0.042)0.053
+0.043 (11.439) 12.789 11.439(101.9)
+90.3
+101.9
+0.828
+51436.1
+The flow is Turhulent
+0.185 1.623 1.492 1.480 1.462
+1.450 0.012
+0.018 0.012 0.050
+0.075 0.050
+12.405
+15.193 12.405
+95.1
+76.4
+95.1 0.661
+41077.9
+The flow
+is Turbulent
+0.210 3.092 1.035 0.998
+0.976 0.940 0.037
+0.022 0.036 0.043(0.025)0.041 11.433(8.816)11.277
+98.6(130.9100.1 1.260 78260.5
+The flow is Turhulent
+APPENDIX
+1
+(6/8)
+PIPE NO.
+9
+0. 0.0575
+in
+Hvo.
+0.100 e
+Delta L0.60 a
+Viscosity.
+9.OE—07s2/s
+Het
+PIEZOMETER
+READING9
+FRZCTION L088E8
+FRICTION FACTORS
+MANNING
+n
+RAZEN
+WILLIANS C
+V
+REYNOLDS
+•10
+—3
+1.
+2
+3
+4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+•
+a_3/s
+•
+in
+in
+in
+(
+10—3 s/iC(1/3)
+)
+in/s
+0.175 1.187 1.740 1.736 1.730 1.724 0.004
+0.006 0.006(0.036’~0.0540.054(10.558)12.931 12.931 (J16.8)
+93.9
+93.9
+0.457 29205.1
+The tlow is Turhulent
+0.185 1.623 1.575 1.570 1.560 1.550 0.005 0.010
+0.010(0.024)0.048 0.040 (0.633) 12.209 12.209 c141.6)
+97.4
+97.4 0.625 39934.9
+The How is Turbulent
+0.193 2.032 1.450 1.438 1.425 1.410
+0.012 0.013
+0.015(0.037)@.040)0.046(10.60ij(l1.117)11.942(110.5)Q05.8)
+98.0 0.783 50004.9
+The flow is Turbulent
+0.200
+2.437 1.360 1.340 1.320
+1.296 0.020 0.020 0.024 0.043
+0.043 0.051 11.501 11.501 12.599 100.6
+100.6
+91.1 0.938 59952.2
+The flow is Turhulent
+0.208
+2.954 1.228 1.190 1.160
+1.130 0.038 0.030 0.030 0.055
+0.044
+0.044 13.078 11.621 11.621
+86.2
+97.9
+97.9 1.137
+72671.5
+The flow is Turhulent
+0.210
+3.092 1.130 1.094 1.064
+1.030 0.036
+0.030 0.034 0.048 0.040 0.045 12.159 11.099
+11.816
+92.9 102.5
+95.8 1.191 76082.8
+The flow is Turbulent
+0.208
+2.954 1.230 1.190
+1.160
+1.130
+0.040 0.030 0.030 0.058 0.044 0.044 13.418
+11.621 11.621
+83.8
+97.9
+97.9 1.137
+72671.5
+The flow is Turbulent
+0.200
+2.437 1.360 1.343
+1.322
+1.300
+0.017 0.021 0.022 0.036
+0.045
+0.047 10.603 11.785
+12.062 109.8
+97.9
+95.5 0.938 59952.2
+The t low is Turbulent
+0.193
+2.032 1.454 1.440
+1.425
+1.414 0.014 0.015 0.011 0.043
+0.046(0.034711.537 11.942(10.226)101.7
+98.0(115.8)0.783
+50004.9
+The flow is Turbulent
+0.185 1.623 1.575 1.570 1.561
+1.552 0.005 0.009 0.009(0.024)(0.043)(0.043)(8.633)(11.582)~1.582)(141.~(103.l~O.03.1)0.62539934.9
+The flow is Turhulent
+0.175 1.187 1.750 1.735
+1.726
+1.718 0.015 0.009 0.008 0.135
+0.081
+0.072 20.446 15.838
+14.932
+57.2
+75.4
+80.3 0.457
+29205.1
+The flow is Turhulent
+0.210 3.092 1.130 1.090 1.060
+1.034
+0.040 0.030 0.026 0.053(0.040)0.034
+12.817(11.099)~0.333) 87.8(102.5)(110.8)1.191 76082.8
+The flow is Turhulent
+PIPE NO.
+10
+D• o.osfl •
+Hvo• 0.100 •
+Delta L.0.60
+in
+Viscosity.
+9.OE-07C2Js
+Het
+q
+PZEZOMETER PEADINGS
+FRICTZON L099ES
+FRICTION FACTOR8
+MANNING
+n
+HAZEN WILLIANS
+C
+V
+REÏNOLDO
+10
+—3
+1
+2
+3
+4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+•
+C3/s
+in
+in
+in
+in
+(
+~10—3
+s/in(1/3)
+)
+in/s
+0.164 0.798 1.980
+1.964 1.960 1.950
+0.016 0.004 0.010 0.274 0.068 0.171
+28.979 14.489
+22.910
+40.2
+85.0
+51.6 0.327
+20243.6
+The how
+is Turbulent
+0.175 1.167 1.884
+1.850 1.035 1.820 0.034 0.015 0.015 0.263
+0.116 0.116 20.415 18.874
+18.874
+The how is Turbulent
+0.185 1.623
+1.845 1.778 1.750 1.720
+0.067 0.028 0.030 0.278
+0.116 0.124
+29.171 18.858
+19.520
+The flow is Turbulent
+0.193 2.032 1.720
+1.610 1.568
+1.524 0.110 0.042 0.044 0.291
+0.111 0.116
+29.851 18.445 18.879
+The 110w is Turbulent
+0.200 2.437 1.650
+1.500 1.435 1.364 0.150 0.065 0.071 0.276
+0.119 0.130 29.075 19.139
+20.003
+The
+flow is Turbulent
+0.208 2.954
+1.598 1.374 1.278 1.174
+0.224 0.096 0.104 0.280
+0.120 0.130
+29.311
+19.189 19.972
+The how is Turhulent
+0.210 3.092
+1.546 1.306
+1.200 1.098
+0.240 0.106 0.102 0.274
+0.121 0.116 28.900
+19.259 18.892
+The how is Turbulent
+0.208 2.954 1.598
+1.374 1.278 1.174
+0.224 0.096 0.104 0.280
+0.120 0.130 29.311
+19.189 19.972
+The
+1low is Turbulent
+0.200
+2.437 1.650 1.500 1.436 1.365
+0.150 0.064 0.071 0.276 0.118 0.130 29.075
+18.991
+20.003
+The how
+is Turbulent
+0.193
+2.032 1.722 1.614 1.569 1.520 0.108
+0.045 0.049 0.285 0.119 0.129
+29.578
+19.093 19.923
+The flow is Turbulent
+0.185 1.623 1.846 1.780 1.750 1.722 0.066 0.030 0.028 0.273 0.124 0.116
+28.953
+19.520 10.858
+The flow is Turhujent
+0.175 1.187
+1.886 1.854 1.810
+1.832 0.032
+0.014 0.008 0.248 0.108
+0.062 27.567
+18.234 13.784
+The
+flow is Turhulent
+39.8
+61.9
+61.9 0.485
+30094.8
+37.7
+60.4
+58.2 0.664 41151.5
+36.2
+60.8
+59.3 0.831 51528.3
+36.7
+57.6
+54.9 0.996 61778.7
+35.8
+56.5
+51.2 1.208 74885.5
+36.1
+56.1
+57.3 1.265 78400.8
+35.8
+56.5
+54.2
+1.208 74885.5
+36.7
+58.1
+54.9 0.996 61778.7
+36.5
+58.6
+55.9 0.831 51528.3
+38.0
+58.2
+60.4 0.664 41151.5
+41.1
+64.3
+86.9 0.485 30094.8
+APPENDIX
+1
+(7/8)
+0.185 1.623 1.510 1.505
+1.500
+The fbow ie Turbulent
+0.193
+2.032
+1.470 1.464
+1.450
+The flow is Turbubent
+0.200
+2.437 1.380 1.370
+1.350
+The flow is
+Turbubent
+0.208
+2.954
+1.238
+1.225
+1.198
+The tbow is Turbulent
+0.210
+3.092
+1.198
+1.170
+1.150
+The flow is
+Turhulent
+0.208 2.954 1.238 1.225 1.198
+The fbow is Turbulent
+0.200 2.437 1.380 1.370
+1.350
+The tbv ie Turbubent
+0.193
+2.032
+1.470
+1.465
+1.450
+The fbow is Turbubent
+0.185
+1.623 1.514 1.508
+1.500
+The fbow as Turbulent
+0.210
+3.092
+1.200
+1.174
+1.154
+The fbow is Turbu tent
+0.185
+1.623 1.575
+1.568
+The flow is Turbubent
+0.193
+2.032 1.380
+1.370
+The flow is Turbubent
+0.200
+2.437
+1.376
+1.364
+The flow ie
+Turbulent
+0.208 2.954 1.270 1.250
+The flow ie Turhulent
+0.210
+3.092
+1.134
+1.116
+The flow is Turbulent
+0.208
+2.954
+1.270
+1.250
+The How ie Turbulent
+0.200
+2.437
+1.378
+1.365
+The fbow is Turbulent
+0.193
+2.032
+1.383
+1.371
+The fbow ie Turbubent
+0.185
+1.623
+1.575
+1.570
+The fbow is Turhubent
+0.210
+3.092
+1.134
+1.116
+The fbow
+S. Turbulent
+PIPE NO.
+11
+D- 0.0592
+is
+Uvo- 0.100 is
+Delta L.0.60 is
+Viscoeity. 9.OE—07C2/e
+Hvt
+Q
+PZEZOMETER READZNGS
+FRICTION LOSSE!
+PRICTION PACTORS
+MANMZNG
+n
+BAZEN WZLLZAMS C
+V
+REYNOLD8
+~10—3
+1
+2
+3
+4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+is
+C3/s
+is
+is
+is
+Is
+t
+*~_3
+e/is(1/3)
+)
+m/s
+0.175 1.187 1.914 1.912 1.910 1.905 0.002 0.002 0.005(0.023)4b.022) 0.052(8.069)(8.069)12.759457.2)457.3)
+95.9 0.431 28366.4
+The tbv is Turbulent
+1.494
+0.005 0.005 0.006(0.02~&.026X0.033)(9.319~.331)~0.221)(131.2)(131.2)418.9)0.590
+38788.1
+1.440
+0.006 0.014
+o.o1o(o.ofl 0.050(0.036)@.163).l2.469 ~.0.538)Q48.0)94.2(113.0)0.730 48568.9
+1.330
+0.010 0.020 0.020(0.025)0.049 0.049(8.790)12.430 12.430(135.4)
+93.1
+93.1 0.885 58230.6
+1.170 0.013
+0.027
+0.028(0.022)0.045 0.047 (8.268) 11.915 12.134(142.5)
+96.0
+94.1 1.073 70584.7
+1.120 0.028
+0.020 0.030 0.043
+0.031
+0.016
+11.590 9.795 11.996
+98.6 118.2
+95.0 1.123 73098.0
+1.170 0.013
+0.027
+0.028(0.022)0.045 0.047(8.268)11.915 12.134(142.5) 96.0
+94.1 1.073 70584.7
+1.330 0.010
+0.020
+0.020(0.025)0.049 0.049(8.790)12.430 12.430(135.4) 93.1
+93.1 0.885 58230.6
+1.444
+0.005
+0.015
+0.006(0.018)0.053
+0.021 (7.452) 12.906 8.163 (164.2)
+90.7(140.8)0.738 48568.9
+1.490 0.006 0.008 0.010(0.033)0.045 0.056(10.22V 11.802
+13.195(118.9)101.0
+90.2 0.590 38788.1
+1.120
+0.026
+0.020
+0.034(0.040)0.031
+0.052 (11.168) 9.795
+12.771 (102.6)(1bo.2) 88.8
+1.123
+73898.0
+PIPE NO.
+12
+D~0.0629 is
+Bvo~0.100
+is
+Delta
+L-0.60 is
+Viecosity.
+9.0E—07iC2/e
+St-t
+0
+PZ!ZOMETER READZNG8
+FRZCTZON LOSSE!
+PRICTION
+FACTOR!
+MANNING
+n
+HAZEN
+WILLZAMS
+C
+V
+REYNOLDS
+•10
+—3
+1
+2
+3
+4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+is
+C3/e
+is
+is
+is
+is
+( ‘10—3
+s/C(1/3)
+t
+is/s
+0.175
+1.107
+1.662
+1.660 1.655 1.650 0.002 0.005
+0.005(0.020)0.070
+0.070(9.4Ir~)14.997
+14.997(134.1)
+01.8
+01.8 0.302
+26697.0
+The t low is
+Turbulent
+1.562
+1.550 0.007 0.006
+0.012
+0.053(0.045)0.090 12.9770.2.015)16.991
+93.3(101.3)
+69.7 0.522 36506.4
+1.364 1.350
+1.350
+1.330
+1.228
+1.194
+1.094
+1.054
+1.228
+1.194
+1.351
+1.332
+1.365
+1.352
+1.560
+1.544
+1.094
+1.054
+0.010 0.006
+0.012 0.014
+0.020 0.022
+0.018 0.022
+0.020 0.022
+0.013 0.014
+0.012
+0.006
+0.005 0.010
+0.018
+0.022
+0.014
+0.048(0.029)0.067 12.387(9.595)14.657
+96.3(126.9)
+00.3
+0.654 45711.9
+0.020
+0.040
+0.047
+0.067
+11.310
+12.225 14.611
+104.6
+96.3
+79.4 0.784 54805.2
+0.034
+0.046 0.050 0.077 12.054
+12.642 15.717
+96.3
+91.4
+72.3 0.951 66432.6
+0.040
+0.037
+0.046
+0.083
+10.923 12.076 16.203
+106.7
+95.7
+69.3
+0.995
+69551.1
+0.034
+0.046
+0.050
+0.077
+12.054 12.642 15.717
+96.3
+91.4
+72.3 0.951
+66432.6
+0.019 0.043
+0.047 0.064
+11.780
+12.225 14.241
+100.2
+96.3
+01.6 0.784
+54005.2
+0.013
+0.058(0.029)0.063
+13.569(9.595)14.124
+07.3(126.9)
+03.6 0.654
+45711.9
+0.016(0.038)0.075
+0.121(10.968)15.511
+19.620(111.8)
+76.9
+59.7 0.522
+36506.4
+0.040(0.037)0.0460.083(10.923)12.076
+16.283(106.7) 95.7
+69.3
+0.995
+69551.1
+APPENDIX
+1
+(8/8)
+PIPE NO.
+13
+0.
+0.0594
+in
+Uco.
+0.100
+in
+Delta
+L~0.60 in
+Viscosity. 9.0t—07iC2/s
+Hvt
+Q
+P1EZONETEH READING8
+FRICTION LOSSE8
+FRICTION FACTORS
+MANNING
+n
+HAZEN WILLIAMS C
+V
+REYNOLDS
+10—3
+1
+2
+3
+4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+•
+C3/s
+in
+in
+in
+in
+(
+*3j3~.3 s/nC(1/3)
+)
+in/s
+0.185
+1.623
+1.665
+1.658 1.652
+1.640 0.007 0.006
+0.012 0.040(0.034)0.068 11.140(10.313)14.585
+108.4(117.6) 81.0
+0.586 30657.5
+Ths
+how
+is
+Turbulent
+0.193 2.032 1.660 1.650 1.635
+1.620 0.010 0.015
+0.015(0.036)0.054
+0.054(10.633)13.023 13.023(112.0)
+89.9
+89.9
+0.733 48405.4
+The tlow is
+Turbulent
+0.200
+2.437 1.510 1.488 1.462 1.430 0.022 0.026 0.032 0.055 0.065
+0.080
+13.155 14.301
+15.865
+87.7
+80.1
+71.6 0.079 58034.5
+The how is Turhulent
+0.208
+2.954
+1.372
+1.338
+1.310 1.270
+0.034
+0.028
+0.040
+0.058
+0.040
+0.068 13.491 12.243
+14.633
+84.0
+93.3
+77.0 1.066
+70347.0
+The flow
+is Turhulent
+0.210
+3.092 1.208
+1.174 1.141 1.091
+0.034 0.033 0.050 0.053 0.051
+0.078 12.886 12.695
+15.627
+88.0
+89.4
+71.4 1.116
+73649.2
+The flow
+is Turbulent
+0.208 2.954
+1.372 1.338 1.310 1.270
+0.034 0.028 0.040 0.058
+0.048
+0.068 13.491 12.243 14.633
+04.0
+93.3
+77.0 1.066
+70347.0
+The flow is Turbulent
+0.200 2.437
+1.513 1.490 1.465
+1.432 0.023 0.025 0.033 0.058 0.063
+0.083 13.450 14.023 16.111
+85.6
+81.8
+70.4 0.879 58034.5
+The flow is Turbulent
+0.193 2.032
+1.660 1.650 1.635
+1.620
+0.010 0.015 0.015(0.016)0.054 0.054(10.633)13.023 13.023(112.0)
+09.9
+89.9 0.733
+48405.4
+The How
+is Turhulent
+0.185
+1.623
+1.664
+1.656
+1.650
+1.642
+0.008
+0.006
+0.008
+0.045(0.034)0.045
+11.909 40.313)11.909
+100.9 (117.0)100.9
+0.586
+38657.5
+The How is Turbulent
+0.210 3.092
+1.210 1.184 1.148 1.000 0.026 0.036 0.148 0.041
+0.056(0.231)11.269
+13.260(26.886)101.7
+85.3 (39.8)1.116 73649.2
+The hlow is Turhulent
+PIPE NO.
+14
+0. 0.0538
+in
+Hvo~ 0.100
+in
+Delta
+L•0.60
+in
+Viscosity.
+9.OE—07C2/s
+Hvt
+q
+PIEZOMETEH READINGS
+FRICTION LO88EH
+FRICTION
+FACTORS
+MANNING
+n
+HAZEN WILLIANS C
+V
+REYNOLDS
+10
+—3
+1
+2
+3
+4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+1—2
+2—3
+3—4
+in
+in3/s
+in
+ii
+in
+in
+(
+10~-3 s/IC(1/3)
+)
+in/s
+0.105
+1.623
+1.658 1.650 1.648 1.630 0.000 0.002 0.018(0.028X0.007)0.062&.145)(4.573 13.718(130.9)(276.7)
+84.5
+0.714
+42681.3
+The
+1 low is
+Turbulent
+-
+0.193
+2.032
+1.460
+1.454
+1.450
+1.415
+0.006 0.004
+0.035(0.013X0.009)0.077(6.325)(5.164)15.276(191.4)~38.3) 73.9 0.894 53443.9
+The flow is
+Turbulent
+0.200 2.437 1.280
+1.264 1.255 1.202 0.016 0.009
+0.053(0.024)(%.014)0.081(8.615)~.461)15.680(1354(184.4) 70.8 1.072
+64075.3
+The flow is Turhulent
+0.200
+2.954 1.210 1.188 1.170
+1.098 0.022 0.018
+0.072(0.023)(0.019)0.075(8.334)Q.53~15.077(137.~453.7)72.7
+1.299 77669.4
+The flow is Turbulent
+0.210
+3.092
+1.127 1.102 1.094
+1.012 0.025 0.008
+0.082(0.024X0.008)0.070(8.486)(4.800)15.368(134.4449.3) 71.0 1.360 81315.3
+The flow is Turhulent
+0.208
+2.954
+1.210 1.188 1.170 1.098
+0.022 0.018 0.072(0.023~0.019)0.075(8.334(7.538)15.077(137.$(153.7) 72.7 1.299 77669.4
+The how is Turhulent
+0.200
+2.437 1.280 1.264 1.255
+1.202 0.016 0.009
+0.053(0.024)t~’Ç.014)0.081(8.615)e.461)15.680 4354tL84.4)
+70.0 1.072
+64075.3
+The tlow is
+Turbulent
+0.193
+2.032
+1.459
+1.454
+1.450
+1.414
+0.005
+0.004
+0.036(0.011)(0.009)0.079(5.774~.164)15.493(211.2)~38.3) 72.7 0.894
+53443.9
+The how Is Turbulent
+0.1851.623
+1.6551.650
+1.644
+1.635 0.005
+0.006
+~
+42681.3
+0.210
+3.082
+1.135
+1.104
+1.095
+1.010
+0.031
+0.009
+0.085(0.029*.009)0.081
+(9.449)~.091)15.647 O.20.tO~34.O) 69.6 1.360
+81315.3
+The flow
+is Turhulent
+APPENDIX
+2
+(1/3)
+Hydraulic
+gradients of bamboo pipes
+(water
+temperature
+=
+15°C).
+Diameter, Ø
+Discharge , Q
+1/s
+40
+50
+63
+80
+0.10
+0,00008
+0,0002
+0,0001
+0,0000
+0.20
+0,0033
+0,0009
+0,0002
+0,0001
+0,30
+0,0075
+0,0021
+0,0006
+0,0001
+0.40
+0,0133
+0,0038
+0,0010
+0,0003
+0,50
+0,0207
+0,0060
+0,0016
+0,0004
+0,60
+0,0299
+0,0087
+0,0024
+0,0006
+0.70
+0,0460
+0,0118
+0,0033
+0,0009
+0,80
+0,0531
+0,0154
+0,0043
+0,0011
+0,90
+0,0672
+0,0195
+0,0054
+0,0014
+1.00
+0,0829
+0,0240
+0,0067
+0,0018
+1.10
+0.1004
+0,0291
+0,0081
+0,0022
+1.20
+0,1194
+0,0346
+0,0097
+0,0026
+1.30
+0,1402
+0,0406
+0,0114
+0,0031
+1.40
+0,1626
+0,0471
+0,0132
+0,0036
+1.50
+0,1866
+0,0541
+0,0151
+0,0041
+1.60
+0,2123
+0,0616
+0,0172
+0,0046
+1.70
+0,2397
+0,6095
+0,0194
+0,0052
+1.80
+0,2687
+0,0779
+0,0218
+0,0059
+1.90
+0,2994
+0,0868
+0,0243
+0,0065
+2.00
+0,0962
+0,0269
+0,0072
+2.10
+0,1060
+0,0296
+0,0080
+2.20
+0,1164
+0,0325
+0,0088
+2.30
+0,1272
+0,0355
+0,0096
+APPENDIX 2
+(2/3)
+Diameter, ~
+Discharge,Q
+mm
+1/s
+40
+50
+63
+80
+2.40
+0,1385
+0,0387
+0,0104
+2.50
+0,1503
+0,0420
+0,0113
+2.60
+0,1625
+0,0122
+2.70
+0,1752
+0,0490
+0,0132
+2.80
+0,1885
+0,0527
+0,0142
+2.90
+0,2022
+0,0565
+0,0152
+3.00
+0,0605
+0,0163
+3.10
+0,0646
+0,0174
+3.20
+0,0688
+0,0186
+3.30
+0,0732
+0,0197
+3.40
+0,0777
+0,0209
+3.50
+0,0823
+0,0222
+3.60
+0,0871
+0,0235
+0,0920
+0,0248
+3.80
+0,0970
+0,0262
+3.90
+0,1022
+0,0276
+4.00
+0,1075
+0,0290
+4.10
+0,1130
+0,0305
+4.20
+0,1185
+0,0320
+4.30
+0,1242
+0,0335
+4.40
+0,1301
+0,0351
+4.50
+0,1361
+0,0367
+4.60
+0,1422
+0,0383
+APPENDIX 2 (3/3)
+Diameter, Ø
+Discharge,Q
+mm
+1/s
+40
+50
+63
+80
+4.70
+0,1484
+0,0400
+4,80
+0,0417
+4.90
+0,0433
+5,00
+0,0453
+5.20
+.
+0,0490
+5.40
+0,0528
+5.60
+0,0568
+5.80
+0,0609
+6.00
+0,0652
+6.20
+0,0696
+6.40
+0,0742
+6.60
+0,0789
+6.80
+0,0838
+7.00
+0,0888
+7.20
+0,0939
+7.40
+0,0992
+7.60
+0,1046
+7.80
+0,1102
+8.00
+0,1159
+1ht

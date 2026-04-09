@@ -1,0 +1,602 @@
+TTG BUDIDAYA PERIKANAN
+Hal. 1/ 15
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+PETUNJUK TEKNIS BUDIDAYA IKAN LAUT
+DI JARING APUNG
+1.
+PENDAHULUAN
+Budidaya ikan laut di jaring apung (floating cages) di Indonesia trgolong masih
+baru. Perkembangan budidaya secara nyata baru terlihat pada sekitar tahun
+1989 yang ditandai dengan keberhasilan UPT Perikanan melaksanakan
+pemijahan / pembenihan sekaligus pembesaran ikan Kakap Putih (Lates
+calcarifer, Bloch) di daerah Lampung untuk tujuan komersial.
+Upaya pengembangan budidaa ikan laut, terutama dalam rangka menunjang
+pencapaian tujuan dan sasaran pembangunan perikanan Pelita VI nampak
+cukup cerah karena disamping didukung oleh potensi sumberdaya yang cukup
+besar tersebar di beberapa Propinsi seperti; Riau, Sumatera Selatan, Lampung,
+Jawa Timur, Bali, Nusa Tenggara Barat, Sulawesi Selatan, Sulawesi Utara, dan
+Maluku, juga didukung oleh semakin berkembangnya pemasaran ikan laut ke
+luar negeri (ekspor) maupun lokal. Berkaitan dengan upaya pengembangan
+budidaya laut melalui pembuatan buku Petunjuk Teknis Budidaya ikan laut
+merupakan sebagai salah satu jalan untuk meningkatkan keterampilan dan
+pengetahuan petani nelayan.
+2.
+PERSYARATAN LOKASI
+Ketepatan pemilihan lokasi adalah salah satu faktor yang menentukan
+keberhasilan usaha budidaya ikan laut. Karena laut yang dimanfaatkan sebagai
+lahan budidaya merupakan wilayah yang penggunaannya melibatkan sektor
+lain (Common property) seperti; perhubungan, pariwisata, dan lain-lain, maka
+perhatian terhadap persyaratan lokasi tidak hanya terbatas pada faktor-faktor
+yang berkaitan dengan kelayakan teknis budidaya melainkan juga faktor
+kebijaksanaan pemanfaatannya dalam kaitan dengan kepentingan lintas sektor.
+Dalam kaitan dengan hal tersebut, Departemen Pertanian telah mengeluarkan
+Petunjuk Pelaksanaan Pengembangan Budidaya Laut (SK. Mentan No.
+473/Kpts./Um/7/1982).
+Agar pemilihan lokasi dapat memenuhi persyarataan teknis sekaligus terhindar
+dari kemingkinan pengaruh penurunan daya dukung lingkungan akibat
+pemanfaatan perairan di sekitarnya oleh kegiatan lain, maka lokasi yang dipilih
+adalah yang memenuhi kriteria, sebagai berikut:
+TTG BUDIDAYA PERIKANAN
+Hal. 2/ 15
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+Tabel 1.  Syarat-Syarat Lokasi Budidaya
+PERSYARATAN MENURUT KOMODITAS
+NO.
+FAKTOR
+Kerapu
+Kakap Putih
+Kakap Merah
+1.
+Pengaruh angin dan
+gelombang yang kuat
+Kecil
+Kecil
+Kecil
+2.
+Kedalaman air dari
+dasar kurung
+5-7 m pada surut
+terendah
+5-7 m pada
+surut terendah
+7-10 m pada
+surut terendah
+3.
+Pergerakan air/arus
+20-40 cm/detik
+±20-40 cm/det.
+±20-40 cm/detik
+4.
+Kadar garam
+27-32 %0
+27-32 %0
+32-33 %0
+5.
+Suhu Air Pengaruh
+280C-300C
+280C-300C
+280C-300C
+6.
+Polusi
+bebas
+bebas
+bebas
+7.
+Pelayaran
+tdk menghambat
+alur pelayaran
+tdk menghambat
+alur pelayaran
+tdk menghambat
+alur pelayaran
+3.
+JENIS IKAN
+Jenis-jenis ikan laut yang dapat dibudidayakan dipilih berdasarkan potensi
+sumber daya yang ada jenis ikan yang sudah umum dibudidayakan serta
+teknologinya yang sudah dikuasai/dihasilkan sendiri di Indonesia, guna untuk
+menghindari resiko kegagalan yang besar.
+Jenis-jenis ikan yang dimaksud adalah Kerapu Lumpur (Epinephalus tauvina),
+Kakap Putih (Lates calcalifer, Bloch), Kakap Merah (Lutjanus malabaricus,
+Bloch & Schaider).
+Berikut di bawah ini disajikan biologi beberapa jenis ikan yang dapat
+dibudidayakan secara praktis.
+TTG BUDIDAYA PERIKANAN
+Hal. 3/ 15
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+Tabel 2: Biologi Jenis-Jenis Ikan yang Dibudidayakan
+NO.
+URAIAN
+Kerapu
+Kakap Putih
+Kakap Merah
+1.
+Nama Lokal
+Nama Asing
+Kerapu Lumpur
+Greasy grouper
+Kakap Putih
+Seabass
+Ikan Merah
+Red-Snapper
+2.
+Silsilah:
+Philum
+Sub Philum
+Klas
+Sub Klas
+Ordo
+Famili
+Genus
+Species
+Chrodata
+Vertebrata
+Pisces
+Teleostei
+Percomorphi
+Sarranidae
+Epinephelus
+E. tauvina
+Chrodata
+Vertebrata
+Pisces
+Teleostei
+Percomorphi
+Centropornidae
+Lates
+L. carcarifer Bloch
+Chrodata
+Vertebrata
+Pisces
+Teleostei
+Percomorphi
+Lutjanidae
+Lutjanus
+L. malabaricus
+Bloch & Scheider
+3.
+Ciri-ciri
+Morphologi
+Badan memanjang
+gepeng. Termasuk jenis
+Kerapu  besar.
+Prapenutup insang
+bulat, bergerigi dan
+agak basar pada ujung
+bawah
+Gigi-gigi pada rahang
+berderet dalam 2 baris.
+Jari-jari Sirip keras, sirip
+dubur 3 dan 8 lemah
+Sirip Punggung berjari
+keras 11 dan 15-16
+lemah
+Terdapat 3 duri pada
+penutup insang yang
+ditengah terbesar
+Termasuk ikan buas dan
+predator
+Hidup perairan pantai ,
+lepas pantai, menyendiri
+Soliter
+Dapat mencapai
+panjang 150 cm
+umumnya 50-70 cm
+Warna dasar sawo
+matang, agak keputihan
+bagian bawahnya.
+Terdapat 4-6 ban warna
+gelap melintang badan.
+Totol-totol warna merah
+sawo di seluruh badan .
+Badan memanjang
+gepeng, batang sirip
+ekor lebar
+Burayak umur 3-5
+bulan warnanya gelap.
+Glondongan warnanya
+terang dg punggung
+coklat kebiruan dan
+berubah keabu-abuan.
+Sirip abu-abu gelap
+Mata merah
+cemerlang, mulut lebar
+dengan gerigi halus
+Bag. Atas penutup
+insang terdapat
+lubang kuping
+bergerigig
+Sirip punggung berjari
+keras sebanyak 7-9
+dan jari lemah 10-11
+Sirip dubur berjari
+lemah 7-8
+Sirip dubur berbentuk
+bulat
+Badan memanjang
+melebar, gepeng
+kepala cembung
+Bag. Bawah penutup
+insang bergerigi
+Gigi-gigi pada
+rahang tersusun
+dalam ban-ban, ada
+gigi taring pd bag.
+Terluar rahang atas
+Sirip punggung
+berjari-jari keras 11
+dan lemah 14 Sirip
+dubur berjari-jari
+keras 3, lemah  8-9
+Termasuk ikan buas,
+makannya ikan kecil
+dan invetebrata
+dasar. Hidup
+menyendiri di daerah
+pantai sampai
+kedalaman 60 m.
+Dapat mencapai
+panjang 45-60 cm.
+Warna bag. Atas
+kemerahan/merah
+kuningan Bag.
+Bawah merah
+keputihan. Ban-ban
+kuning kecil diselingi
+warna merah pd bag.
+Punggung diatas
+garis rusuk.
+TTG BUDIDAYA PERIKANAN
+Hal. 4/ 15
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+Gambar 1.  Ikan Kerapu Lumpur (Epinephalus tauvina)
+Gambar 2.  Ikan Kakap Putih (Lates calcarifer Bloch)
+Gambar 3.  Ikan Tambangan (Lutjanus johni)
+TTG BUDIDAYA PERIKANAN
+Hal. 5/ 15
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+4.
+PERSIAPAN SARANA BUDIDAYA
+1) Kerangka/rakit
+Kerangka berfungsi sebagai tempat peletakan kurungan, dapat terbuat dari
+bahab bambu, kayu, besi bercat anti karat atau paralon. Bahan yang
+dianjurkan adalah bahan yang relatif murah dan mudah didapati di lokasi
+budidaya.
+Bentuk dan ukuran rakit bervariasi tergantung dari ukuran yang digunakan.
+Setiap unit kerangka biasanya terdiri atas 4 (empat) buah kurungan.
+Gambar 4.  Disain Konstruksi Kurungan Apung
+2) Pelampung
+Pelampung berfungsi untuk melampungkan seluruh saran budidaya
+termasuk rumah jaga dan benda atau barang lain yang diperlukan untuk
+kepentingan pengelolaan.
+Bahan pelampung dapat berupa drum plastik/besi atau styrofoam
+(pelampung strofoam). Ukuran dan jumlah pelampung yang digunakan
+disesuaikan dengan besarnya beban. Sebagai contoh untuk menahan satu
+unit kerangka yang terdiri dari empat buah kurungan yang masing-masing
+berukuran (3x3x3) m3 diperlukan pelampung drum plastik/drum besi volume
+200 liter sebanyak 9 buah, atau 11 buah dengan perhitungan 2 buah, untuk
+menahan beban lain (10/4x9) buah ditambah 2 buah untuk menahan beban
+tambahan. Pelampung diikat dengan tali polyethyline (PE) yang bergaris
+tengah 0,8-1,0 cm. Penempatan pelampung pada kerangka dapat dilihat
+pada gambar 5.
+TTG BUDIDAYA PERIKANAN
+Hal. 6/ 15
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+Gambar 5.  Penempatan dan Pemasangan Pelampung pada Kerangka/Rakit
+3) Kurungan
+Kurungan atau wadah untuk memelihara ikan, disarankan terbuat dari bahan
+polyethline (PE) karena bahan ini disamping tahan terhadap pengaruh
+lingkungan juga harganya relatif murah jika dibandingkan dengan bahan-
+bahan lainnya. Bentuk kurungan bujur sangkar dengan ukuran (3x3x3)m3.
+Ukuran mata jaring disesuaikan dengan ukuran ikan yang dibudidayakan.
+Untuk ukuran ikan dengan panjang kurang dari 10 cm lebar mata yang
+digunakan adalah 8 mm (5/16 inchi). Jika panjang ikan berkisar antara 10-15
+cm lebar mata jaring digunakan adalah 25 mm (1 inch), sedangkan untuk
+ikan dengan ukuran panjang 15-40 cm atau lebih digunakan lebar mata
+jaring ukuran 25-50 mm (1-2 inch).
+Pemasangan kurungan pada kerangka dilakukan dengan cara mengikat
+ujung tali ris atas pada sudut rakit. Agar kurungan membentuk kubus/kotak
+digunakan pemberat yang diikatkan pada keempat sudut tali ris bawah.
+Selanjutnya pemberat diikatkan ke kerangka untuk mempermudah pekerjaan
+pengangkatan/penggantian kurungan (lihat gambar 4) untuk mencegah
+kemungkinan lolosnya ikan atau mencegah serangan hewan pemangsa,
+pada bagian atas kurungan sebaiknya diberi tutup dari bahan jaring.
+TTG BUDIDAYA PERIKANAN
+Hal. 7/ 15
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+Gambar 6.  Penempatan dan Pemasangan Kurungan
+4) Jangkar
+Agar seluruh saran budidaya tidak bergeser dari tempatnya akibat pengaruh
+arus angin maupun gelombang, digunakan jangkar. Jangkar dapat terbuat
+dari beton atau besi.
+Setiap unit kurungan jaring apung menggunakan 4 buah jangkar dengan
+berat antara 25-50 kg. Panjang tali jangkar biasanya 1,5 kali kedalaman
+perairan pada waktu pasang tinggi
+Gambar 7.  Pengaturan dan Pemasangan Jangkar
+5.
+RANCANGAN TATA LETAK KERANGKA JARING APUNG
+Pengaturan penempatan kerangka jaring apung harus mengacu kepada
+peraturan yang telah dikeluarkan, dalam hal ini Kepres No. 23 Tahun 1982
+tentang Pengembangan Budidaya laut di Perairan Indonesia serta Petunjuk
+Pelaksanaannya yang telah dikeluarkan Departemen Pertanian melalui SK.
+Mentan No. 473/Kpts/7/UM/7/1982.
+TTG BUDIDAYA PERIKANAN
+Hal. 8/ 15
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+Berdasarkan 
+petunjuk 
+pelaksanaan 
+tersebut, 
+pihak 
+yang 
+berwenang
+melaksanakan pengatuaran penempatan kurungan jaring apung adalah
+Pemerintah Daerah setempat, dalam hal ini yang bertindak senagai Instansi
+Teknis adalah Dinas Perikanan setempat.
+Penempatan kerangka jaring apung diperairan disarankan tidak lebih dari 10
+(sepuluh) buah dalam satu rangkaian. Hal ini ditujukan untuk mencegah
+terjadinya penumpukan/pengendapan sisa makanan atau kotoran ikan serta
+limbah lainnya akibat terhambatnya arus, juga untuk memudahkan pengelolaan
+sarana dan ikan peliharaan. Disamping itu, sedapat mungkin penempatan
+kerangka mengacu kepada Rancangan Tata Ruang Satuan Pemukiman
+(RTSP) untuk memperoleh rancangan menyeluruh yang efisien, memiliki
+aksessibilitas yang tinggi serta aman bagi pelaksanaan kegiatan budidaya.
+Gambar 8.  Rancangan Tata Letak Kerangka Kurungan Jaring Apung
+6.
+PENGELOLAAN KELOMPOK USAHA BERSAMA
+1) Pengaturan Pola Tanam
+Usaha budidaya laut dengan skala besar selalu dihadapkan dengan kendala
+baik pada saat memuai kegiatan dan pengelolaan maupun pemanenan dan
+pemasaran hasil. Bentuk kendala dan permasalahan yang ditemui antara lain
+berupa sulitnya memenuhi kebutuhan dan penampungan benih, saprodi dan
+tenaga kerja serta pelemparan hasil ke pasar. Untuk itu dalam pelaksanaan
+kegiatan budidaya skala besar perlu diterapkan pola tanam tertentu.
+Alternatif pola tanam yang akan diterapkan oleh setiap KK adalah melakukan
+TTG BUDIDAYA PERIKANAN
+Hal. 9/ 15
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+penanaman pada 1 unit kurungan jaring apung yang terdiri dari 4 buah
+kurungan pada setiap minggu.
+2) Pemasaran Hasil
+Pemasaran hasil dari usaha budidaya yang dilakukan petani/nelayan
+merupakan tanggung jawab Perusahaan Inti. Pelaksanaan budidaya
+(petani/nelayan) bersama Perusahaan Inti menentukan kesepakatan harga
+jual hasil panen baik untuk lokal maupun untuk ekspor.
+7.
+PENGELOLAAN SARANA DAN IKAN PELIHARAAN
+1) Pengelolaan Sarana
+Sarana budidaya berupa kerangka/rakit, kurungan apung, pelampung dan
+lain-lain harus mendapat perawatan secara berkala. Kendala yang biasa
+terjadi pada budidaya jaring apung ini adalah pengotoran/penempelan oleh
+organisme penempel ini seperti teritip , algae, kerang-kerangan dan lain-lain
+dapat terjadi pada semua sarana budidaya yang terendam dalam air.
+Penempelan 
+organisme 
+sangat 
+menggangu 
+pertukaran 
+air 
+dan
+menyebabkan kurungan bertambah berat. Untuk menanggulangi organisme
+penempel ini , dilakukan pembersihan jaring secara periodik paling sedikit 1
+bulan sekali atau tergantung pada banyak sedikitnya organisme yang
+menempel.
+Penempelan oleh algae dapat ditanggulangi dengan memasukkan beberapa
+ekor ikan herbivora (Siganus sp.) ke dalam kurungan agar dapat memakan
+algae tersebut. Pembersihan kurungan dapat dilakukan dengan cara
+menyikat atau menyemprot dengan air bertekanan tinggi.
+2) Pengelolaan Ikan
+Kegiatan pengelolaan ikan yang dipelihara dikurungan adalah mengontrol
+dan mengawasi ikan peliharaan secara berkala, guna untuk menghindari
+terjadinya pertumbuhan yang tidak seragam karena adanya persaingan
+dalam mendapatkan makanan.
+Penggolongan ukuran (grading) harus dilakukan bila dari hasil pengontrolan
+itu terlihat ukuran ikan yang tidak seragam. Dalam melakukan pengontrolan,
+perlu diperhatikan dan diusahakan jangan sampai terjadi stress (keteganan)
+dan kerusakan fisik pada ikan.
+TTG BUDIDAYA PERIKANAN
+Hal. 10/ 15
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+8.
+OPERASIONAL BUDIDAYA
+1) Benih
+Pemenuhan kebutuhan benih apabila belum dapat dipenuhi dari hasil
+pembenihan yang ada, bisa dilakukan dengan cara menangkap dari perairan
+di sekitar lokasi budidaya dan untuk itu dapat digunakan alat tangkap seperti
+bubu, pukat pantai, sudu atau jala.
+Benih alam umumnya memiliki ukuran yang tidak seragam oleh karena itu
+kegiatan penggolongan ukuran (grading) perlu dilakukan. Selain itu proses
+aklimatisasi/penyesuaian iklim sebelum ikan dibudidayakan perlu dilakukan
+untuk menghindarkan kematian akibat pengaruh lingkungan/habitat yang
+baru.
+TTG BUDIDAYA PERIKANAN
+Hal. 11/ 15
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+Gambar 9.  Macam-Macam Alat Tangkap Benih
+2) Pendederan
+Yang dimaksud dengan pendederan adalah kegiatan pemeliharaan benih
+sampai uuran tertentu hingga siap untuk dipelihara dikurungan pembesaran.
+Lamanya pendederan tergantung dari ukuran awal, tingkat kepadatan dari
+benih yang dipelihara. Sebagai contoh, untuk benih ikan Kakap putih yang
+berukuran kurang dari 10 cm dengan padat penebaran 100-150 cm
+diperlukan waktu satu bulan pada kurungan pendederan yang memiliki lebar
+mata8 mm (5/16 inch). Selanjutnya dipindahkan ke kurungan pendederan
+TTG BUDIDAYA PERIKANAN
+Hal. 12/ 15
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+yang memiliki lebar mata 25 mm (1 Inch) dengan kepadatan 40-60 ek/m2
+selama 2-3 bulan.
+3) Pembesaran
+Benih ikan yang sudah mencapai ukuran 50-75 gram/ekor dengan panjang
+15 cm atau lebih dari hasil pendederan, selanjutnya dipelihara dalam
+kurungan pembesaran yang memiliki lebar mata jaring 25-50 mm (1-2 inchi)
+dengan kepadatan 15-25 ek/m3 dan waktu pemeliharaan dikurungan
+pembesaran berkisar antara 6-8 bulan.
+4) Pakan
+Pakan adalah salah satu faktor yang menentukan pertumbuhan dan
+moralitas ikan yang dipelihara. Oleh kjarena itu masalah kuantitas dan
+kualitas dari pakan yang diberikan layak dipenuhi.
+Ikan rucah (Trash fish) adalah jenis pakan yang biasa diberikan untuk jenis-
+jenis ikan laut buas (carnivora) Dalam hal ini ikan Kerapu dan ikan Kakap
+yang dipelihara dikurungan apung.
+Jumlah pakan yang diberikan tergantung dari 
+ukuran 
+ikan 
+yang
+dibudidayakan. Pada tahap pendederan diberikan pakan sebanyak 8-10%
+dari total berat badan/hari, sedangkan pada saat pembesaran diberikan
+pakan sebanyak 3-5% dari total berat badan/hari.Rasio konversi pakan
+(Food Convertion Ratio) yang akan diperoleh adalah 5:1 yang berarti untuk
+mendapatkan penambahan berat 1 kg daging ikan diperlukan pakan
+sebanyak 5 kg.
+Frekuensi pemberian pakan tergantung pada ukuran ikan. Untuk larva dan
+glondongan (juvenil), frekuensi pakan yang diberikan adalah 3-4 kali/hari.
+Waktu pemberian pakan adalah pada siang hari.
+9.
+PENGENDALIAN HAMA DAN PENYAKIT
+Sejalan dengan perkembangan usaha budidaya ikan di laut, muncul pula
+beberapa 
+masalah 
+yang 
+dapat 
+menggangu 
+bahkan 
+menghambat
+perkembangan usaha tersebut misalnya hama dan penyakit ikan.
+1) Hama
+Hama yang menyerang pada usaha budidaya ikan laut lebih banyak
+disebabkan oleh hewan pemangsa atau pengganggu lainnya. Hama dapat
+menyerang apabila kerusakan pada sistem jaring-jaring yang dipergunakan
+sebagai kurungan pemeliharaan ilan. Kerusakan tersebut mengakibatkan
+TTG BUDIDAYA PERIKANAN
+Hal. 13/ 15
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+masuknya hewan penggangu atau pemangsa lainnya seperi burung dan
+lingsang. Walaupun akibat yang ditimbulkan sangat terbatas atau relatif kecil,
+namun hal tersebut tidak boleh diabaikan begitu saja. Termasuk kerugian
+akibat adanya pencurian yang dilakukan oleh manusia.
+2) Penyakit
+Secara umum penyakit dapat diartikan sebagai gangguan dalam fungsi atau
+struktur suatu organ atau bagian tubuh. Penyakit timbul dikarenakan satu
+atau berbagai sebab baik berasal dari lingkungan maupun dari tubuh ikan itu
+sendiri.
+Hal-hal yang menyebabkan ikan terserang penyakit adalah:
+-
+Cara perawatan yang kurang baik
+-
+Makanan tidak cukup (giji dan jumlah)
+-
+Kekurangan zat asam
+-
+Perubahan suhu dan sifat-sifat air yang mendadak.
+Gejala ikan yang terserang penyakit antara lain: kelainan tingkah laku,
+kurang nafsu makan, kelainan bentuk ikan, kelainan pada permukaan tubuh
+iakn, Penyakit insang, anus tidak normal, mata tidak normal dll.
+Penyakit dapat dibagi menjadi 2 golongan bila dilihat dari penyebabnya.
+a. Penyakit non Parasiter: adalah penyakit yang disebabkan oleh faktor-
+faktor kimia dan fisika air yang tida cocok bagi ikan seperti: perubahan
+salinitas air secara mendadak, polusi dan lain sebagainnya. Selain dari itu
+bisa juga disebabkan oleh kekurangan makanan dan gizi yang buruk,
+serta stress akibat penanganan yang kurang baik.
+b. Penyakit Parasiter: Penyakit yang biasa menyerang ikan budidaya laut
+adalah:
+-
+Golongan virus
+-
+Golongan bakteri
+-
+Golongan crustacea
+-
+Golongan cacing
+-
+Golongan Protozoa
+-
+Golongan jamur
+Penanganan terhadap ikan sakit dapat dibagi atas 2 langkah yaitu:
+a. Berdasarkan teknis budidaya:
+Tindakan-tindakan yang dilakukan antara lain:
+-
+menghentikan pemberian pakan terhadap ikan
+-
+mengganti pakan dengan jenis yang lain
+-
+memisah-misahkan ikan tersebut dalam beberapa komponen, sehingga
+densitasnya menjadi rendah.
+b. Berdasarkan terapi kimia:
+TTG BUDIDAYA PERIKANAN
+Hal. 14/ 15
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+Hal-hal yang perlu diperhatikan dalam tahap ini adalah:
+-
+memeriksa sensifitas dari masing-masing obat yang diberikan pada
+ikan.
+-
+memperhatikan batas dari dosis masing-masing obat.
+-
+Tidak memberikan obat sembarangan kepada ikan yang sakit.
+Cara pemberian obat:
+a. Ditenggelamkan dalam tempat budidaya.
+b. Disebarkan pada permukaan air
+c. Dicampurkan dalam pakan
+d. Dengan cara disuntikan
+10. PANEN
+Panen dilakukan dan disesuaikan dengan ukuran ikan yang dikehendaki atau
+permintaan pasar. Untuk mencapai ukuran 600-800 gram per ekor dibutuhkan
+waktu pemeliharaan selama 6-8 bulan dengan survival rate 80-90%. Panen
+dilakukan secara total di dalam satu kurungan, bisa juga dilakukan secara
+persial tergantung dari ukuran panen yang dikehendaki.
+11. DAFTAR PUSTAKA
+1) Aji Nugroho. Murdjani M, dan Notowinarto, 1989 Budidaya Ikan Kerapu di
+Kurungan Apung, INFIS manual seri 104. Ditjen Perikanan dan IDRC,
+Jakarta.
+2) Anonim, 1989. Paket Teknologi Budidaya Laut, Seri Budidaya Kakap Putih,
+Ditjen Perikanan, Dit Bina Produksi, Jakarta.
+3) Anonim, 1990. Petunjuk Teknis Budidaya Ikan Dalam Jaring Terapung,
+Ditjen Perikanan, Jakarta.
+4) Anonim, 1990/1991, Usaha Penanggulangan Serangan Penyakit Pada
+Usaha Budidaya Laut no. 5, BBL Lampung, Ditjen Perikanan.
+5) Djamali, A Hutomo, M. Burhanuddin dan S. Martosewojo, 1986, Sumberdaya
+Ikan Kakap (Lates calcarifer) dan Bambangan (Lutjanus spp) di Indonesia,
+Seri Sumber Daya Alam No. 130. Lon LIPI. Jakarta.
+12. SUMBER
+Petunjuk Teknis Budidaya Ikan Laut di Jaring Apung, Direktorat Jenderal
+Perikanan, Departemen Pertanian, 1994
+TTG BUDIDAYA PERIKANAN
+Hal. 15/ 15
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+13. KONTAK HUBUNGAN
+Direktorat Jenderal Perikanan, Departemen Pertanian, Jakarta.
+Jakarta, Maret 2001
+Disadur oleh
+:
+Tarwiyah
+KEMBALI KE MENU

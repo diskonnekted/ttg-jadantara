@@ -1,0 +1,674 @@
+TTG BUDIDAYA PERIKANAN
+Hal. 1/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+PEDOMAN TEKNIS
+PENANGGULANGAN PENYAKIT IKAN
+BUDIDAYA LAUT
+1.
+PENDAHULUAN
+Dalam rangka mendukung peningkatan produksi perikanan, khususnya ikan
+laut yang mempunyai nilai ekonomis tinggi seperti: kakap putih, kerapu,
+beronang, rumput laut dan jenis ikan laut lainnya, akhir-akhir ini sedang
+digalakkan pembudidayaannya dan mendapat perhatian dari masyarakat.
+Sejalan dengan berkembangnya usaha budidaya ikan laut tersebut, terdapat
+pula 
+beberapa 
+masalah 
+yang 
+mengganggu, 
+sehingga 
+menghambat
+perkembangan usaha budidaya, yaitu hama dan penyakit ikan.  Apabila
+keadaan tersebut tidak segera ditanggulangi lebih awal, maka kegiatan
+budidaya ikan laut akan terganggu, akibatnya ikan akan menurun karena
+tingkat kematiannya tinggi.
+Untuk menghindari hal tersebut perlu diupayakan pencegahan dan pengobatan
+terhadap hama dan penyakit ikan.  Namun demikian perlu diperhatikan bahwa
+tidak semua penyebab kematian dikarenakan penyakit, maka dalam menangani
+masalah ini, tindakan penanggulangannya dilakukan secara hati-hati dan teliti
+agar tidak menimbulkan kesalahan yang merugikan.
+2.
+JENIS PENYAKIT
+1) Penyakit pada kulit
+Kulit ikan menunjukkan warna pucat dan berlendir.  Tanda ini terlihat jelas
+pada ikan yang berwarna gelap.
+Penyakit yang disebabkan oleh jamur menimbulkan bercak-bercak warna
+kelabu, putih atau kehitam-hitaman pada kulit ikan.  Ikan yang menderita
+penyakit kulit kadang-kadang menggosok-gosokkan badannya pada suatu
+benda di dalam air.
+2) Penyakit pada insang
+Ikan terlihat sulit bernafas.  Tutup insang mengembang dan lembaran-
+lembaran insang pucat.  Pada lembaran-lembaran insang terlihat bintik
+merah yang disebabkan oleh pendarahan kecil (peradangan).  Jika terdapat
+TTG BUDIDAYA PERIKANAN
+Hal. 2/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+bintik-bintik putih pada insang, hal ini diebabkan oleh parasit kecil yang
+menempel pada tempat tersebut.
+3) Penyakit pada organ (alat-alat dalam)
+Perut ikan membengkak dengan sisik-sisik ikan berdiri (penyakit dropsy),
+dapat juga sebaliknya, perut menjadi sangat kurus.  Kotoran ikan berdarah,
+menandakan adanya radang usus.  Penyakit pada gelembung renang,
+menyebabkan 
+ikan 
+berenang 
+terjungkir 
+balik 
+karena 
+terganggunya
+keseimbangan badan.
+3.
+PENYEBAB PENYAKIT
+1) Non Parasit
+a. Faktor-faktor kimia dan fisika, antara lain:
+-
+Perubahan salinitas air secara mendadak;
+-
+pH yang terlalu rendah (air asam), dan pH yang terlalu tinggi (air
+basa/alkalis);
+-
+Kekurangan oksigen dalam air;
+-
+Zat beracun, pestisida (insektisida, herbisida dan sebagainya);
+-
+Perubahan suhu air yang mendadak;
+-
+Kerusakan mekanis (luka-luka);
+-
+Perairan terkena polusi.
+b. Makanan yang tidak baik :
+-
+Kekurangan vitamin dan komposisi gizi yang buruk;
+-
+Bahan makanan yang busuk dan mengandung kuman-kuman.
+c. Bentuk fisik dan kelainan-kelainan tubuh yang disebabkan oleh keturunan.
+d. Stres
+Stres yang terjadi pada ikan berkaitan dengan timbulnya penyakit pada
+ikan tersebut.  Stres merupakan suatu rangsangan yang menaikkan batas
+keseimbangan psikologi dalam diri ikan terhadap lingkungannya.
+Biasanya stres pada ikan diakibatkan perubahan lingkungan akibat
+beberapa hal atau perlakuan misalnya akibat pengangkutan/transportasi
+ikan-ikan yang dimasukkan ke dalam jaring apung di laut dari tempat
+pengangkutan biasanya akan mengalami shock, berhenti makan dan
+mengalami pelemahan daya tahan terhadap penyakit.
+e. Kepadatan Ikan
+Kepadatan ikan yang melebihi daya dukung perairan (carrying capacity)
+akan menimbulkan persaingan antar ikan tinggi, oksigen terlarut menjadi
+rendah dan sisa metabolisme seperti ammonia akan meningkat sehingga
+TTG BUDIDAYA PERIKANAN
+Hal. 3/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+dapat menimbulkan stres dan merupakan penyebab timbulnya serangan
+penyakit.
+2) Parasit (Pathogen)
+a. Pengertian :
+Parasit atau panthogen adalah organisme dalam bentuk hewan atau
+tumbuh-tumbuhan atas pengorbanan dari induk emangnya (hewan atau
+tumbuh-tumbuhan lain).  Parasit dapat berkembang dan menyebabkan
+infeksi yang dapat menularkan penyakit itu sendiri.
+b. Penyebab penyakit :
+-
+Crustacea/udang renik
+-
+Protozoa
+-
+Jamur
+-
+Bakteri
+-
+Virus
+4.
+PENGOBATAN PENYAKIT
+1) Non parasit
+a. Pencegahan penyakit yang ditimbulkan oleh penyakit non parasit adalah :
+-
+Lingkungan harus baik
+Lingkungan, terutama sifat fisika, kimia biologi perairan akan sangat
+mempengaruhi keseimbangan antara ikan sebagai inang dan oranisme
+penyebab penyakit.  Lingkungan yang baik akan meningkatkan daya
+tahan 
+ikan, 
+sedangkan 
+lingkungan 
+yang 
+kurang 
+baik 
+akan
+menyebabkan ikan mudah stres dan menurunkan daya tahan tubuh
+terhadap serangan penyakit non parasit.
+-
+Kepadatan ikan yang seimbang
+Kepadatan ikan yang melebihi daya dukung perairan (carrying cpacity)
+akan menimbulkan persaingan antar ikan tinggi, oksigen terlarut
+menjadi rendah dan sisa metabolisme seperti amoniak akan meningkat
+seperti amoniak akan meningkat sehingga dapat menimbulkan stres
+dan merupakan penyebab timbulnya penyakit.
+-
+Makanan yang seimbang
+Pemberian makanan yang kurang bermutu dapat menyebabkan
+kekurangan vitamin yang diikuti oleh pertumbuhan yang lambat atau
+menurunnya daya tahan ikan sehingga mudah untuk terserang suatu
+penyakit, disamping tingkat pemberian pakan dan kualitas makanan
+juga akan mempengaruhi sistem kekebalan.
+b. Pengobatan yang bisa dilakukan :
+-
+Melalui suntikan dengan antibiotika.
+-
+Melalui makanan.
+TTG BUDIDAYA PERIKANAN
+Hal. 4/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+-
+Perendaman.
+-
+Penyemprotan dengan tekanan tinggi.
+2) Parasit
+Beberapa macam parasit ikan dan pengobatannya :
+a. Crustacea
+Beberapa jenis crustacea yang sudah diketahui sebagai parasit ikan
+diantaranya adalah copepoda dan isopoda.  Salah satu jenis copepoda
+ialah : Argasilus sp didapati biasa menyerang pada ikan laut yang
+dipelihara.  Untuk jenis isopoda yang biasa terdapat dan merupakan
+parasit ikan adalah Nirocila sp. Nirocila sp menyerang berbagai jenis ikan
+laut yang dipelihara, terutama terhadap ikan berukuran di atas 50 gram.
+Binatang ini mempunyai duri pengait pada kakinya sehingga dapat
+menempel dengan kuat pada insang atau di bagian sisi tubuh ikan yang
+diserang.  Serangan pada bagian insang ini bisa mengakibatkan borok
+karena jaringan daging pada insang dimakan oleh parasit tersebut.
+Nirocila sp tergolong binatang vivaparous.  Telur yang dihasilkan dierami
+dan anak yang menetas tumbuh dan berkembang di dalam kantong yang
+terletak di bawah perutnya.
+Nirocila muda kemudian dilepaskan dan berenang bebas yang kemudian
+dapat menginfeksi ikan yang lain.  Nirocila sp adalah protandrous di mana
+pada waktu muda mereka berkelamin jantan dan berubah menjadi betina
+pada waktu dewasa (matang).
+Nirocila sp tahan terhadap kebanyakan pestisida seperti Dipterex,
+Matathion dan Hhyrethroids syntetic.  Organophospat DDVP cukup aman
+dan efektif untuk pemberantasan parasit ini, namun jarang terdapat dalam
+bentuk yang masih murni.
+Pengobatan dan pencegahan
+Untuk mengatasi serangan parasit ini disarankan memakai formalin
+dengan cara sbb :
+-
+Angkat jaring apung dan simpanlah ikan-ikan yang terserang di dalam
+bak/tank.
+-
+Semprotkan formalin 1% ke jaring tersebut.
+-
+Tambahkan formalin (200 ppm) ke dalam bak sampai parasit tersebut
+lepas dari tubuh ikan dan
+-
+Keluarkan parasit-parasit tersebut dan musnahkan.
+Biasanya serangan Nirocila sp dewasa (ukuran 2 - 3 cm) jarang berakibat
+serius.  Serangan parasit dewasa mudah terlihat sewaktu dilakukan
+TTG BUDIDAYA PERIKANAN
+Hal. 5/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+grading, sehingga dengan mudah dapat diambil dengan tangan untuk
+kemudian dimusnahkan.
+b. Cacing Pipih
+Dectylogyrussp kadang-kadang ditemui menyerang ikan laut.  Yang paling
+sering ditemukan menyerang ikan laut adalah Diplectanum sp.
+Bentuk parasit ini adalah sbb : mempunyai dua buah mata, ada alat
+penghisap (sucker) pada bagian depan dan belakang.  Bagian belakang
+berbentuk seperti martil dengan bentuk seperti jangkar pada tiap
+ujungnya, bagian dalam perut seperti usus dan alat kelamin jelas terlihat.
+Parasit ini mempunyai panjang antara 0,5 - 1,0 dan memangsa sel-sel
+epithel insang ikan yang diserang.
+Ikan yang terserang parasit ini atau jenis-jenis parasit lain yang
+menyerang insang cenderung untuk berenang ke arah air yang berarus
+kuat atau berenang miring di mana terlihat berbaring dengan insang
+terbuka lebar dan bergerak cepat.  Biasanya serangan parasit ini sering
+bersamaan pula dengan serangan bakteri vibriosis.  Insang ikan yang
+terserang kelihatan pucat dan mengeluarkan lendir yang berlebihan
+seperti pada penyakit cryptocoryoniasis.  Apabila kondisinya sudah
+sedemikian parah, pengobatan akan percuma.
+Pencegahan dan pengobatan
+-
+Pengobatan harus dilakukan secepatnya pada saat ikan kelihatan mulai
+terserang penyakit ini, dengan cara sbb :
+-
+Menggunakan formalin 200 ppm selama 1/2 sampai 1 jam dengan
+aerasi yang kuat, ulangi sampai 3 hari.
+-
+Menggunakan formalin 25 ppm dan malachite green 0,15 ppm selama
+semalam perendaman.
+-
+Menggunakan acriflavina 10 ppm 1 jam atau 100 ppm dicelupkan
+selama 1 menit.
+-
+Menggunakan dipterex 20 ppm selama 1 jam.
+-
+Menggunakan air tawar murni selama 1 jam (hanya untuk Kakap Putih
+dan Kerapu Lumpur).
+c. Protozoa
+Protozoa merupakan pathogen yang paling utama bagi usaha budidaya
+laut.  Protozoa merupakan jazad renik bersel satu dengan ukuran yang
+bervariasi antara 10 - 500 mikron.
+Parasit protozoa umumnya mempunyai bulu/cilia di sekeliling tubuhnya.
+Parasit pada budidaya ikan laut yang disebabkan oleh protozoa dapat
+digolongkan menjadi 3 jenis, yaitu : Cryptocaryoniasis, Brooklynelliasis
+dan Trichadiniasis.
+TTG BUDIDAYA PERIKANAN
+Hal. 6/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+-
+Cryptocaryoniasis
+Penyakit ini paling umum dijumpai pada budidaya laut yang disebabkan
+oleh protozoa.  Organisme penyebabnya adalah Cryptocaryon irritans
+Brown, dijumpai secara luas seperti halnya Ichthyophthirius multifilis
+yang terdapat di air tawar.  Pada stadium belum dewasa binatang ini
+cenderung berbentuk seperti buah pear.  Bagian mulut (Cryclostomum)
+terlihat seperti pada ganbar 5 dimana terlihat sedang memangsa sel
+daging ikan.
+Pemangsaan yang terus menerus kadang-kadang menyebabkan
+kerusakan pada kulit atau insang.  Stadia "trophont" berbentuk seperti
+bola dengan garis tengah sekitar 300 mikron, terbungkus oleh bulu-bulu
+halus/cilia.
+Ikan Kerapu Lumpur dapat terserang penyakit bintik putih seperti
+terserang Ichtyophthirius multifilis.  Bintik putih terlihat berbentuk titik
+yang masuk cukup dalam.  Dalam hal-hal tertentu di mana serangan
+penyakit ini ditunggangi oleh serangan bakteri maka akan timbul borok
+pada bagian yang terserang.
+Ikan Kakap dan jenis ikan lain yang bersisik besar jarang terlihat bahwa
+tersebut terserang penyakti bintik putih.  Ikan-ikan tersebut akan
+kehilangan nafsu makan, matanya membengkak, sisik-sisiknya lepas,
+kadang terjadi pendarahan pada kulitnya dan terjadi pembusukan
+bagian sirip akibat terinfeksi bakteri/infeksi sekunder.
+Pada ikan Lutjanus (jenis Goden Snaper) kepala merupakan bagian
+yang paling rawan terhadap serangan parasit ini, yang kadang sampai
+sisik pada kepala bagian atas dan tutup insang mengelupas yang
+kemudian terlihat botak.
+Insang pada ikan yang terserang parasit ini akan rusak dan tidak
+berfungsi.  Keluarnya lendir yang berlebihan biaanya tidak sehebat
+seperti pada serangan parasit Diplectanum sp.
+Penyakit yang paling sering dijumpai pada ikan-ikan dan sangat susah
+diberantas ini sesebabkan oleh protozoa yang bersarang pada lapisan
+lendir kulit dan sirip ikan, serata merusak lapisan insang.  Binatang
+yang sangat kecil dan tidak bisa dilihat oleh mata biasa ini, pada
+selaput ikan bergerombol sampai berpuluh-puluh bahkan beratus-ratus
+jumlahnya, hingga dapat terlihat sebagai bintik-bintik putih.  Karena itu
+biasa disebut White spot.
+Protozoa ini merusak sel-sel lendir ikan, dan dapat menyebabkan
+pendarahan, yang sering terlihat pada sirip dan insang ikan.  Siklus
+TTG BUDIDAYA PERIKANAN
+Hal. 7/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+hidup parasit ini sangat penting untuk diketahui, oleh karena itu segala
+cara pemberantasannya, pada dasarnya ialah memutuskan rantai
+kehidupan.
+Sesudah 8 hari hidup pada ikan parasit ini sudah cukup dewasa untuk
+melangsungkan diri dari tubuh ikan, dan melayang-layang dalam air
+untuk beberapa saat lamanya.  Kemudian ia melekatkan diri pada suatu
+benda, batu-batu, tumbuh-tumbuhan, gangang, dan sebagainya serta
+membentuk suatu lapisan kulit yang terlihat sebagai lendir.  Bentuk
+demikian disebut cyste.  Parasit ini dalam cyste membelah diri.
+Dalam waktu 5 jam (lamanya tergantung suhu), terbentuklah beribu-ribu
+protozoa kecil-kecil.  Kemudian dinding cyste itu pecah, lalu
+berhamburlah anak-anak parasit tersebut, melayang-layang dalam air,
+siap untuk menyerang ikan.
+Apabila dalam waktu 48 jam mereka tidak dapat menemukan ikan-ikan
+untuk ditempelinya maka anak-anak parasit itu akan mati.  Jika ada
+ikan, mereka segera menempel dan tumbuh pada selaput lendir ikan.
+Pada selaput lendir ikan, parasit protozoa ini hidup terbungkus oleh
+selaput sel lendir.  Obat-obat pemberantas tidak dapat meresap ke
+dalam parasit dalam keadaan tersebut, tanpa merusak selaput lendir
+ikan yang bersangkutan juga.  Karena itu fase pre cyste, adalah fase
+yang mudah dikenai obat tanpa merusak ikan yang bersangkutan.
+Demikian juga cyste ketika benih parasit ini sudah keluar dari cyste.
+Sedangkan pada fase cyste, penyakit ini juga tidak tertembus oleh obat,
+karena berdinding lendir.
+Terhadap penyakit ini tindakan yang lebih penting ialah pencegahan.
+Hal ini dilakukan dengan menciptakan suasana kesegaran dan
+kesehatan bagi ikan, sehingga ikan mempunyai daya tahan yang besar
+terhadap penyakit ini.  Caranya ialah dengan memilih lokasi di mana air
+dapat selalu berganti lewat arus yang cukup.
+Pencegahan dan pengobatan
+Penanggulangan parasit ini cukup sulit.  Stadia tomont berbentuk kista
+sangat tahan terhadap obat-obatan, sedangkan stadia trophonts
+seringkali masuk cukup dalam ke jaring daging ikan.  Namun demikian
+perlakuan seperti tersebut di bawah ini dan telah banyak memberikan
+hasil yaitu :
+* Celupkan ke dalam formalin 200 ppm selama 1/2 sampai 1 jam
+tergantung kepada daya tahan ikan.
+* Celupkan ke dalam formalin 100 ppm dan acriflavin 10 ppm selama 1
+jam.
+TTG BUDIDAYA PERIKANAN
+Hal. 8/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+* Celupkan dalam campuran formalin 25 ppm dan malachite green
+0,15 ppm selama 12 jam.
+* Menggunakan nitrofurazone 30 ppm selama 12 jam.
+* Menggunakan methyllene blue 0,1 ppm selama setengah jam.
+* Menggunakan air tawar murni selama 1 jam (hanya untuk ikan kakap
+dan kerapu lumpur).
+Perlakuan tersebut diulangi 2 sampai 3 kali.  Pengobatan juga dapat
+dilakukan dengan percampuran obat dalam ransum makanan, yaitu
+menggunakan metronidozone 5 gram untuk setiap kilogram makanan
+selama 10 hari.
+Berdasarkan hasil percobaan, gejala penyakit cryptocaryoniasis akan
+terlihat dalam waktu 5 hari setelah ikan sehat diolesi insang dari ikan
+yang sakit.  Tindakan yang perlu diambil untuk menanggulangi penyakit
+ini adalah sebagai berikut :
+* Isolasi ikan-ikan yan ternyata sakit khususnya benih/gelondongan
+sejauh mungkin dari ikan-ikan yang sehat.
+* Ambil ikan-ikan yang mati atau sakit parah dari keramba untuk
+kemudian dimusnahkan.
+* Lakukan pengobatan sedini mungkin (begitu terlihat tanda-tanda ada
+ikan yang terserang penyakit ini) untuk memotong siklus hidup
+penyakit ini dan jangan sampai menjadi stadia kista serta
+terbentuknya tomite (stadia muda dan berenang bebas dari
+Cryptocaryon irritans).
+-
+Brooklynelliasis
+Penyakit ini disebabkan oleh Brooklynela sp, suatu protozoa berbentuk
+seperti kacang mirip dengan Chilodonella sp.  mudah dikenal dengan
+adanya bulu rambut (cilia) yang panjang, sebuah macronucleus dan
+kantong berbentuk oval yang terlihat jelas.  Brooklynela sp irritans,
+namun jenis ikan yang bisa terserang lebih sedikit.
+Parasit ini dijumpai di bagian insang dan kulit dari ikan yang terserang.
+Tanda-tandanya penyakit yang ditimbulkan sama dengan penyerangan
+Cryptocaryon irritans, hanya saja jarang terjadi kerusakan kulit ikan
+yang terserang.  Luka yang ditimbulkannya lebih tersebar dan terjadi
+pendarahan pada kulit bagian dalam.
+Pendarahan ini kemungkinan disebabkan oleh kesengajaan ikan
+menggesek-gesekkan badannya ke jaring atau wadah budidaya lainnya
+yang diakibatkan gatal akibat serangan parasit ini pada bagian kulit.
+Pencegahan dan pengobatan
+Pemberantasan parasit ini dapat dilakukan seperti pada seangan
+parasit Cryptocaryon irritans.  Keberhasilan upaya pemberantasan
+TTG BUDIDAYA PERIKANAN
+Hal. 9/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+dapat dilihat dengan pengamatan di bawah mikroskop terhadap
+preparat usapan (smear) pada ikan yang diobati.  Serangan penyakit
+sekunder seperti kebusukan sirip dapat dicegah dengan pengobatan
+menggunakan acriflavine atau pemandian mengunakan antibiotic.
+-
+Trychodiniasis
+Penyakit Trychodiniasis adalah penyakit yang disebabkan oleh
+Trichodina sp suatu protozoa bebrbentuk cakram dengan diameter
+sekitar 100 mikron dengan "gigi-gigi" yang terdapat di bagian tengah
+dan cilia pada bagian permukaan bawah.
+Pemberantasan/pencegahan penyakit ini dapat dilakukan seperti
+terhadap serangan "Cryptocaryoniasis" atau "Brooklynelliasis".
+d. Jamur
+Jamur merupakan tumbuhan sederhana yang tidak membutuhkan cahaya
+untuk tumbuh, tetapi memakan bahan organik untuk mendapatkan
+energinya.
+Jamur dapat menyebabkan penyakit bila tumbuh pada organisme hidup
+termasuk ikan.  Dewasa ini ada dua penyakit ikan yang berasal dari jamur,
+yaitu : Saprolegniasis dan Ichthyosporidosis.
+-
+Saproleniasis
+Penyakit ini disebabkan oleh jamur yang disebut Saprolegnia sp.
+Serangan jamur ini menyebabkan perubahan warna pada kulit dan
+tumbuh jamur putih keabu-abuan yang makin lama makin melebar, dan
+menyebabkan kerusakan pada otot.  Ikan-ikan yang sakit tersebut
+sebaiknya diambil dari kurungan pemeliharaan.  Penyakit ini jarang
+sekali ditemukan dan tidak mudah menyerang ikan yang dalam
+keadaan sehat.
+Penyakit ini terutama menyerang ikan kakap putih pada bagian sirip
+punggung dan melebar ke arah sirip ekor.
+Pencegahan dan pengobatan
+Pengobatan dapat dicoba dengan jalan diolesi :
+*
+Larutan yodium Tincture 0,1%
+*
+Larutan Potassium Dichromat 1%
+Atau perendaman dengan menggunakan :
+*
+Methylene blew 0,1 PPM, selama kira-kira 1 jam dan diulangi selama
+3 hari.
+-
+Ichthyosporidosis
+TTG BUDIDAYA PERIKANAN
+Hal. 10/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+Penyakit 
+ini 
+disebabkan 
+oleh 
+jamur 
+Ichthyos 
+poridium 
+sp
+(Ichthyophonus sp).  Jamur ini berkembang mengikis jaringan luar
+bagian kepala dan menyebabkan luka yan dalam yang berwarna
+kemerah-merahan dan dapat masuk ke dalam sampai ke bagian
+tengkorak kepala ikan.  Kadang-kadang juga ditemukan di bawah kulit
+dan jaringan epitel kulit dari jaringan organ yang penting misalnya
+insang, usus, hati dan jantung dalam bentuk gumpalan granula.
+Biasanya terdapat pada ikan kerapu dan berkembang lambat karena
+penyakit ini terutama teramati pada ikan-ikan atau ukuran pasar.
+Sampai saat ini belum ada pengobatan yang manjur terhadap penyakit
+ini.  Beberapa jenis antibiotik yang biasa terdapat di pasaran kurang
+mempan menghadapi penyakit ini.  Untuk itu dapat dihindari dengan
+jalan menjaga makanan dari ikan rucah yang diberikan agar bersih dan
+tidak ada gumpalan-gumpalan penyakit di bagian kulitnya atau di
+bagian lain.
+e. Bakteri
+Penyakit yang disebabkan oleh bakteri merupakan penyakit yang paling
+umum dijumpai pada usaha budidaya ikan laut.
+Bakteri merupakan jasad renik yang kira-kira duapuluh kali lebih kecil dari
+sel-sel jamur, protozoa atau sel daging ikan.  Biasa terdapat di udara,
+dalam tanah maupun dalam air dan benda padat lainnya.  Sebagian besar
+bakteri sebenarnya tidak menyebabkan penyakit.  Namun bakteri
+mempunyai kemampuan memperbanyak diri sangat cepat, sehingga
+apabila bakteri tersebut berada dalam bagian tubuh hewan.  Bakteri ini
+bermacam-macam jenisnya.  Yang menyerang manusia, berbeda dengan
+jenis yang menyerang ikan dan tumbuh-tumbuhan.  Tetapi ada pula jenis-
+jenis yang dapat menyerang manusia dan hewan sekaligus.
+Ikan yang terserang oleh bakteri dapat memperlihatkan gejala yang
+berbeda-beda.  Jika bakterinya menyerang kerusakan-kerusakan pada
+kulit yang terlihat seperti kena api (luka bakar), seperti kudis/borok yang
+membusuk.
+Infeksi bakteri biasanya timbul apabila ikan menderita stres.  Kematian
+banyak terjadi pada ikan yang menderita stres karena serangan bakteri
+yang menyebabkan infeksi.  Penyakit bakteri merupakan jenis yang
+terbanyak didapati pada usaha budidaya ikan di laut.  YC. Chong (1986)
+menyebutkan bahwa di perairan Siangapura terdapat 3 kelompok utama
+penyakit yang disebabkan oleh bakteri, yaitu : pembusukan sirip/ekor,
+Vibriosis dan Streptococcosis.
+TTG BUDIDAYA PERIKANAN
+Hal. 11/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+-
+Pembusukan sirip/ekor (Bakteri Fin Rot)
+Bakteri ini biasanya menyerang sirip-sirip, terutama sirip ekor dan dapat
+mengakibatkan luka dan pengelupasan kulit.  Ikan-ikan yang terserang
+penyakit ini akan menalami luka/kerusakan pada bagian tepi dan sirip-
+siripnya, termasuk sirip ekor dan akan terkikis secara tidak teratur.
+Bahkan tidak jarang terjadi sirip yang terserang akan tinggal bagian
+pengkalnya saja.  Jika diamati pada bagian yang terkena penyakit atau
+bagian yang luka hanya sedikit terdapat protozoa, tetapi diketemukan
+banyak sekali populasi bakteri yang terdiri dari bakteri Mycobacter sp.
+Vibrio 
+sp, 
+jenis-jenis 
+Pseudomonas 
+dan 
+Cocci 
+gram 
+positif.
+Diperkitakan bahwa kerusakan yang terjadi tersebut diakibatkan oleh
+serangan bakteri dengan populasi yang sangat padat.  Bakteri ini
+mudah menular lewat luka-luka ikan yang lain akibat sentuhan ekor
+yang sakit.  Bakteri yang paling dominan adalah Vibro sp karena
+mempunyai kemampuan yang baik untuk hidup di air laut dan
+pertumbuhannya untuk membentuk koloni lebih cepat dibandingkan
+dengan bakteri yang lain.
+Pada dasarnya penyakit ini tidak begitu berbahaya, tetapi yang
+menjadikan bahaya justru infeksi sekunder jenis bakteri lain yang dapat
+memperparah penyakit tersebut dan menyebabkan kematian ikan.
+Pencegahan dan pengobatan
+Pencegahan dapat dilakukan dengan jalan perendaman ikan yang sakit
+ke dalam bak air dengan menggunakan :
+*
+Nitrofurozone 15 ppm, selama 3 - 4 jam.
+*
+Suplhonamide 50 ppm, selama 3 - 4 jam.
+*
+Neomycin sulphate 50 ppm, selama 1 - 2 jam.
+*
+Chloramphenicol 50 ppm, selama 1 - 2 jam.
+*
+Acriflavine 100 ppm, selama 1 menit.
+Sesudah pengobatan, tempatkan ikan ke dalam kurungan yang bersih
+dengan kepadatan yang rendah dan aliran air yang baik, atau pada bak
+dengan penambahan aerasi secukupnya.
+-
+Vibriosis
+Vibriosis merupakan penyakit yang disebabkan oleh bakteri Vibrio sp.
+Bakteri Vibrio sp termasuk kelompok bakteri yang heterogen dan gram
+negatif.  Ada 2 bakteri penting yang diketahui menyerang ikan laut yaitu
+:  V. alginolyticus dan V. parahaemollyticus.  Vibriosisi merupakan
+penyakit sekunder, artinya penyakit ini muncul setelah adanya
+serangan penyakit yang lain misalnya protozoa atau penyakit lainnya.
+TTG BUDIDAYA PERIKANAN
+Hal. 12/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+Dari percobaan yang dilakukan terhadap bakteri yang diisolasikan dari
+ikan kerapu dan kakap putih yang sakit, ternyata bakteri ini tidak
+mampu membuat ikan menjadi sakit vibriosis setelah dilakukan
+penyuntikan dengan bakteri tersebut.
+Terkecuali apabila dosisnya tinggi.  Ikan kerapu yang terkena Vibriosisi
+akaibat suntikan bakteri tersebut, akan mengalami perubahan warna
+kulit menjadi lebih gelap dan daerah bekas suntikan akan menjadi
+borok.  Selanjutnya akan terjadi pendarahan pada bagian peritonial dan
+ginjalnya akan rusak.  Pengamatan di alapangan juga menunjukkan
+gejala ikan kurang nafsu makan, busuk sirip dan akumulasi cairan di
+bagian abdomen.
+Pencegahan dan pengobatan
+Beberapa pengobatan dengan antibiotik dapat dilakukan antara lain :
+* Menggunakan Oxytetracycline sebanyak 0,5 garam per kg makanan
+ikan selama 7 hari.
+* Menggunakan Sulphonamides 0,5 gram per kg makanan ikan
+selama 7 hari.
+* Chloromphenicol sebanyak 0,2 gram per kg berat makanan ikan
+selama 4 hari.
+Apabila ikan tak mau makan, cobalah pengobatan dengan perendaman
+sbb :
+Nitrofurozon 15 ppm, selama lebih kurang 4 jam.
+Sulphonamides 50 ppm, selama lebih kurang 4 jam.
+-
+Streptococcus
+bakteri dari genus Streptococcus ini kadang-kadang menyebabkan
+penyakit pada ikan laut yang dibudidayakan, seperti ikan kerapu merah
+dan ikan beronang.  Tanda-tanda dari infeksi penyakit ini biasanya tidak
+jelas, namun ikan terkadang terlihat lesu, tidak sehat, berenang tidak
+teratur dan pendarahan pada cornea.  Biasanya penyakit ini diamati
+lewat pemerikasaan laboratories.
+Streptococcus sp termasuk bakteri yang resisten terhadap berbagai
+antibiotik yang secara terus menerus dipergunakan untuk mengobati
+infeksi bakteri yang lain.
+Pencegahan dan pengobatan
+Berikut adalah perlakuan pengobatan yang disarankan tes sensitivitas
+antibiotik.
+* Amphicilin 0,5 gram per kg makanan ikan untuk 2 hari.
+* Oxytetracycline 0,5 gram per kg makanan ikan untuk 7 hari.
+* Erythromycin estolate 1,0 gram per kg makanan untuk 5 hari.
+TTG BUDIDAYA PERIKANAN
+Hal. 13/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+Dapat juga menggunakan penicilin 3.000 unit per kg berat ikan yang
+disuntik secara intramascullar.
+f. Virus
+Virus adalah patogen yang paling kecil.  Ukurannya lebih kecil dari
+seperduapuluh kali besarnya bakteri.  Virus menyerang mahluk hidup,
+berkembangbiak di dalam organisme inang dan pada saat itulah dia akan
+menyebabkan kerusakan ataupun penyakit pada organisme inang.
+Virus sangat tahan terhadap segala jenis obat-obatan.  Oleh karena itu,
+pemberantasan penyakit yang disebabkan oleh virus lebih ditekankan
+kepada upaya pencegahan dan membatasi penularannya.  Salah satu
+virus yang telah diketahui menyerang ikan pada budidaya di laut adalah
+penyakit Symphocystis.
+Penyakit Lymphocystis disebabkan oleh serangan virus yang termasuk
+famili Iridovirus.
+Virus Lymphocytis berbentuk partikel berbidang banyak dengan sekitar
+0,13 - 0,26 mikron.  Terdiri dari inti DNA yang dibungkus oleh lapisan
+protein.
+Infeksi pada ikan yang terserang menyebabkan tumbuhnya sel jaringan.
+Sel yang dikenal menyebabkan tumbuhnya sel jaringan.  Sel yang dikenal
+dengan nama Lymphocystis menyerupai butiran sagu.  Kelompok dari sel
+tersebut membentuk tumor pada kulit dan sirip.
+Ikan kakap putih merupakan ikan yang sangat rawan terhadap serangan
+virus ini.  Virus ini juga terbukti sangat mudah menular dengan
+menggunakan air sebagai media penularannya.  Oleh karena itu, ikan
+yang terserang harus segera dipindahkan dan dipisahkan dari ikan yang
+sehat.
+Pada 
+dasarnya, 
+penyakit 
+yang 
+diakibatkan 
+virus 
+belum 
+dapat
+ditanggulangi secara pasti.  Namun demikian pencegahan dapat dilakukan
+dengan jalan vaksinasi dengan obat antibiotik.  Masalahnya adalah hingga
+saat ini, obat/vaksinasi untuk penyakit ini belum tersedia atau sulit
+didapatkan di pasaran.
+5.
+DAFTAR PUSTAKA
+1) Sneiszko, S.F. and Axelrod, H.R. 1971, Diseases of Fisheries T.F.H.
+Publications Hongkong.
+TTG BUDIDAYA PERIKANAN
+Hal. 14/ 14
+Kantor Deputi Menegristek Bidang Pendayagunaan dan Pemasyarakatan Ilmu Pengetahuan dan Teknologi
+Gedung II BPP Teknologi Lantai 6, Jl. M.H. Thamrin 8 Jakarta 10340
+Tel. 021 316 9166~69, Fax. 021 316 1952, http://www.ristek.go.id
+2) Anonim, 1991, Usaha Penanggulangan Serangan Penyakit Pada Usaha
+Budidaya Laut/Rumput Laut, Dit Penyuluhan, Ditjen Perikanan.
+3) Anonim, 1993, Petunjuk Pelaksanaan Penanggulangan Penyakit Ikan, Dit
+Sumber Hayati, Ditjen Perikanan.
+4) Basyari, A, Danakusumah, E; T.I, Philip; Pramu; Mustahal dan Isra, M. 1988.
+Budidaya Ikan Beronang, Direktorat Jenderal Perikanan bekerjasama
+dengan International Development Research Centre.
+5) Thanasomwong in Tiensongrusmee, Banchong, 1986, Culture of Marine
+Finish in Floating Netcage, INS/81/008/Manual/5.
+6.
+SUMBER
+Direktorat 
+Bina 
+Produksi, 
+Direktorat 
+Jenderal 
+Perikanan, 
+Departemen
+Pertanian, Jakarta, 1996
+7.
+KONTAK HUBUNGAN
+Direktorat Bina Pembenihan, Direktorat Jenderal Perikanan, Departemen
+Pertanian
+Jakarta, Maret 2001
+Disadur oleh
+:
+Tarwiyah
+KEMBALI KE MENU

@@ -5,21 +5,32 @@ require_once __DIR__ . '/../includes/functions.php';
 
 $pdo = connectDB();
 
+// Pagination Setup
+$perPage = 12;
+$page = isset($_GET['page']) ? max(1, (int)$_GET['page']) : 1;
+$offset = ($page - 1) * $perPage;
+
 // Fetch Categories
 $categories = getCategories($pdo);
 
 // Fetch Featured Tutorial (Random or specific logic)
-$stmt = $pdo->query("SELECT t.*, c.name as category_name 
-                     FROM tutorials t 
-                     JOIN categories c ON t.category_id = c.id 
+$stmt = $pdo->query("SELECT t.*, c.name as category_name
+                     FROM tutorials t
+                     JOIN categories c ON t.category_id = c.id
                      ORDER BY RANDOM() LIMIT 1");
 $featured = $stmt->fetch();
 
-// Fetch Latest Tutorials (excluding featured if possible, but for simplicity just latest 10)
-$stmt = $pdo->query("SELECT t.*, c.name as category_name, c.icon_class 
-                     FROM tutorials t 
-                     JOIN categories c ON t.category_id = c.id 
-                     ORDER BY created_at DESC LIMIT 10");
+// Total count for pagination
+$totalStmt = $pdo->query("SELECT COUNT(*) FROM tutorials");
+$totalTutorials = $totalStmt->fetchColumn();
+$totalPages = ceil($totalTutorials / $perPage);
+
+// Fetch Latest Tutorials with pagination
+$stmt = $pdo->prepare("SELECT t.*, c.name as category_name, c.icon_class
+                       FROM tutorials t
+                       JOIN categories c ON t.category_id = c.id
+                       ORDER BY created_at DESC LIMIT ? OFFSET ?");
+$stmt->execute([$perPage, $offset]);
 $latestTutorials = $stmt->fetchAll();
 
 $pageTitle = "Beranda";
@@ -106,7 +117,7 @@ require_once __DIR__ . '/../includes/header.php';
 <?php endif; ?>
 
 <!-- Latest Tutorials (Masonry Grid) -->
-<div class="px-6 mt-8 mb-24">
+<div class="px-6 mt-8 mb-6">
     <h2 class="text-lg font-bold text-black-forest mb-4 px-2">Terbaru</h2>
     <div class="columns-2 gap-4 space-y-4">
         <?php foreach($latestTutorials as $tutorial): ?>
@@ -134,5 +145,64 @@ require_once __DIR__ . '/../includes/header.php';
         <?php endforeach; ?>
     </div>
 </div>
+
+<!-- Pagination -->
+<?php if($totalPages > 1): ?>
+<div class="px-6 pb-24">
+    <nav class="flex justify-center items-center gap-2">
+        <!-- Previous -->
+        <?php if($page > 1): ?>
+        <a href="?page=<?php echo $page - 1; ?>" class="w-10 h-10 flex items-center justify-center rounded-full bg-white border border-gray-200 text-gray-600 hover:bg-olive-leaf hover:text-white hover:border-olive-leaf transition">
+            <i class="fas fa-chevron-left text-xs"></i>
+        </a>
+        <?php else: ?>
+        <span class="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100 text-gray-400 cursor-not-allowed">
+            <i class="fas fa-chevron-left text-xs"></i>
+        </span>
+        <?php endif; ?>
+
+        <!-- Page Numbers -->
+        <?php
+        $startPage = max(1, $page - 2);
+        $endPage = min($totalPages, $page + 2);
+        
+        if($startPage > 1): ?>
+        <a href="?page=1" class="w-10 h-10 flex items-center justify-center rounded-full bg-white border border-gray-200 text-gray-600 hover:bg-olive-leaf hover:text-white hover:border-olive-leaf transition text-sm">1</a>
+        <?php if($startPage > 2): ?>
+        <span class="text-gray-400 px-1">...</span>
+        <?php endif; ?>
+        <?php endif; ?>
+
+        <?php for($i = $startPage; $i <= $endPage; $i++): ?>
+        <?php if($i == $page): ?>
+        <span class="w-10 h-10 flex items-center justify-center rounded-full bg-olive-leaf text-white font-bold text-sm shadow"><?php echo $i; ?></span>
+        <?php else: ?>
+        <a href="?page=<?php echo $i; ?>" class="w-10 h-10 flex items-center justify-center rounded-full bg-white border border-gray-200 text-gray-600 hover:bg-olive-leaf hover:text-white hover:border-olive-leaf transition text-sm"><?php echo $i; ?></a>
+        <?php endif; ?>
+        <?php endfor; ?>
+
+        <?php if($endPage < $totalPages): ?>
+        <?php if($endPage < $totalPages - 1): ?>
+        <span class="text-gray-400 px-1">...</span>
+        <?php endif; ?>
+        <a href="?page=<?php echo $totalPages; ?>" class="w-10 h-10 flex items-center justify-center rounded-full bg-white border border-gray-200 text-gray-600 hover:bg-olive-leaf hover:text-white hover:border-olive-leaf transition text-sm"><?php echo $totalPages; ?></a>
+        <?php endif; ?>
+
+        <!-- Next -->
+        <?php if($page < $totalPages): ?>
+        <a href="?page=<?php echo $page + 1; ?>" class="w-10 h-10 flex items-center justify-center rounded-full bg-white border border-gray-200 text-gray-600 hover:bg-olive-leaf hover:text-white hover:border-olive-leaf transition">
+            <i class="fas fa-chevron-right text-xs"></i>
+        </a>
+        <?php else: ?>
+        <span class="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100 text-gray-400 cursor-not-allowed">
+            <i class="fas fa-chevron-right text-xs"></i>
+        </span>
+        <?php endif; ?>
+    </nav>
+    <p class="text-center text-xs text-gray-400 mt-3">
+        Halaman <?php echo $page; ?> dari <?php echo $totalPages; ?> • <?php echo $totalTutorials; ?> tutorial
+    </p>
+</div>
+<?php endif; ?>
 
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
