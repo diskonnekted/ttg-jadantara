@@ -1,233 +1,125 @@
 <?php
-// public/tutorial.php
 require_once __DIR__ . '/../includes/config.php';
 require_once __DIR__ . '/../includes/functions.php';
-
-if (!isset($_GET['id'])) {
-    header("Location: index.php");
-    exit;
-}
+if (!isset($_GET['id'])) { header("Location: index.php"); exit; }
 
 $pdo = connectDB();
 $id = (int)$_GET['id'];
 
-// Fetch Tutorial
-$stmt = $pdo->prepare("SELECT t.*, c.name as category_name, u.username as author_name 
-                       FROM tutorials t 
-                       JOIN categories c ON t.category_id = c.id 
-                       LEFT JOIN users u ON t.author_id = u.id 
-                       WHERE t.id = ?");
+$stmt = $pdo->prepare("SELECT t.*, c.name as category_name FROM tutorials t JOIN categories c ON t.category_id = c.id WHERE t.id = ?");
 $stmt->execute([$id]);
 $tutorial = $stmt->fetch();
+if (!$tutorial) die("Tutorial tidak ditemukan.");
 
-if (!$tutorial) {
-    die("Tutorial not found.");
-}
-
-// Fetch Steps
 $stmt = $pdo->prepare("SELECT * FROM steps WHERE tutorial_id = ? ORDER BY step_number ASC");
 $stmt->execute([$id]);
-$steps = $stmt->fetchAll();
+$allSteps = $stmt->fetchAll();
+$steps = array_filter($allSteps, function($s) { return !empty($s['title']) || !empty($s['content']); });
 
-// Fetch Materials
 $stmt = $pdo->prepare("SELECT * FROM materials WHERE tutorial_id = ?");
 $stmt->execute([$id]);
 $materials = $stmt->fetchAll();
+
+$stmt = $pdo->prepare("SELECT id, title, image_path FROM tutorials WHERE category_id = ? AND id != ? ORDER BY RANDOM() LIMIT 3");
+$stmt->execute([$tutorial['category_id'], $id]);
+$related = $stmt->fetchAll();
 
 $pageTitle = $tutorial['title'];
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
-<div x-data="{ 
-    dataSaver: false, 
-    completedSteps: JSON.parse(localStorage.getItem('completed_steps_<?php echo $id; ?>') || '[]'),
-    toggleStep(stepId) {
-        if (this.completedSteps.includes(stepId)) {
-            this.completedSteps = this.completedSteps.filter(id => id !== stepId);
-        } else {
-            this.completedSteps.push(stepId);
-        }
-        localStorage.setItem('completed_steps_<?php echo $id; ?>', JSON.stringify(this.completedSteps));
-    },
-    isCompleted(stepId) {
-        return this.completedSteps.includes(stepId);
-    }
-}" class="pb-24">
+<style>
+    .article-text, .article-text * { font-weight: 400 !important; font-variant-numeric: normal; }
+    .article-text h1, .article-text h2, .article-text h3, .article-text h4 { font-weight: 700 !important; }
+</style>
 
-    <!-- Hero Image -->
-    <div class="relative h-64 w-full bg-gray-200">
-        <template x-if="!dataSaver">
-            <img src="<?php echo BASE_URL . ($tutorial['image_path'] ?? '/assets/images/default.jpg'); ?>" 
-                 alt="<?php echo $tutorial['title']; ?>" 
-                 class="w-full h-full object-cover">
-        </template>
-        <template x-if="dataSaver">
-             <div class="w-full h-full flex items-center justify-center bg-gray-300 text-gray-500 flex-col">
-                <i class="fas fa-image-slash text-4xl mb-2"></i>
-                <span>Mode Hemat Data Aktif</span>
-            </div>
-        </template>
-        
-        <div class="absolute top-4 right-4 bg-white/90 backdrop-blur rounded-full px-3 py-1 shadow-sm text-xs font-semibold">
-             <label class="flex items-center gap-2 cursor-pointer">
-                <input type="checkbox" x-model="dataSaver" class="form-checkbox text-primary rounded focus:ring-primary">
-                <span>Hemat Data</span>
-            </label>
+<div class="pb-20">
+    <!-- Hero -->
+    <div class="relative h-56 bg-gray-200">
+        <?php if($tutorial['image_path']): ?>
+            <img src="<?php echo BASE_URL . $tutorial['image_path']; ?>" class="w-full h-full object-cover" alt="">
+        <?php else: ?>
+            <div class="w-full h-full bg-gradient-to-br from-primary to-primary-dark flex items-center justify-center"><i class="fas fa-book-open text-5xl text-white/50"></i></div>
+        <?php endif; ?>
+        <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
+        <a href="javascript:history.back()" class="absolute top-4 left-4 w-9 h-9 bg-white/90 backdrop-blur rounded-full flex items-center justify-center shadow"><i class="fas fa-arrow-left text-gray-700 text-sm"></i></a>
+        <div class="absolute top-4 right-4 bg-white/90 backdrop-blur px-3 py-1.5 rounded-full shadow-sm flex items-center gap-2">
+            <img src="<?php echo getCategoryIcon($tutorial['category_name']); ?>" class="w-4 h-4" alt="">
+            <span class="text-xs font-semibold text-gray-700"><?php echo $tutorial['category_name']; ?></span>
         </div>
-        
-        <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent p-6 pt-20">
-            <span class="bg-primary text-white text-xs px-2 py-1 rounded mb-2 inline-block">
-                <?php echo $tutorial['category_name']; ?>
-            </span>
-            <h1 class="text-2xl font-bold text-white leading-tight mb-2">
-                <?php echo $tutorial['title']; ?>
-            </h1>
-            <div class="flex text-white/80 text-sm gap-4">
-                <span><i class="far fa-user mr-1"></i> <?php echo $tutorial['author_name'] ?? 'Admin'; ?></span>
-                <span><i class="far fa-clock mr-1"></i> <?php echo $tutorial['duration']; ?> min</span>
+        <div class="absolute bottom-0 left-0 right-0 p-5">
+            <h1 class="text-xl font-bold text-white leading-tight mb-2 drop-shadow"><?php echo htmlspecialchars($tutorial['title']); ?></h1>
+            <div class="flex items-center text-white/70 text-xs gap-4">
+                <span><i class="far fa-clock mr-1"></i> 10-15 min</span>
+                <span><i class="far fa-calendar mr-1"></i> <?php echo date('d M Y', strtotime($tutorial['created_at'])); ?></span>
             </div>
         </div>
     </div>
 
-    <!-- Content Container -->
-    <div class="px-4 py-6 max-w-md mx-auto">
-        
-        <!-- Video Embed -->
-        <?php if(!empty($tutorial['video_url'])): ?>
-        <div class="mb-6 rounded-xl overflow-hidden shadow-sm">
-            <template x-if="!dataSaver">
-                <div class="aspect-w-16 aspect-h-9">
-                    <?php 
-                        // Extract Youtube ID
-                        $videoId = '';
-                        if (preg_match('/(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?\/\s]{11})/', $tutorial['video_url'], $matches)) {
-                            $videoId = $matches[1];
-                        }
-                    ?>
-                    <?php if($videoId): ?>
-                        <iframe src="https://www.youtube.com/embed/<?php echo $videoId; ?>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="w-full h-64"></iframe>
-                    <?php else: ?>
-                        <a href="<?php echo htmlspecialchars($tutorial['video_url']); ?>" target="_blank" class="block bg-gray-100 p-8 text-center text-primary hover:bg-gray-200">
-                            <i class="fab fa-youtube text-4xl mb-2"></i><br>
-                            Tonton Video Tutorial
-                        </a>
-                    <?php endif; ?>
-                </div>
-            </template>
-            <template x-if="dataSaver">
-                <div class="bg-gray-100 p-4 text-center rounded-xl">
-                    <i class="fas fa-video-slash text-gray-400 text-2xl mb-2"></i>
-                    <p class="text-sm text-gray-500">Video disembunyikan (Hemat Data)</p>
-                    <a href="<?php echo htmlspecialchars($tutorial['video_url']); ?>" target="_blank" class="text-primary text-sm font-semibold mt-2 inline-block">Buka di YouTube</a>
-                </div>
-            </template>
+    <!-- Content -->
+    <div class="px-4 py-5 max-w-2xl mx-auto">
+        <?php if(!empty($tutorial['description'])): ?>
+        <div class="bg-primary/5 border-l-4 border-primary rounded-r-lg p-4 mb-6">
+            <p class="text-sm text-gray-700 leading-relaxed font-medium"><?php echo nl2br(htmlspecialchars($tutorial['description'])); ?></p>
         </div>
         <?php endif; ?>
 
-        <!-- Description -->
-        <div class="mb-8 text-gray-700 leading-relaxed prose prose-sm max-w-none">
-            <?php echo renderContent($tutorial['description']); ?>
-        </div>
-
-        <!-- PDF Download -->
-        <?php if(!empty($tutorial['pdf_path'])): ?>
-        <a href="<?php echo BASE_URL . $tutorial['pdf_path']; ?>" target="_blank" class="flex items-center gap-4 bg-red-50 border border-red-100 p-4 rounded-xl mb-8 hover:bg-red-100 transition group">
-            <div class="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center text-red-500 group-hover:bg-white group-hover:scale-110 transition">
-                <i class="fas fa-file-pdf text-2xl"></i>
-            </div>
-            <div>
-                <h4 class="font-bold text-gray-800">Download Panduan PDF</h4>
-                <p class="text-xs text-gray-500">Simpan untuk dibaca nanti</p>
-            </div>
-            <i class="fas fa-download ml-auto text-gray-400 group-hover:text-red-500"></i>
-        </a>
-        <?php endif; ?>
-
-        <!-- Materials & Tools -->
-        <div class="bg-blue-50 rounded-xl p-5 mb-8 border border-blue-100">
-            <h3 class="font-bold text-blue-800 mb-4 flex items-center">
-                <i class="fas fa-tools mr-2"></i> Alat & Bahan
-            </h3>
-            <?php if(!empty($materials)): ?>
-            <ul class="space-y-3">
-                <?php foreach($materials as $mat): ?>
-                <li class="flex items-start gap-3 text-sm text-gray-700 border-b border-blue-100 pb-2 last:border-0 last:pb-0">
-                    <i class="fas fa-check-circle text-blue-400 mt-1"></i>
+        <?php if(!empty($materials)): ?>
+        <div class="bg-blue-50 rounded-xl p-4 mb-6 border border-blue-100">
+            <h3 class="font-bold text-blue-800 mb-3 flex items-center text-sm"><i class="fas fa-toolbox mr-2"></i> Alat & Bahan</h3>
+            <ul class="space-y-2">
+                <?php foreach($materials as $m): ?>
+                <li class="flex items-start gap-2 text-sm text-gray-700">
+                    <span class="text-blue-400 mt-1">•</span>
                     <div>
-                        <span class="font-semibold block"><?php echo $mat['name']; ?> (<?php echo $mat['quantity']; ?>)</span>
-                        <?php if($mat['local_source']): ?>
-                            <span class="text-xs text-blue-600 block mt-0.5">
-                                <i class="fas fa-map-marker-alt mr-1"></i> Tersedia di: <?php echo $mat['local_source']; ?>
-                            </span>
-                        <?php endif; ?>
+                        <span class="font-medium"><?php echo htmlspecialchars($m['name']); ?> <?php if($m['quantity']): ?><span class="text-blue-600 text-xs">(<?php echo htmlspecialchars($m['quantity']); ?>)</span><?php endif; ?></span>
+                        <?php if($m['local_source']): ?><span class="text-xs text-gray-500 block mt-0.5"><i class="fas fa-map-marker-alt mr-1 text-blue-400"></i> <?php echo htmlspecialchars($m['local_source']); ?></span><?php endif; ?>
                     </div>
                 </li>
                 <?php endforeach; ?>
             </ul>
-            <?php else: ?>
-            <div class="flex items-center gap-3 text-sm text-gray-500">
-                <i class="fas fa-info-circle text-blue-400"></i>
-                <span>Tutorial ini bersifat informasi umum. Tidak memerlukan alat atau bahan khusus.</span>
-            </div>
-            <?php endif; ?>
         </div>
+        <?php endif; ?>
 
-        <!-- Steps -->
-        <div class="space-y-8">
-            <h3 class="font-bold text-xl text-gray-800 mb-6">Langkah-langkah</h3>
-            
-            <?php foreach($steps as $index => $step): ?>
-            <div class="relative pl-8 pb-8 border-l-2 border-gray-200 last:border-0">
-                <!-- Step Number Bubble -->
-                <div class="absolute -left-4 top-0 w-8 h-8 rounded-full flex items-center justify-center font-bold text-white transition-colors duration-300"
-                     :class="isCompleted(<?php echo $step['id']; ?>) ? 'bg-primary' : 'bg-gray-400'">
-                    <?php echo $step['step_number']; ?>
-                </div>
-
-                <div class="bg-white rounded-lg p-4 shadow-sm border border-gray-100 transition-all duration-300"
-                     :class="isCompleted(<?php echo $step['id']; ?>) ? 'opacity-60 grayscale' : ''">
-                    
-                    <h4 class="font-bold text-lg mb-2 text-gray-800"><?php echo $step['title']; ?></h4>
-                    
-                    <?php if($step['image_path']): ?>
-                    <div class="mb-3 rounded-lg overflow-hidden h-48 bg-gray-100">
-                         <template x-if="!dataSaver">
-                            <img src="<?php echo BASE_URL . $step['image_path']; ?>" class="w-full h-full object-cover">
-                        </template>
-                        <template x-if="dataSaver">
-                            <div class="w-full h-full flex items-center justify-center text-gray-400">
-                                <i class="fas fa-image-slash"></i>
-                            </div>
-                        </template>
-                    </div>
-                    <?php endif; ?>
-
-                    <div class="text-gray-600 text-sm mb-4 leading-relaxed">
-                        <?php echo renderContent($step['content']); ?>
-                    </div>
-
-                    <button @click="toggleStep(<?php echo $step['id']; ?>)" 
-                            class="w-full py-2 rounded-lg text-sm font-semibold transition flex items-center justify-center gap-2"
-                            :class="isCompleted(<?php echo $step['id']; ?>) 
-                                ? 'bg-green-100 text-green-700 hover:bg-green-200' 
-                                : 'bg-gray-100 text-gray-600 hover:bg-gray-200'">
-                        <i class="fas" :class="isCompleted(<?php echo $step['id']; ?>) ? 'fa-check' : 'fa-circle'"></i>
-                        <span x-text="isCompleted(<?php echo $step['id']; ?>) ? 'Selesai' : 'Tandai Selesai'"></span>
-                    </button>
-                </div>
-            </div>
+        <!-- Article Body -->
+        <div class="article-content">
+            <?php foreach($steps as $step): ?>
+            <?php if(!empty($step['title'])): ?>
+            <h2 class="text-lg font-bold text-gray-900 mt-6 mb-3"><?php echo htmlspecialchars($step['title']); ?></h2>
+            <?php endif; ?>
+            <?php if(!empty($step['content'])): ?>
+            <div class="mb-4"><?php echo renderContent($step['content']); ?></div>
+            <?php endif; ?>
             <?php endforeach; ?>
         </div>
 
-        <!-- Sticky Share Button -->
-        <div class="fixed bottom-20 right-4 z-40">
-            <a href="https://wa.me/?text=<?php echo urlencode('Cek tutorial ini: ' . $tutorial['title'] . ' - ' . "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"); ?>" 
-               target="_blank"
-               class="bg-green-500 hover:bg-green-600 text-white w-14 h-14 rounded-full shadow-lg flex items-center justify-center transition transform hover:scale-110">
-                <i class="fab fa-whatsapp text-3xl"></i>
-            </a>
+        <?php if(!empty($tutorial['pdf_path'])): ?>
+        <a href="<?php echo BASE_URL . $tutorial['pdf_path']; ?>" target="_blank" class="flex items-center gap-3 bg-red-50 border border-red-100 p-4 rounded-xl mt-6 hover:bg-red-100 transition">
+            <div class="w-10 h-10 bg-red-100 rounded-lg flex items-center justify-center text-red-500"><i class="fas fa-file-pdf text-xl"></i></div>
+            <div class="flex-1"><h4 class="font-bold text-gray-800 text-sm">Download PDF</h4><p class="text-xs text-gray-500">Simpan untuk dibaca offline</p></div>
+            <i class="fas fa-download text-gray-400"></i>
+        </a>
+        <?php endif; ?>
+
+        <div class="flex gap-3 mt-8">
+            <a href="https://wa.me/?text=<?php echo urlencode($tutorial['title'] . ' - ' . "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"); ?>" target="_blank" class="flex-1 bg-green-500 hover:bg-green-600 text-white py-3 rounded-xl font-semibold text-sm flex items-center justify-center gap-2 transition shadow-sm"><i class="fab fa-whatsapp text-lg"></i> Bagikan</a>
         </div>
 
+        <?php if(!empty($related)): ?>
+        <div class="mt-8">
+            <h3 class="font-bold text-gray-900 text-lg mb-4">Artikel Terkait</h3>
+            <div class="space-y-3">
+                <?php foreach($related as $r): ?>
+                <a href="tutorial.php?id=<?php echo $r['id']; ?>" class="flex gap-3 bg-white rounded-xl shadow-sm border border-gray-100 p-3 hover:shadow-md transition">
+                    <div class="w-20 h-20 bg-gray-100 rounded-lg overflow-hidden flex-shrink-0">
+                        <?php if($r['image_path']): ?><img src="<?php echo BASE_URL . $r['image_path']; ?>" class="w-full h-full object-cover" alt=""><?php else: ?><div class="w-full h-full bg-primary/10 flex items-center justify-center"><i class="fas fa-image text-primary/30"></i></div><?php endif; ?>
+                    </div>
+                    <div class="flex-1 flex items-center"><h4 class="font-semibold text-sm text-gray-800 line-clamp-2"><?php echo htmlspecialchars($r['title']); ?></h4></div>
+                </a>
+                <?php endforeach; ?>
+            </div>
+        </div>
+        <?php endif; ?>
     </div>
 </div>
 

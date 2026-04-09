@@ -1,94 +1,61 @@
 <?php
-// public/category.php
 require_once __DIR__ . '/../includes/config.php';
 require_once __DIR__ . '/../includes/functions.php';
-
 $pdo = connectDB();
 $pageTitle = "Kategori";
+$cat_id = isset($_GET['id']) ? (int)$_GET['id'] : null;
 
-$category_id = isset($_GET['id']) ? (int)$_GET['id'] : null;
-
-if ($category_id) {
-    // Fetch Category Name
+if ($cat_id) {
     $stmt = $pdo->prepare("SELECT name FROM categories WHERE id = ?");
-    $stmt->execute([$category_id]);
-    $category = $stmt->fetch();
-    
-    if ($category) {
-        $pageTitle = $category['name'];
-        // Fetch Tutorials in Category
-        $stmt = $pdo->prepare("SELECT t.*, c.name as category_name 
-                               FROM tutorials t 
-                               JOIN categories c ON t.category_id = c.id 
-                               WHERE t.category_id = ? 
-                               ORDER BY created_at DESC");
-        $stmt->execute([$category_id]);
+    $stmt->execute([$cat_id]);
+    $cat = $stmt->fetch();
+    if ($cat) {
+        $pageTitle = $cat['name'];
+        $stmt = $pdo->prepare("SELECT t.* FROM tutorials t WHERE t.category_id = ? ORDER BY created_at DESC");
+        $stmt->execute([$cat_id]);
         $tutorials = $stmt->fetchAll();
-    } else {
-        $category_id = null; // Category not found, fallback to list
-    }
+    } else { $cat_id = null; }
 }
-
-if (!$category_id) {
-    // Fetch All Categories
-    $categories = getCategories($pdo);
-}
-
+if (!$cat_id) { $categories = getCategories($pdo); }
 require_once __DIR__ . '/../includes/header.php';
 ?>
 
-<div class="px-4 py-6 mb-20">
-    <h1 class="text-2xl font-bold mb-6 text-gray-800"><?php echo $pageTitle; ?></h1>
+<div class="max-w-lg mx-auto px-5 py-5 mb-20">
+    <h1 class="text-xl font-bold mb-4 text-gray-800"><?php echo $pageTitle; ?></h1>
 
-    <?php if ($category_id): ?>
-        <!-- List Tutorials in Category -->
-        <div class="space-y-4">
+    <?php if ($cat_id): ?>
+        <div class="space-y-3">
             <?php if (empty($tutorials)): ?>
-                <div class="text-center py-10 text-gray-500">
-                    <i class="far fa-folder-open text-4xl mb-2 block"></i>
-                    Belum ada tutorial di kategori ini.
-                </div>
+                <div class="text-center py-12 text-gray-400"><i class="far fa-folder-open text-4xl mb-3 block"></i><p class="text-sm">Belum ada tutorial.</p></div>
             <?php else: ?>
-                <?php foreach($tutorials as $tutorial): ?>
-                <a href="tutorial.php?id=<?php echo $tutorial['id']; ?>" class="block bg-white rounded-xl shadow-sm p-4 hover:shadow-md transition border border-gray-100 flex gap-4">
-                    <div class="w-24 h-24 bg-gray-200 rounded-lg overflow-hidden flex-shrink-0">
-                         <?php if($tutorial['image_path']): ?>
-                            <img src="<?php echo BASE_URL . $tutorial['image_path']; ?>" class="w-full h-full object-cover">
+                <?php foreach($tutorials as $t): ?>
+                <a href="tutorial.php?id=<?php echo $t['id']; ?>" class="flex gap-3 bg-white rounded-xl shadow-sm border border-gray-100 p-3 hover:shadow-md transition">
+                    <div class="w-20 h-20 bg-gray-100 rounded-lg overflow-hidden flex-shrink-0">
+                        <?php if($t['image_path']): ?>
+                            <img src="<?php echo BASE_URL . $t['image_path']; ?>" class="w-full h-full object-cover" alt="">
                         <?php else: ?>
-                            <div class="w-full h-full flex items-center justify-center text-gray-400">
-                                <i class="fas fa-image"></i>
-                            </div>
+                            <div class="w-full h-full bg-primary/10 flex items-center justify-center"><i class="fas fa-image text-primary/30"></i></div>
                         <?php endif; ?>
                     </div>
-                    <div class="flex-1">
-                        <h3 class="font-bold text-gray-800 mb-1 line-clamp-2"><?php echo $tutorial['title']; ?></h3>
-                        <p class="text-xs text-gray-500 mb-2 line-clamp-2"><?php echo $tutorial['description']; ?></p>
-                        <div class="flex items-center text-xs text-gray-400 gap-3">
-                            <span><i class="far fa-clock"></i> <?php echo $tutorial['duration']; ?>m</span>
-                            <span class="<?php echo ($tutorial['difficulty'] == 'Easy' ? 'text-green-500' : ($tutorial['difficulty'] == 'Medium' ? 'text-yellow-500' : 'text-red-500')); ?>">
-                                <i class="fas fa-signal"></i> <?php echo $tutorial['difficulty']; ?>
-                            </span>
-                        </div>
+                    <div class="flex-1 flex flex-col justify-center min-w-0">
+                        <h3 class="font-semibold text-sm text-gray-800 line-clamp-2 leading-tight mb-1"><?php echo $t['title']; ?></h3>
+                        <p class="text-[10px] text-gray-400"><?php echo timeAgo($t['created_at']); ?></p>
                     </div>
                 </a>
                 <?php endforeach; ?>
             <?php endif; ?>
         </div>
-        <div class="mt-8 text-center">
-            <a href="category.php" class="text-primary font-semibold hover:underline">
-                <i class="fas fa-arrow-left mr-1"></i> Kembali ke Kategori
-            </a>
+        <div class="mt-6 text-center">
+            <a href="category.php" class="text-primary font-semibold text-sm hover:underline"><i class="fas fa-arrow-left mr-1"></i> Kembali ke Kategori</a>
         </div>
-
     <?php else: ?>
-        <!-- List All Categories -->
-        <div class="grid grid-cols-2 gap-4">
-            <?php foreach($categories as $cat): ?>
-            <a href="category.php?id=<?php echo $cat['id']; ?>" class="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition text-center border border-gray-100 flex flex-col items-center group">
-                <div class="w-16 h-16 bg-cornsilk rounded-2xl flex items-center justify-center text-primary text-2xl mb-3 border border-gray-100 group-hover:border-primary group-hover:bg-white transition-all duration-300 p-2">
-                    <img src="<?php echo getCategoryIcon($cat['name']); ?>" class="w-full h-full object-contain filter group-hover:brightness-110 transition" alt="<?php echo $cat['name']; ?>">
+        <div class="grid grid-cols-3 gap-3">
+            <?php foreach($categories as $c): ?>
+            <a href="category.php?id=<?php echo $c['id']; ?>" class="bg-white p-4 rounded-xl shadow-sm hover:shadow-md transition text-center border border-gray-100 flex flex-col items-center">
+                <div class="w-12 h-12 bg-gray-50 rounded-xl flex items-center justify-center p-2 mb-2">
+                    <img src="<?php echo getCategoryIcon($c['name']); ?>" class="w-full h-full object-contain" alt="">
                 </div>
-                <h3 class="font-bold text-gray-700 text-sm group-hover:text-primary transition-colors"><?php echo $cat['name']; ?></h3>
+                <h3 class="font-semibold text-xs text-gray-700 leading-tight line-clamp-2"><?php echo $c['name']; ?></h3>
             </a>
             <?php endforeach; ?>
         </div>
