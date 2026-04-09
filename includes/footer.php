@@ -13,9 +13,9 @@
             <i class="fas fa-info-circle text-lg mb-0.5"></i>
             <span class="text-[10px] font-medium">Info</span>
         </a>
-        <a href="#" onclick="alert('Fitur Simpan akan segera hadir!'); return false;" class="flex flex-col items-center justify-center w-full h-full text-gray-400 hover:text-primary active:text-primary transition-colors">
-            <i class="fas fa-bookmark text-lg mb-0.5"></i>
-            <span class="text-[10px] font-medium">Disimpan</span>
+        <a href="<?php echo BASE_URL; ?>/berita.php" class="flex flex-col items-center justify-center w-full h-full text-gray-400 hover:text-primary active:text-primary transition-colors">
+            <i class="fas fa-newspaper text-lg mb-0.5"></i>
+            <span class="text-[10px] font-medium">Berita</span>
         </a>
         <a href="<?php echo BASE_URL; ?>/admin/index.php" class="flex flex-col items-center justify-center w-full h-full text-gray-400 hover:text-primary active:text-primary transition-colors">
             <i class="fas fa-user text-lg mb-0.5"></i>
