@@ -37,7 +37,7 @@ $error = '';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $title = sanitize($_POST['title']);
-    $description = sanitize($_POST['description']);
+    $description = $_POST['description']; // Allow HTML for description
     $category_id = (int)$_POST['category_id'];
     $difficulty = sanitize($_POST['difficulty']);
     $duration = (int)$_POST['duration'];
@@ -114,7 +114,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         if ($up) $step_image = $up;
                     }
 
-                    $stmtStep->execute([$id, $index + 1, sanitize($step['title']), sanitize($step['content']), $step_image]);
+                    $stmtStep->execute([$id, $index + 1, sanitize($step['title']), $step['content'], $step_image]); // Allow HTML in step content
                 }
             }
         }

@@ -88,10 +88,10 @@
         window.addEventListener('load', () => {
             navigator.serviceWorker.register('<?php echo BASE_URL; ?>/sw.js')
                 .then(registration => {
-                    console.log('SW registered:', registration);
+                    // SW registered successfully
                 })
                 .catch(error => {
-                    console.log('SW registration failed:', error);
+                    console.warn('SW registration failed:', error);
                 });
         });
     }

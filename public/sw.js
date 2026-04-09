@@ -18,6 +18,11 @@ self.addEventListener('install', event => {
 });
 
 self.addEventListener('fetch', event => {
+  // Skip non-http/https requests (e.g., chrome-extension://)
+  if (!event.request.url.startsWith('http')) {
+    return;
+  }
+
   event.respondWith(
     caches.match(event.request)
       .then(response => {
@@ -37,7 +42,7 @@ self.addEventListener('fetch', event => {
 
             caches.open(CACHE_NAME)
               .then(cache => {
-                // Don't cache API calls or dynamic content aggressively if not needed, 
+                // Don't cache API calls or dynamic content aggressively if not needed,
                 // but for this simple site, caching visited pages is good for offline.
                 if (event.request.method === 'GET') {
                     cache.put(event.request, responseToCache);

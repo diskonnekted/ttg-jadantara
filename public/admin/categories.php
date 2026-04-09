@@ -13,11 +13,10 @@ $success = '';
 // Handle Create
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action']) && $_POST['action'] === 'create') {
     $name = sanitize($_POST['name']);
-    $icon = sanitize($_POST['icon']);
-    
+
     if ($name) {
-        $stmt = $pdo->prepare("INSERT INTO categories (name, icon_class) VALUES (?, ?)");
-        if ($stmt->execute([$name, $icon])) {
+        $stmt = $pdo->prepare("INSERT INTO categories (name, icon_class) VALUES (?, '')");
+        if ($stmt->execute([$name])) {
             $success = "Kategori berhasil ditambahkan.";
         } else {
             $error = "Gagal menambahkan kategori.";
@@ -29,11 +28,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action']) && $_POST['
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action']) && $_POST['action'] === 'update') {
     $id = (int)$_POST['id'];
     $name = sanitize($_POST['name']);
-    $icon = sanitize($_POST['icon']);
-    
+
     if ($name && $id) {
-        $stmt = $pdo->prepare("UPDATE categories SET name = ?, icon_class = ? WHERE id = ?");
-        if ($stmt->execute([$name, $icon, $id])) {
+        $stmt = $pdo->prepare("UPDATE categories SET name = ? WHERE id = ?");
+        if ($stmt->execute([$name, $id])) {
             $success = "Kategori berhasil diupdate.";
         } else {
             $error = "Gagal update kategori.";
@@ -89,10 +87,12 @@ require_once __DIR__ . '/includes/header.php';
             </thead>
             <tbody class="divide-y divide-gray-100">
                 <?php foreach($categories as $cat): ?>
-                <tr class="hover:bg-olive-leaf/5 transition" x-data="{ editing: false, name: '<?php echo $cat['name']; ?>', icon: '<?php echo $cat['icon_class']; ?>' }">
+                <tr class="hover:bg-olive-leaf/5 transition" x-data="{ editing: false, name: '<?php echo addslashes($cat['name']); ?>' }">
                     <!-- View Mode -->
                     <td class="p-4 w-16 text-center" x-show="!editing">
-                        <i class="<?php echo $cat['icon_class']; ?> text-primary text-xl"></i>
+                        <div class="w-10 h-10 bg-cornsilk rounded-lg flex items-center justify-center p-1 mx-auto">
+                            <img src="<?php echo getCategoryIcon($cat['name']); ?>" class="w-full h-full object-contain" alt="<?php echo $cat['name']; ?>">
+                        </div>
                     </td>
                     <td class="p-4 font-medium" x-show="!editing">
                         <?php echo $cat['name']; ?>
@@ -111,7 +111,6 @@ require_once __DIR__ . '/includes/header.php';
                         <form method="POST" class="flex gap-2 items-center">
                             <input type="hidden" name="action" value="update">
                             <input type="hidden" name="id" value="<?php echo $cat['id']; ?>">
-                            <input type="text" name="icon" x-model="icon" class="border rounded p-2 w-1/3" placeholder="Icon Class (fa-...)">
                             <input type="text" name="name" x-model="name" class="border rounded p-2 w-full" placeholder="Nama Kategori">
                             <button type="submit" class="bg-olive-leaf text-white p-2 rounded"><i class="fas fa-save"></i></button>
                             <button type="button" @click="editing = false" class="bg-gray-300 text-gray-700 p-2 rounded"><i class="fas fa-times"></i></button>
@@ -129,14 +128,10 @@ require_once __DIR__ . '/includes/header.php';
     <h2 class="text-xl font-bold mb-4">Tambah Kategori Baru</h2>
     <form method="POST">
         <input type="hidden" name="action" value="create">
-        <div class="mb-4">
+        <div class="mb-6">
             <label class="block text-sm font-medium text-gray-700 mb-1">Nama Kategori</label>
             <input type="text" name="name" required class="w-full border rounded p-2">
-        </div>
-        <div class="mb-6">
-            <label class="block text-sm font-medium text-gray-700 mb-1">Icon Class (FontAwesome)</label>
-            <input type="text" name="icon" placeholder="fas fa-folder" class="w-full border rounded p-2">
-            <p class="text-xs text-gray-500 mt-1">Contoh: fas fa-leaf, fas fa-tools</p>
+            <p class="text-xs text-gray-500 mt-1">Icon akan ditetapkan otomatis sesuai nama kategori.</p>
         </div>
         <div class="flex justify-end gap-2">
             <button type="button" onclick="document.getElementById('createModal').close()" class="bg-gray-200 px-4 py-2 rounded">Batal</button>

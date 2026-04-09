@@ -10,6 +10,9 @@
     <!-- PWA Manifest -->
     <link rel="manifest" href="<?php echo BASE_URL; ?>/manifest.json">
     <link rel="apple-touch-icon" href="<?php echo BASE_URL; ?>/assets/images/icon-192.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="<?php echo BASE_URL; ?>/assets/images/icon-192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="<?php echo BASE_URL; ?>/assets/images/icon-512.png">
+    <link rel="shortcut icon" href="<?php echo BASE_URL; ?>/favicon.ico" type="image/x-icon">
 
     <!-- Tailwind CSS (Compiled) -->
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>/assets/css/style.css">

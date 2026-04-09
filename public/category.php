@@ -84,11 +84,11 @@ require_once __DIR__ . '/../includes/header.php';
         <!-- List All Categories -->
         <div class="grid grid-cols-2 gap-4">
             <?php foreach($categories as $cat): ?>
-            <a href="category.php?id=<?php echo $cat['id']; ?>" class="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition text-center border border-gray-100 flex flex-col items-center">
-                <div class="w-16 h-16 bg-green-50 rounded-full flex items-center justify-center text-primary text-2xl mb-3">
-                    <i class="<?php echo $cat['icon_class'] ?? 'fas fa-folder'; ?>"></i>
+            <a href="category.php?id=<?php echo $cat['id']; ?>" class="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition text-center border border-gray-100 flex flex-col items-center group">
+                <div class="w-16 h-16 bg-cornsilk rounded-2xl flex items-center justify-center text-primary text-2xl mb-3 border border-gray-100 group-hover:border-primary group-hover:bg-white transition-all duration-300 p-2">
+                    <img src="<?php echo getCategoryIcon($cat['name']); ?>" class="w-full h-full object-contain filter group-hover:brightness-110 transition" alt="<?php echo $cat['name']; ?>">
                 </div>
-                <h3 class="font-bold text-gray-700"><?php echo $cat['name']; ?></h3>
+                <h3 class="font-bold text-gray-700 text-sm group-hover:text-primary transition-colors"><?php echo $cat['name']; ?></h3>
             </a>
             <?php endforeach; ?>
         </div>

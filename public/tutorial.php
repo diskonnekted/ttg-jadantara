@@ -125,8 +125,8 @@ require_once __DIR__ . '/../includes/header.php';
         <?php endif; ?>
 
         <!-- Description -->
-        <div class="mb-8 text-gray-700 leading-relaxed">
-            <p><?php echo nl2br($tutorial['description']); ?></p>
+        <div class="mb-8 text-gray-700 leading-relaxed prose prose-sm max-w-none">
+            <?php echo renderContent($tutorial['description']); ?>
         </div>
 
         <!-- PDF Download -->
@@ -148,6 +148,7 @@ require_once __DIR__ . '/../includes/header.php';
             <h3 class="font-bold text-blue-800 mb-4 flex items-center">
                 <i class="fas fa-tools mr-2"></i> Alat & Bahan
             </h3>
+            <?php if(!empty($materials)): ?>
             <ul class="space-y-3">
                 <?php foreach($materials as $mat): ?>
                 <li class="flex items-start gap-3 text-sm text-gray-700 border-b border-blue-100 pb-2 last:border-0 last:pb-0">
@@ -163,6 +164,12 @@ require_once __DIR__ . '/../includes/header.php';
                 </li>
                 <?php endforeach; ?>
             </ul>
+            <?php else: ?>
+            <div class="flex items-center gap-3 text-sm text-gray-500">
+                <i class="fas fa-info-circle text-blue-400"></i>
+                <span>Tutorial ini bersifat informasi umum. Tidak memerlukan alat atau bahan khusus.</span>
+            </div>
+            <?php endif; ?>
         </div>
 
         <!-- Steps -->
@@ -195,9 +202,9 @@ require_once __DIR__ . '/../includes/header.php';
                     </div>
                     <?php endif; ?>
 
-                    <p class="text-gray-600 text-sm mb-4 leading-relaxed">
-                        <?php echo nl2br($step['content']); ?>
-                    </p>
+                    <div class="text-gray-600 text-sm mb-4 leading-relaxed">
+                        <?php echo renderContent($step['content']); ?>
+                    </div>
 
                     <button @click="toggleStep(<?php echo $step['id']; ?>)" 
                             class="w-full py-2 rounded-lg text-sm font-semibold transition flex items-center justify-center gap-2"
