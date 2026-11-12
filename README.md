@@ -1,6 +1,6 @@
-# TTG Pondokrejo
+# TTG Jadantara
 
-Platform tutorial digital "Teknologi Tepat Guna" untuk Kelurahan Pondokrejo, Sleman, Yogyakarta. Aplikasi ini dirancang sebagai Progressive Web App (PWA) yang ringan, cepat, dan mobile-first untuk memudahkan akses informasi bagi warga desa.
+Platform tutorial digital "Teknologi Tepat Guna" untuk Desa Sijenggung, Banjarnegara, Jawa Tengah. Aplikasi ini dirancang sebagai Progressive Web App (PWA) yang ringan, cepat, dan mobile-first untuk memudahkan akses informasi bagi warga desa.
 
 ## Fitur Utama
 
@@ -23,12 +23,14 @@ Platform tutorial digital "Teknologi Tepat Guna" untuk Kelurahan Pondokrejo, Sle
 
 ```
 /
-├── database/            # File database & skema
+├── database/            # File database & skema (db lokal tidak ikut repo)
+├── docs/                # Dokumentasi (API.md)
 ├── includes/            # Logic PHP reusable (koneksi DB, fungsi helper)
 ├── public/              # Web root (file yang dapat diakses publik)
 │   ├── admin/           # Halaman dashboard admin
 │   ├── assets/          # File statis (CSS, JS, Gambar, Icon)
 │   ├── uploads/         # File gambar tutorial yang diupload
+│   ├── api/             # REST API read-only (docs: docs/API.md)
 │   └── index.php        # Halaman utama
 └── src/                 # Source file untuk development (Tailwind CSS)
 ```
@@ -37,8 +39,8 @@ Platform tutorial digital "Teknologi Tepat Guna" untuk Kelurahan Pondokrejo, Sle
 
 1.  **Clone Repository**
     ```bash
-    git clone https://github.com/diskonnekted/TTG-Pondokrejo.git
-    cd TTG-Pondokrejo
+    git clone https://github.com/diskonnekted/ttg-jadantara.git
+    cd ttg-jadantara
     ```
 
 2.  **Jalankan Server PHP**
@@ -79,4 +81,8 @@ Dengan menggunakan PostgreSQL, semua data (tutorial, kategori, user) akan tersim
 
 ## Lisensi
 
-Proyek ini dibuat untuk kepentingan masyarakat Kelurahan Pondokrejo dan bersifat Open Source.
+Proyek ini dibuat untuk kepentingan masyarakat Desa Sijenggung, Banjarnegara dan bersifat Open Source.
+
+## REST API
+
+API publik read-only tersedia di `/api/` — dokumentasi lengkap ada di [`docs/API.md`](docs/API.md).

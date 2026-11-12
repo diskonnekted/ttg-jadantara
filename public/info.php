@@ -9,9 +9,9 @@ require_once __DIR__ . '/../includes/header.php';
     <div class="bg-gradient-to-br from-primary to-primary-dark text-white px-6 pt-8 pb-12 rounded-b-3xl">
         <div class="text-center">
             <div class="w-20 h-20 bg-white/20 backdrop-blur rounded-full flex items-center justify-center mx-auto mb-4">
-                <img src="<?php echo BASE_URL; ?>/assets/images/logo.png" class="w-12 h-12" alt="Logo TTG">
+                <img src="<?php echo BASE_URL; ?>/assets/images/logo.png" class="h-12 w-auto" alt="Logo TTG">
             </div>
-            <h1 class="text-2xl font-bold mb-2">TTG Pondokrejo</h1>
+            <h1 class="text-2xl font-bold mb-2">TTG Sijenggung</h1>
             <p class="text-white/80 text-sm">Pusat Informasi Teknologi Tepat Guna</p>
         </div>
     </div>
@@ -26,7 +26,7 @@ require_once __DIR__ . '/../includes/header.php';
             <ul class="space-y-3 text-sm text-gray-600">
                 <li class="flex items-start gap-3">
                     <i class="fas fa-check-circle text-primary mt-0.5 flex-shrink-0"></i>
-                    <span>Akses mudah ke <strong>teknologi tepat guna</strong> untuk pertanian, peternakan, dan pengolahan air di Pondokrejo</span>
+                    <span>Akses mudah ke <strong>teknologi tepat guna</strong> untuk pertanian, peternakan, dan pengolahan air di Desa Sijenggung</span>
                 </li>
                 <li class="flex items-start gap-3">
                     <i class="fas fa-check-circle text-primary mt-0.5 flex-shrink-0"></i>
@@ -90,10 +90,10 @@ require_once __DIR__ . '/../includes/header.php';
                 <i class="fas fa-building text-primary"></i> Tentang Aplikasi
             </h2>
             <p class="text-sm text-gray-600 leading-relaxed mb-4">
-                Aplikasi TTG Pondokrejo dibangun sebagai media transfer pengetahuan teknologi tepat guna untuk masyarakat Kalurahan Pondokrejo, Sleman, Yogyakarta.
+                Aplikasi TTG Sijenggung dibangun sebagai media transfer pengetahuan teknologi tepat guna untuk masyarakat Desa Sijenggung, Banjarnegara, Jawa Tengah.
             </p>
             <p class="text-sm text-gray-600 leading-relaxed">
-                Dikembangkan oleh <strong>Clasnet Group</strong> sebagai mitra transformasi digital Kalurahan Pondokrejo.
+                Dikembangkan oleh <strong>Clasnet Group</strong> sebagai mitra transformasi digital Desa Sijenggung.
             </p>
         </div>
 

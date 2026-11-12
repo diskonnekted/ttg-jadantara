@@ -1,11 +1,11 @@
 {
-  "name": "TTG Pondokrejo",
-  "short_name": "TTG Pondokrejo",
+  "name": "TTG Sijenggung",
+  "short_name": "TTG Sijenggung",
   "start_url": "/index.php",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#10B981",
-  "description": "Tutorial Teknologi Tepat Guna untuk Masyarakat Pondokrejo",
+  "description": "Tutorial Teknologi Tepat Guna untuk Masyarakat Desa Sijenggung",
   "orientation": "portrait",
   "scope": "/",
   "icons": [

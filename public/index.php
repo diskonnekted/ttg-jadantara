@@ -27,9 +27,9 @@ require_once __DIR__ . '/../includes/header.php';
         <div class="flex items-center justify-between mb-5">
             <div>
                 <p class="text-white/70 text-xs">Selamat Datang di</p>
-                <h1 class="text-xl font-bold">TTG Pondokrejo</h1>
+                <h1 class="text-xl font-bold">TTG Sijenggung</h1>
             </div>
-            <img src="<?php echo BASE_URL; ?>/assets/images/logo.png" class="w-10 h-10 opacity-90" alt="">
+            <img src="<?php echo BASE_URL; ?>/assets/images/logo.png" class="h-11 w-auto opacity-90" alt="">
         </div>
         <form action="search.php" method="GET" class="relative">
             <i class="fas fa-search absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 text-sm"></i>

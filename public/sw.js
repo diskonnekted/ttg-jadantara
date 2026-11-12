@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ttg-pondokrejo-v3'; // Bumped version to bust cache
+const CACHE_NAME = 'ttg-sijenggung-v2'; // Bumped version to bust cache
 const urlsToCache = [
   '/',
   '/index.php',

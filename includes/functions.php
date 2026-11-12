@@ -53,9 +53,17 @@ function cleanContent($content) {
     return trim(implode("\n\n", $clean));
 }
 
-function renderContent($content) {
+define('IMAGE_PDF_PLACEHOLDER', '[[GAMBAR_DI_PDF]]');
+
+function renderContent($content, $pdfPath = null) {
     $content = cleanContent($content);
     if (!$content) return '';
+
+    // 0. Mark image positions before stripping tags: they become a caption
+    //    pointing the reader to the tutorial's PDF file.
+    $content = preg_replace('/<img[^>]*>/i', "\n" . IMAGE_PDF_PLACEHOLDER . "\n", $content);
+    // Isolate the placeholder so it always becomes its own paragraph
+    $content = str_replace(IMAGE_PDF_PLACEHOLDER, "\n\n" . IMAGE_PDF_PLACEHOLDER . "\n\n", $content);
 
     // 1. Remove all existing HTML tags to start fresh (prevents broken tags like <li> without <ul>)
     // We keep line breaks to preserve structure
@@ -80,6 +88,16 @@ function renderContent($content) {
     
     foreach ($paragraphs as $p) {
         $p = trim($p);
+        if ($p === IMAGE_PDF_PLACEHOLDER) {
+            if (!empty($pdfPath)) {
+                $url = htmlspecialchars(BASE_URL . $pdfPath, ENT_QUOTES, 'UTF-8');
+                $html .= '<a href="' . $url . '" target="_blank" class="inline-flex items-center gap-2 px-4 py-2 bg-red-50 hover:bg-red-100 text-red-700 border border-red-200 rounded-lg text-sm font-semibold transition"><i class="fas fa-file-pdf"></i>Lihat gambar di file PDF</a>';
+            } else {
+                $html .= '<div class="my-4 text-xs text-gray-500 italic px-4 py-2 bg-gray-50 border border-gray-200 rounded-lg">Lihat gambar di file PDF — PDF belum tersedia</div>';
+            }
+            continue;
+        }
+
         if ($p === '') continue;
         
         // Escape HTML for safety

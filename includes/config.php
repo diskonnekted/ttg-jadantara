@@ -2,9 +2,9 @@
 // includes/config.php
 
 // Define constants
-define('DB_PATH', __DIR__ . '/../database/ttg_pondokrejo.db');
+define('DB_PATH', __DIR__ . '/../database/ttg_sijenggung.db');
 define('BASE_URL', getenv('BASE_URL') ?: ''); 
-define('SITE_NAME', getenv('SITE_NAME') ?: 'TTG Pondokrejo');
+define('SITE_NAME', getenv('SITE_NAME') ?: 'TTG Sijenggung');
 
 // Error reporting (Turn off for production if desired)
 if (getenv('VERCEL')) {

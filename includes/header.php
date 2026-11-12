@@ -11,7 +11,7 @@ header("Expires: 0");
     <!-- Meta Tags -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="description" content="Tutorial Teknologi Tepat Guna untuk Masyarakat Pondokrejo">
+    <meta name="description" content="Tutorial Teknologi Tepat Guna untuk Masyarakat Desa Sijenggung">
     <meta name="theme-color" content="#10b981">
     
     <!-- Disable Aggressive Caching -->
@@ -21,9 +21,9 @@ header("Expires: 0");
     
     <title><?php echo isset($pageTitle) ? $pageTitle . ' - ' : ''; ?><?php echo SITE_NAME; ?></title>
     <link rel="manifest" href="<?php echo BASE_URL; ?>/manifest.json">
-    <link rel="apple-touch-icon" href="<?php echo BASE_URL; ?>/assets/images/logo.png">
-    <link rel="icon" type="image/png" href="<?php echo BASE_URL; ?>/assets/images/logo.png">
-    <link rel="shortcut icon" href="<?php echo BASE_URL; ?>/assets/images/logo.png" type="image/png">
+    <link rel="apple-touch-icon" href="<?php echo BASE_URL; ?>/assets/images/icon-192.png">
+    <link rel="icon" type="image/png" href="<?php echo BASE_URL; ?>/favicon.ico">
+    <link rel="shortcut icon" href="<?php echo BASE_URL; ?>/favicon.ico" type="image/x-icon">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -57,8 +57,8 @@ header("Expires: 0");
 <nav class="bg-white shadow-sm sticky top-0 z-50">
     <div class="max-w-lg mx-auto px-4 py-3 flex justify-between items-center">
         <a href="<?php echo BASE_URL; ?>/index.php" class="flex items-center gap-2.5">
-            <img src="<?php echo BASE_URL; ?>/assets/images/logo.png" class="w-8 h-8" alt="Logo">
-            <span class="text-base font-bold text-primary">TTG Pondokrejo</span>
+            <img src="<?php echo BASE_URL; ?>/assets/images/logo.png" class="h-9 w-auto" alt="Logo">
+            <span class="text-base font-bold text-primary">TTG Sijenggung</span>
         </a>
         <div class="flex gap-3">
              <a href="<?php echo BASE_URL; ?>/search.php" class="text-gray-400 hover:text-primary transition"><i class="fas fa-search text-lg"></i></a>

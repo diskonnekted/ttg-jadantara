@@ -90,7 +90,7 @@ require_once __DIR__ . '/../includes/header.php';
             <h2 class="text-lg font-bold text-gray-900 mt-6 mb-3"><?php echo htmlspecialchars($step['title']); ?></h2>
             <?php endif; ?>
             <?php if(!empty($step['content'])): ?>
-            <div class="mb-4"><?php echo renderContent($step['content']); ?></div>
+            <div class="mb-4"><?php echo renderContent($step['content'], $tutorial['pdf_path'] ?? null); ?></div>
             <?php endif; ?>
             <?php endforeach; ?>
         </div>
